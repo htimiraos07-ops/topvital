@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TopViral — Rankings que arrasan en internet</title>
+<meta name="description" content="Los rankings más virales de fútbol, entretenimiento y tendencias. Actualizados con IA cada día.">
+<meta property="og:title" content="TopViral — Rankings que arrasan">
+<meta property="og:description" content="Los rankings más votados y comentados del momento.">
+<meta property="og:type" content="website">
+
+<!-- Google AdSense — reemplaza con tu Publisher ID -->
+<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script> -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Barlow+Condensed:wght@700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav">
+  <a href="index.html" class="logo">TOP<span>VIRAL</span></a>
+  <div class="nav-links">
+    <a href="#" data-cat="futbol" class="nav-link active">⚽ Fútbol</a>
+    <a href="#" data-cat="entretenimiento" class="nav-link">🎬 Entretenimiento</a>
+    <a href="#" data-cat="tecnologia" class="nav-link">🤖 Tecnología</a>
+    <a href="#" data-cat="viral" class="nav-link">🔥 Viral</a>
+  </div>
+  <button class="gen-btn" id="generateBtn">
+    <span class="btn-icon">✨</span> Generar ranking IA
+  </button>
+  <button class="menu-toggle" id="menuToggle">☰</button>
+</nav>
+
+<!-- MOBILE MENU -->
+<div class="mobile-menu" id="mobileMenu">
+  <a href="#" data-cat="futbol" class="nav-link">⚽ Fútbol</a>
+  <a href="#" data-cat="entretenimiento" class="nav-link">🎬 Entretenimiento</a>
+  <a href="#" data-cat="tecnologia" class="nav-link">🤖 Tecnología</a>
+  <a href="#" data-cat="viral" class="nav-link">🔥 Viral</a>
+  <button class="gen-btn" style="width:100%;margin-top:12px" id="generateBtnMobile">✨ Generar ranking IA</button>
+</div>
+
+<!-- HERO TICKER -->
+<div class="ticker-wrap">
+  <div class="ticker-inner" id="ticker">
+    <span>🔥 Real Madrid lidera el ranking de clubes más valiosos &nbsp;·&nbsp;</span>
+    <span>📺 Top 10 series más vistas de la semana &nbsp;·&nbsp;</span>
+    <span>⚽ Mbappé encabeza el ranking de goleadores 2026 &nbsp;·&nbsp;</span>
+    <span>🤖 ChatGPT sigue siendo la IA más usada del mundo &nbsp;·&nbsp;</span>
+    <span>🎬 Deadpool 3 arrasa en el ranking de taquilla &nbsp;·&nbsp;</span>
+  </div>
+</div>
+
+<!-- ADSENSE BANNER TOP -->
+<div class="ad-container ad-top">
+  <div class="ad-label">Publicidad</div>
+  <!-- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXX" data-ad-slot="XXXX" data-ad-format="auto"></ins> -->
+  <div class="ad-placeholder">Banner 728×90 — Google AdSense</div>
+</div>
+
+<!-- MAIN LAYOUT -->
+<main class="layout">
+  <section class="feed" id="feed">
+
+    <!-- HERO CARD (primer ranking destacado) -->
+    <div class="card card-hero" id="heroCard">
+      <div class="card-eyebrow">
+        <span class="badge badge-fire">🔥 #1 Trending hoy</span>
+        <span class="badge badge-cat">⚽ Fútbol</span>
+        <span class="ai-tag">✨ Generado con IA</span>
+      </div>
+      <h2 class="card-title">Los 10 jugadores más caros de la historia del fútbol</h2>
+      <p class="card-desc">El mercado de fichajes no para de batir récords. Aquí el ranking definitivo de los traspasos más millonarios de todos los tiempos.</p>
+      <div class="ranking" id="heroRanking">
+        <div class="rank-item" data-pos="1">
+          <div class="rank-num gold">1</div>
+          <div class="rank-body">
+            <div class="rank-name">Neymar Jr. <span class="rank-from">→ PSG</span></div>
+            <div class="rank-meta">222M € · 2017</div>
+          </div>
+          <div class="rank-bar-wrap"><div class="rank-bar" style="width:100%"></div></div>
+          <div class="rank-amount">222M€</div>
+        </div>
+        <div class="rank-item" data-pos="2">
+          <div class="rank-num silver">2</div>
+          <div class="rank-body">
+            <div class="rank-name">Kylian Mbappé <span class="rank-from">→ Real Madrid</span></div>
+            <div class="rank-meta">180M € · 2024</div>
+          </div>
+          <div class="rank-bar-wrap"><div class="rank-bar" style="width:81%"></div></div>
+          <div class="rank-amount">180M€</div>
+        </div>
+        <div class="rank-item" data-pos="3">
+          <div class="rank-num bronze">3</div>
+          <div class="rank-body">
+            <div class="rank-name">Philippe Coutinho <span class="rank-from">→ Barcelona</span></div>
+            <div class="rank-meta">160M € · 2018</div>
+          </div>
+          <div class="rank-bar-wrap"><div class="rank-bar" style="width:72%"></div></div>
+          <div class="rank-amount">160M€</div>
+        </div>
+        <div class="rank-item" data-pos="4">
+          <div class="rank-num">4</div>
+          <div class="rank-body">
+            <div class="rank-name">João Félix <span class="rank-from">→ Atlético Madrid</span></div>
+            <div class="rank-meta">126M € · 2019</div>
+          </div>
+          <div class="rank-bar-wrap"><div class="rank-bar" style="width:57%"></div></div>
+          <div class="rank-amount">126M€</div>
+        </div>
+        <div class="rank-item" data-pos="5">
+          <div class="rank-num">5</div>
+          <div class="rank-body">
+            <div class="rank-name">Enzo Fernández <span class="rank-from">→ Chelsea</span></div>
+            <div class="rank-meta">121M € · 2023</div>
+          </div>
+          <div class="rank-bar-wrap"><div class="rank-bar" style="width:54%"></div></div>
+          <div class="rank-amount">121M€</div>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="card-stats">
+          <span>👁 82.4k vistas</span>
+          <span>💬 341 comentarios</span>
+          <span>⏱ Hace 3h</span>
+        </div>
+        <div class="card-actions">
+          <button class="btn-like" onclick="toggleLike(this)">❤️ <span>5.2k</span></button>
+          <button class="btn-share" onclick="shareCard(this)">📤 Compartir</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ADSENSE IN-FEED -->
+    <div class="ad-container ad-infeed">
+      <div class="ad-label">Publicidad</div>
+      <!-- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXXX" data-ad-slot="XXXX" data-ad-format="fluid" data-ad-layout-key="-fb+5w+4e-db+86"></ins> -->
+      <div class="ad-placeholder">Anuncio nativo in-feed — Mayor CTR</div>
+    </div>
+
+    <!-- GRID DE CARDS SECUNDARIAS -->
+    <div class="cards-grid" id="cardsGrid">
+
+      <div class="card card-compact">
+        <div class="card-eyebrow">
+          <span class="badge badge-cat">🎬 Entretenimiento</span>
+          <span class="ai-tag">✨ IA</span>
+        </div>
+        <h3 class="card-title">Top 7 series que todos ven esta semana</h3>
+        <div class="ranking compact">
+          <div class="rank-item"><div class="rank-num gold">1</div><div class="rank-body"><div class="rank-name">The Last of Us S3</div><div class="rank-meta">HBO Max · Drama</div></div></div>
+          <div class="rank-item"><div class="rank-num silver">2</div><div class="rank-body"><div class="rank-name">Stranger Things 5</div><div class="rank-meta">Netflix · Sci-fi</div></div></div>
+          <div class="rank-item"><div class="rank-num bronze">3</div><div class="rank-body"><div class="rank-name">House of the Dragon S3</div><div class="rank-meta">HBO · Fantasía</div></div></div>
+          <div class="rank-item"><div class="rank-num">4</div><div class="rank-body"><div class="rank-name">Squid Game S3</div><div class="rank-meta">Netflix · Thriller</div></div></div>
+          <div class="rank-item"><div class="rank-num">5</div><div class="rank-body"><div class="rank-name">The Bear S4</div><div class="rank-meta">Hulu · Drama</div></div></div>
+        </div>
+        <div class="card-footer small">
+          <span>👁 29.1k</span>
+          <button class="btn-like small" onclick="toggleLike(this)">❤️ <span>1.8k</span></button>
+        </div>
+      </div>
+
+      <div class="card card-compact">
+        <div class="card-eyebrow">
+          <span class="badge badge-tech">🤖 Tecnología</span>
+          <span class="ai-tag">✨ IA</span>
+        </div>
+        <h3 class="card-title">Las 5 IAs más potentes ahora mismo</h3>
+        <div class="ranking compact">
+          <div class="rank-item"><div class="rank-num gold">1</div><div class="rank-body"><div class="rank-name">Claude 4 Opus</div><div class="rank-meta">Anthropic · Razonamiento</div></div></div>
+          <div class="rank-item"><div class="rank-num silver">2</div><div class="rank-body"><div class="rank-name">GPT-4o</div><div class="rank-meta">OpenAI · Multimodal</div></div></div>
+          <div class="rank-item"><div class="rank-num bronze">3</div><div class="rank-body"><div class="rank-name">Gemini Ultra 2</div><div class="rank-meta">Google · General</div></div></div>
+          <div class="rank-item"><div class="rank-num">4</div><div class="rank-body"><div class="rank-name">Llama 4</div><div class="rank-meta">Meta · Open source</div></div></div>
+          <div class="rank-item"><div class="rank-num">5</div><div class="rank-body"><div class="rank-name">Grok 3</div><div class="rank-meta">xAI · Velocidad</div></div></div>
+        </div>
+        <div class="card-footer small">
+          <span>👁 44.7k</span>
+          <button class="btn-like small" onclick="toggleLike(this)">❤️ <span>3.1k</span></button>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ADSENSE IN-FEED 2 -->
+    <div class="ad-container ad-infeed">
+      <div class="ad-label">Publicidad</div>
+      <div class="ad-placeholder">Anuncio in-feed 2 — Google AdSense</div>
+    </div>
+
+    <!-- CARD VOTACIÓN INTERACTIVA -->
+    <div class="card card-vote" id="voteCard">
+      <div class="card-eyebrow">
+        <span class="badge badge-vote">🗳 Votación en vivo</span>
+        <span class="badge badge-cat">⚽ Fútbol</span>
+      </div>
+      <h2 class="card-title">¿Quién es el mejor jugador de la historia?</h2>
+      <p class="card-desc">Más de 48.000 fans ya han votado. ¿Estás de acuerdo con el resultado?</p>
+      <div class="vote-options" id="voteOptions">
+        <button class="vote-btn" data-votes="41200" onclick="castVote(this)">
+          <span class="vote-name">🐐 Lionel Messi</span>
+          <div class="vote-bar-wrap"><div class="vote-bar" style="width:61%"></div></div>
+          <span class="vote-pct">61%</span>
+        </button>
+        <button class="vote-btn" data-votes="19800" onclick="castVote(this)">
+          <span class="vote-name">👑 Cristiano Ronaldo</span>
+          <div class="vote-bar-wrap"><div class="vote-bar" style="width:29%"></div></div>
+          <span class="vote-pct">29%</span>
+        </button>
+        <button class="vote-btn" data-votes="5100" onclick="castVote(this)">
+          <span class="vote-name">🦶 Ronaldo Nazário</span>
+          <div class="vote-bar-wrap"><div class="vote-bar" style="width:8%"></div></div>
+          <span class="vote-pct">8%</span>
+        </button>
+        <button class="vote-btn" data-votes="2000" onclick="castVote(this)">
+          <span class="vote-name">🎩 Zinedine Zidane</span>
+          <div class="vote-bar-wrap"><div class="vote-bar" style="width:3%"></div></div>
+          <span class="vote-pct">3%</span>
+        </button>
+      </div>
+      <div class="vote-total" id="voteTotalText">68,100 votos · Actualizado en tiempo real</div>
+      <div class="card-footer">
+        <div class="card-stats"><span>👁 91.3k vistas</span></div>
+        <button class="btn-share" onclick="shareCard(this)">📤 Compartir</button>
+      </div>
+    </div>
+
+    <!-- CARDS GRID 2 -->
+    <div class="cards-grid" id="cardsGrid2">
+      <div class="card card-compact">
+        <div class="card-eyebrow">
+          <span class="badge badge-fire">🔥 Viral</span>
+          <span class="ai-tag">✨ IA</span>
+        </div>
+        <h3 class="card-title">Top 10 países más felices del mundo 2026</h3>
+        <div class="ranking compact">
+          <div class="rank-item"><div class="rank-num gold">1</div><div class="rank-body"><div class="rank-name">Finlandia</div><div class="rank-meta">Score: 7.88 · Europa</div></div></div>
+          <div class="rank-item"><div class="rank-num silver">2</div><div class="rank-body"><div class="rank-name">Dinamarca</div><div class="rank-meta">Score: 7.72 · Europa</div></div></div>
+          <div class="rank-item"><div class="rank-num bronze">3</div><div class="rank-body"><div class="rank-name">Islandia</div><div class="rank-meta">Score: 7.68 · Europa</div></div></div>
+          <div class="rank-item"><div class="rank-num">4</div><div class="rank-body"><div class="rank-name">Suecia</div><div class="rank-meta">Score: 7.51</div></div></div>
+          <div class="rank-item"><div class="rank-num">5</div><div class="rank-body"><div class="rank-name">Israel</div><div class="rank-meta">Score: 7.34</div></div></div>
+        </div>
+        <div class="card-footer small">
+          <span>👁 38.2k</span>
+          <button class="btn-like small" onclick="toggleLike(this)">❤️ <span>2.4k</span></button>
+        </div>
+      </div>
+
+      <div class="card card-compact">
+        <div class="card-eyebrow">
+          <span class="badge badge-cat">⚽ Fútbol</span>
+          <span class="ai-tag">✨ IA</span>
+        </div>
+        <h3 class="card-title">Ligas de fútbol más seguidas del mundo</h3>
+        <div class="ranking compact">
+          <div class="rank-item"><div class="rank-num gold">1</div><div class="rank-body"><div class="rank-name">Premier League</div><div class="rank-meta">Inglaterra · 4.7B fans</div></div></div>
+          <div class="rank-item"><div class="rank-num silver">2</div><div class="rank-body"><div class="rank-name">La Liga</div><div class="rank-meta">España · 2.9B fans</div></div></div>
+          <div class="rank-item"><div class="rank-num bronze">3</div><div class="rank-body"><div class="rank-name">Serie A</div><div class="rank-meta">Italia · 1.8B fans</div></div></div>
+          <div class="rank-item"><div class="rank-num">4</div><div class="rank-body"><div class="rank-name">Bundesliga</div><div class="rank-meta">Alemania · 1.4B fans</div></div></div>
+          <div class="rank-item"><div class="rank-num">5</div><div class="rank-body"><div class="rank-name">Ligue 1</div><div class="rank-meta">Francia · 820M fans</div></div></div>
+        </div>
+        <div class="card-footer small">
+          <span>👁 51.9k</span>
+          <button class="btn-like small" onclick="toggleLike(this)">❤️ <span>4.0k</span></button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ADSENSE IN-FEED 3 -->
+    <div class="ad-container ad-infeed">
+      <div class="ad-label">Publicidad</div>
+      <div class="ad-placeholder">Anuncio in-feed 3 — Google AdSense</div>
+    </div>
+
+    <!-- GENERADOR IA -->
+    <div class="card card-generator" id="aiGenerator">
+      <div class="card-eyebrow">
+        <span class="badge badge-ai">✨ Generador IA</span>
+      </div>
+      <h2 class="card-title">Crea tu propio ranking con IA</h2>
+      <p class="card-desc">Escribe cualquier tema y la IA generará un ranking viral en segundos.</p>
+      <div class="generator-form">
+        <input type="text" id="aiTopic" placeholder="Ej: mejores delanteros de los 90, películas de terror, ciudades para vivir..." class="ai-input" maxlength="120">
+        <div class="gen-options">
+          <select id="aiCategory" class="ai-select">
+            <option value="futbol">⚽ Fútbol</option>
+            <option value="entretenimiento">🎬 Entretenimiento</option>
+            <option value="tecnologia">🤖 Tecnología</option>
+            <option value="viral">🔥 Viral / Curiosidades</option>
+          </select>
+          <select id="aiCount" class="ai-select">
+            <option value="5">Top 5</option>
+            <option value="10" selected>Top 10</option>
+            <option value="7">Top 7</option>
+          </select>
+        </div>
+        <button class="btn-generate" id="btnGenerate" onclick="generateRanking()">
+          ✨ Generar ranking ahora
+        </button>
+      </div>
+      <div id="generatorResult" class="generator-result hidden"></div>
+    </div>
+
+  </section>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+
+    <!-- TRENDING -->
+    <div class="widget">
+      <h3 class="widget-title">🔥 Más vistos hoy</h3>
+      <div class="trend-list">
+        <div class="trend-item"><span class="trend-num hot">1</span><a href="#" class="trend-text">Top 10 traspasos más caros de la historia</a></div>
+        <div class="trend-item"><span class="trend-num hot">2</span><a href="#" class="trend-text">Mejores porteros de todos los tiempos</a></div>
+        <div class="trend-item"><span class="trend-num">3</span><a href="#" class="trend-text">Series que no puedes perderte este mes</a></div>
+        <div class="trend-item"><span class="trend-num">4</span><a href="#" class="trend-text">Ranking IAs más usadas 2026</a></div>
+        <div class="trend-item"><span class="trend-num">5</span><a href="#" class="trend-text">Top 5 goles Champions esta temporada</a></div>
+        <div class="trend-item"><span class="trend-num">6</span><a href="#" class="trend-text">Países más ricos del mundo 2026</a></div>
+        <div class="trend-item"><span class="trend-num">7</span><a href="#" class="trend-text">Los 10 videojuegos más vendidos ever</a></div>
+      </div>
+    </div>
+
+    <!-- ADSENSE SIDEBAR -->
+    <div class="ad-container ad-sidebar">
+      <div class="ad-label">Publicidad</div>
+      <!-- <ins class="adsbygoogle" style="display:block" data-ad-slot="XXXX" data-ad-format="auto"></ins> -->
+      <div class="ad-placeholder" style="min-height:250px">Anuncio lateral<br>300×250<br>AdSense</div>
+    </div>
+
+    <!-- CATEGORÍAS -->
+    <div class="widget">
+      <h3 class="widget-title">📂 Categorías</h3>
+      <div class="cat-grid">
+        <a href="#" class="cat-pill" data-cat="futbol">⚽ Fútbol</a>
+        <a href="#" class="cat-pill" data-cat="entretenimiento">🎬 Series</a>
+        <a href="#" class="cat-pill" data-cat="tecnologia">🤖 Tecnología</a>
+        <a href="#" class="cat-pill" data-cat="viral">🔥 Viral</a>
+        <a href="#" class="cat-pill">🌍 Mundo</a>
+        <a href="#" class="cat-pill">🎵 Música</a>
+        <a href="#" class="cat-pill">🎮 Gaming</a>
+        <a href="#" class="cat-pill">💰 Dinero</a>
+      </div>
+    </div>
+
+    <!-- NEWSLETTER -->
+    <div class="widget widget-newsletter">
+      <h3 class="widget-title">📩 Rankings cada semana</h3>
+      <p class="widget-desc">Los rankings más virales directo a tu correo. Sin spam.</p>
+      <form class="newsletter-form" onsubmit="subscribeNewsletter(event)">
+        <input type="email" placeholder="tu@email.com" class="nl-input" required>
+        <button type="submit" class="btn-newsletter">Suscribirme gratis</button>
+      </form>
+      <p class="nl-social">📱 Síguenos: <a href="#">Instagram</a> · <a href="#">TikTok</a> · <a href="#">X</a></p>
+    </div>
+
+    <!-- ADSENSE SIDEBAR 2 -->
+    <div class="ad-container ad-sidebar">
+      <div class="ad-label">Publicidad</div>
+      <div class="ad-placeholder" style="min-height:600px">Anuncio lateral grande<br>300×600<br>AdSense<br>(Half page — CPM premium)</div>
+    </div>
+
+  </aside>
+</main>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-logo">TOP<span>VIRAL</span></div>
+    <div class="footer-links">
+      <a href="sobre-nosotros.html">Sobre nosotros</a>
+      <a href="privacidad.html">Política de privacidad</a>
+      <a href="contacto.html">Contacto</a>
+      <a href="cookies.html">Cookies</a>
+    </div>
+    <p class="footer-copy">© 2026 TopViral · Rankings generados con IA · Todos los derechos reservados</p>
+  </div>
+</footer>
+
+<!-- TOAST NOTIFICATION -->
+<div class="toast" id="toast"></div>
+
+<!-- MODAL COMPARTIR -->
+<div class="modal-overlay" id="modalOverlay" onclick="closeModal()">
+  <div class="modal" onclick="event.stopPropagation()">
+    <h3>Compartir ranking</h3>
+    <p>Comparte este ranking con tus amigos</p>
+    <div class="share-grid">
+      <button onclick="shareWhatsApp()">💬 WhatsApp</button>
+      <button onclick="shareTwitter()">🐦 X (Twitter)</button>
+      <button onclick="shareTelegram()">✈️ Telegram</button>
+      <button onclick="copyLink()">🔗 Copiar enlace</button>
+    </div>
+    <button class="modal-close" onclick="closeModal()">Cerrar</button>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
