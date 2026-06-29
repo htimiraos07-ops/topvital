@@ -24,7 +24,7 @@ jobs:
       - name: Generar contenido del Mundial
         env:
           GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
-        run: node scripts/generar-mundial.js
+        run: node $GITHUB_WORKSPACE/scripts/generar-mundial.js
 
       - name: Publicar cambios en GitHub
         run: |
