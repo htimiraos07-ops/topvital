@@ -79,7 +79,7 @@ Responde ÚNICAMENTE con JSON válido, sin texto adicional, sin markdown, sin ba
 
   return new Promise((resolve, reject) => {
     const body = JSON.stringify({
-      model: model: 'openrouter/free',
+      model: 'openrouter/free',
       messages: [{ role: 'user', content: promptCompleto }],
       temperature: 0.9
     });
