@@ -9,7 +9,7 @@
 const CONFIG = {
   // ⚠️ Reemplaza con tu API key de Anthropic
   // En producción, usa un backend (Node/Python) para no exponer la key
-  API_KEY: 'YOUR_API_KEY',
+  API_KEY: 'AQ.Ab8RN6LtVjY0NL5mAwWxqmKUc9IqdFcEyWnKgbZkg5qlxlXN4A',
   MODEL: 'claude-sonnet-4-20250514',
   MAX_TOKENS: 1000,
 };
