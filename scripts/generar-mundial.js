@@ -79,7 +79,7 @@ Responde ÚNICAMENTE con JSON válido, sin texto adicional, sin markdown, sin ba
 
   return new Promise((resolve, reject) => {
     const body = JSON.stringify({
-      model: 'google/gemini-2.0-flash-exp:free',
+      model: model: 'openrouter/free',
       messages: [{ role: 'user', content: promptCompleto }],
       temperature: 0.9
     });
