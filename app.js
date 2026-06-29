@@ -10,7 +10,7 @@
 const CONFIG = {
   // ⚠️ Reemplaza con tu API key de OpenRouter (gratis)
   API_KEY: 'YOUR_OPENROUTER_KEY',
-  MODEL: 'google/gemini-2.0-flash-exp:free',  // Modelo gratis
+  MODEL: MODEL: 'openrouter/free',  // Modelo gratis
 };
 
 // ===== GENERADOR IA =====
