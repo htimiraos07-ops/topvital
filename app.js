@@ -1,17 +1,16 @@
 // ===== TOPVIRAL — APP.JS =====
-// Lógica principal + integración con API de Claude para generación de rankings IA
+// Lógica principal + integración con OpenRouter (GRATIS, sin tarjeta)
 // ============================================================
 // CONFIGURACIÓN — IMPORTANTE:
-// Reemplaza YOUR_API_KEY con tu clave de la API de Anthropic
-// Obtén una en: https://console.anthropic.com
+// 1. Ve a https://openrouter.ai y crea cuenta (gratis)
+// 2. Ve a Keys → Create Key → copia la clave (empieza por sk-or-)
+// 3. Pégala abajo reemplazando YOUR_OPENROUTER_KEY
 // ============================================================
 
 const CONFIG = {
-  // ⚠️ Reemplaza con tu API key de Anthropic
-  // En producción, usa un backend (Node/Python) para no exponer la key
-  API_KEY: 'AQ.Ab8RN6LtVjY0NL5mAwWxqmKUc9IqdFcEyWnKgbZkg5qlxlXN4A',
-  MODEL: 'claude-sonnet-4-20250514',
-  MAX_TOKENS: 1000,
+  // ⚠️ Reemplaza con tu API key de OpenRouter (gratis)
+  API_KEY: 'YOUR_OPENROUTER_KEY',
+  MODEL: 'google/gemini-2.0-flash-exp:free',  // Modelo gratis
 };
 
 // ===== GENERADOR IA =====
@@ -67,18 +66,17 @@ Haz el título llamativo, que genere curiosidad y ganas de hacer clic.
 Incluye datos reales o estimaciones plausibles en las descripciones.`;
 
   try {
-    const response = await fetch('https://api.anthropic.com/v1/messages', {
+    // Llamada a OpenRouter (gratis)
+    const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': CONFIG.API_KEY,
-        'anthropic-version': '2023-06-01',
-        'anthropic-dangerous-direct-browser-access': 'true',
+        'Authorization': `Bearer ${CONFIG.API_KEY}`
       },
       body: JSON.stringify({
         model: CONFIG.MODEL,
-        max_tokens: CONFIG.MAX_TOKENS,
-        messages: [{ role: 'user', content: prompt }]
+        messages: [{ role: 'user', content: prompt }],
+        temperature: 0.8
       })
     });
 
@@ -88,7 +86,7 @@ Incluye datos reales o estimaciones plausibles en las descripciones.`;
     }
 
     const data = await response.json();
-    const rawText = data.content[0].text;
+    const rawText = data.choices?.[0]?.message?.content;
 
     // Limpiar posibles backticks o prefijos
     const clean = rawText.replace(/```json|```/g, '').trim();
@@ -101,7 +99,7 @@ Incluye datos reales o estimaciones plausibles en las descripciones.`;
     console.error('Error generando ranking:', error);
 
     // Si no hay API key configurada, mostrar demo
-    if (CONFIG.API_KEY === 'YOUR_API_KEY') {
+    if (CONFIG.API_KEY === 'YOUR_OPENROUTER_KEY') {
       renderDemoRanking(topic, count);
     } else {
       result.innerHTML = `
