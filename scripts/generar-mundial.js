@@ -6,12 +6,12 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const GEMINI_KEY = process.env.GEMINI_KEY;
+const API_KEY = process.env.OPENROUTER_KEY;
 const HOY = new Date().toLocaleDateString('es-ES', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 const HOY_SLUG = new Date().toISOString().slice(0, 10);
 
-if (!GEMINI_KEY) {
-  console.error('❌ Falta GEMINI_KEY en los secrets de GitHub');
+if (!API_KEY) {
+  console.error('❌ Falta OPENROUTER_KEY en los secrets de GitHub');
   process.exit(1);
 }
 
@@ -79,19 +79,18 @@ Responde ÚNICAMENTE con JSON válido, sin texto adicional, sin markdown, sin ba
 
   return new Promise((resolve, reject) => {
     const body = JSON.stringify({
-      contents: [{ parts: [{ text: promptCompleto }] }],
-      generationConfig: { temperature: 0.9, maxOutputTokens: 1500 }
+      model: 'google/gemini-2.0-flash-exp:free',
+      messages: [{ role: 'user', content: promptCompleto }],
+      temperature: 0.9
     });
 
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${GEMINI_KEY}`;
-    const urlObj = new URL(url);
-
     const options = {
-      hostname: urlObj.hostname,
-      path: urlObj.pathname + urlObj.search,
+      hostname: 'openrouter.ai',
+      path: '/api/v1/chat/completions',
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
+        'Authorization': 'Bearer ' + API_KEY,
         'Content-Length': Buffer.byteLength(body)
       }
     };
@@ -102,11 +101,11 @@ Responde ÚNICAMENTE con JSON válido, sin texto adicional, sin markdown, sin ba
       res.on('end', () => {
         try {
           const json = JSON.parse(data);
-          const texto = json.candidates?.[0]?.content?.parts?.[0]?.text || '';
+          const texto = json.choices?.[0]?.message?.content || '';
           const clean = texto.replace(/```json|```/g, '').trim();
           resolve(JSON.parse(clean));
         } catch (e) {
-          reject(new Error('Error parseando respuesta de Gemini: ' + data.slice(0, 200)));
+          reject(new Error('Error parseando respuesta: ' + data.slice(0, 300)));
         }
       });
     });
