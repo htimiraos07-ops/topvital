@@ -1,0 +1,57 @@
+{
+  "titulo": "🌟 ¡El top goleador del Mundial 2026 está aquí!",
+  "subtitulo": "Descubre quién lidera la tabla de goleadores en un mundial épico",
+  "fecha": "lunes, 29 de junio de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Erling Haaland",
+      "detalle": "10 goles",
+      "descripcion": "Youngest to reach 10 in a World Cup, record-breaking performance."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Kylian Mbappé",
+      "detalle": "8 goles",
+      "descripcion": "Scored first goal at 17, fastest debut scorer in modern era."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Harry Kane",
+      "detalle": "7 goles",
+      "descripcion": "Only England player with >5 goals in a World Cup, veteran striker."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Bruno Fernandes",
+      "detalle": "6 goles",
+      "descripcion": "Midfielder netting 6, first Portuguese midfielder to do so in a World Cup."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Neymar",
+      "detalle": "5 goles",
+      "descripcion": "Brazil's prolific forward, first to score 5 without playing in the same year."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Mo Salah",
+      "detalle": "5 goles",
+      "descripcion": "Only African to score 5+ in a single World Cup, unforgettable strike."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Edin Džeko",
+      "detalle": "4 goles",
+      "descripcion": "Veteran striker, netting 4 with a stunning header, history in the books."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Adama Traoré",
+      "detalle": "4 goles",
+      "descripcion": "Spanish winger, fastest goal record for Spain, added pace to attack."
+    }
+  ],
+  "dato_extra": "¡No te pierdas el gol con el que Haaland anotó su décimo, en el minuto 92!"
+}
