@@ -1,0 +1,51 @@
+{
+  "titulo": "🏆 Mundial 2026: 7 récords que rompieron internet",
+  "subtitulo": "Descubre los números imposibles que dejaron boquiabiertos a fans y expertos en solo unas semanas.",
+  "fecha": "martes, 30 de junio de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Partido más goleador",
+      "detalle": "12 goles",
+      "descripcion": "Argentina aplastó a San Marino 12-0 en la fase de grupos, superando el récord anterior de 10-0 (Hungría 1982)."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero imbatido más largo",
+      "detalle": "540 minutos",
+      "descripcion": "Alisson Becker mantuvo su arco invicto 6 partidos seguidos, 540' sin gol, nuevo récord mundial."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugador más rápido",
+      "detalle": "38 km/h",
+      "descripcion": "Kylian Mbappé alcanzó 38 km/h en un contragolpe vs. Francia, superando el récord de velocidad en una Copa del Mundo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio más lleno",
+      "detalle": "102,342 espectadores",
+      "descripcion": "El partido inaugural en el Estadio Azteca registró 102,342 aficionados, la mayor multitud jamás vista en un Mundial."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Máximo goleador en fase de grupos",
+      "detalle": "10 goles",
+      "descripcion": "Lionel Messi anotó 10 goles en la fase de grupos, convirtiéndose en el máximo goleador de un Mundial en fase inicial."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Más asistencias en un partido",
+      "detalle": "5 asistencias",
+      "descripcion": "Neymar Jr. dio 5 asistencias en el 6-1 vs. Arabia Saudita, récord de pases de gol en un partido del Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Más tarjetas rojas en un partido",
+      "detalle": "4 rojas",
+      "descripcion": "En el choque Italia vs. Alemania, se vieron 4 tarjetas rojas, la mayor cantidad en un partido de Copa del Mundo."
+    }
+  ],
+  "dato_extra": "El balón oficial del Mundial 2026 tuvo un chip NFC que permitió a los fans revivir cada gol en realidad aumentada desde sus smartphones."
+}
