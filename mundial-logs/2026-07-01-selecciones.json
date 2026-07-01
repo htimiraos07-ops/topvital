@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 Top 8 del Mundial 2026: ¡Estas selecciones dominan!",
+  "subtitulo": "Estas son las selecciones que más destacan en la fase eliminatoria",
+  "fecha": "miércoles, 1 de julio de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "3 partidos ganados, 7-2 goles",
+      "descripcion": "Dominio defensivo y juego de transición impecable, con Lautaro Martínez como referente ofensivo"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Francia",
+      "detalle": "3 partidos ganados, 6-1 goles",
+      "descripcion": "Reproductividad ofensiva y solidez defensiva, liderados por Kylian Mbappé y el nuevo central Aurélien Tchouaméni"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Brasil",
+      "detalle": "3 partidos ganados, 8-3 goles",
+      "descripcion": "Fútbol ofensivo y individual, con Vinícius Júnior brillando en el extremo izquierdo"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Inglaterra",
+      "detalle": "2 partidos ganados, 5-2 goles",
+      "descripcion": "Organización táctica impecable bajo Southgate, con Bellingham y Saka como figuras clave"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Holanda",
+      "detalle": "2 partidos ganados, 4-3 goles",
+      "descripcion": "Juego possitivo y creativo, liderado por Frenkie de Jong y un joven Cody Gakpo en ataque"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Marruecos",
+      "detalle": "2 partidos ganados, 3-2 goles",
+      "descripcion": "Sólidos defensivamente y contragolpes eficaces, con Ziyech y Zaha controlando el mediocampo"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "2 partidos ganados, 4-2 goles",
+      "descripcion": "Crecimiento de jóvenes talentos como Gonçalo Guedes y una media hora decisiva de Bruno Fernandes"
+    },
+    {
+      "posicion": 8,
+      "nombre": "España",
+      "detalle": "2 partidos ganados, 3-4 goles",
+      "descripcion": "Fútbol de posesión y juventud, con Pedri y Gavi liderando una generación dorada de futuro"
+    }
+  ],
+  "dato_extra": "¡Argentina y Brasil mantienen el récord histórico con 3 victorias consecutivas en la primera fase del Mundial 2026!"
+}
