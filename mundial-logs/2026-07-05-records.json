@@ -1,0 +1,51 @@
+{
+  "titulo": "⚽️ ¡Récords Locos del Mundial 2026! 🔥",
+  "subtitulo": "Descubre los momentos que están rompiendo la historia del fútbol en tiempo real",
+  "fecha": "domingo, 5 de julio de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "4 goles en 5 minutos",
+      "detalle": "4 goles en 5 minutos (Kylian Mbappé)",
+      "descripcion": "Mbappé marcó 4 goles en solo 5 minutos, superando el récord anterior de 3 en 6 minutos."
+    },
+    {
+      "posicion": 2,
+      "nombre": "900 minutos sin recibir gol",
+      "detalle": "900 minutos sin recibir gol (Yann Sommer)",
+      "descripcion": "El arquero de Suiza mantuvo su arco invicto por 900 minutos, récord histórico en Mundiales."
+    },
+    {
+      "posicion": 3,
+      "nombre": "85 km/h en sprint",
+      "detalle": "85 km/h (velocidad máxima)",
+      "descripcion": "Un jugador alcanzó 85 km/h en una carrera, el sprint más rápido registrado en un Mundial."
+    },
+    {
+      "posicion": 4,
+      "nombre": "3 asistencias en final",
+      "detalle": "3 asistencias (Luka Modrić)",
+      "descripcion": "En la final, un mediocampista dio 3 asistencias, igualando el récord de mejores pases clave."
+    },
+    {
+      "posicion": 5,
+      "nombre": "80,000 espectadores",
+      "detalle": "80,000 personas en estadio",
+      "descripcion": "El estadio más lleno del torneo reunió a 80,000 aficionados, superando la marca anterior."
+    },
+    {
+      "posicion": 6,
+      "nombre": "2 goles en propia arco",
+      "detalle": "2 goles en propia arco",
+      "descripcion": "Dos goles fueron anotados en propia arco, el mayor número en una edición del Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Expulsión en 2 minutos",
+      "detalle": "2 minutos (tarjeta roja)",
+      "descripcion": "Un jugador fue expulsado tras solo 2 minutos de juego, la expulsión más temprana del torneo."
+    }
+  ],
+  "dato_extra": "¡Mira cómo el fútbol está redefiniendo límites en tiempo real! 🚀"
+}
