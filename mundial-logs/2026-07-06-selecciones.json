@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 TOP 8 Mundial 2026: ¿Quién domina?",
+  "subtitulo": "Las selecciones que arrasan en cuartos de final",
+  "fecha": "lunes, 6 de julio de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "5V, 12 GF / 2 GC",
+      "descripcion": "Messi orquesta una máquina perfecta: presión alta, transiciones letales y solidez defensiva."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Francia",
+      "detalle": "5V, 14 GF / 3 GC",
+      "descripcion": "Mbappé y Dembélé desatan velocidad pura; defensa impenetrable con Saliba y Upamecano."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Brasil",
+      "detalle": "4V 1E, 11 GF / 4 GC",
+      "descripcion": "Vinícius y Rodrygo brillan en bandas; Casemiro ancla un mediocampo equilibrado."
+    },
+    {
+      "posicion": 4,
+      "nombre": "España",
+      "detalle": "4V 1E, 10 GF / 2 GC",
+      "descripcion": "Tiki-taka evolucionado: posesión asfixiante y finalización clínica de Yamal y Morata."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Alemania",
+      "detalle": "4V 1E, 13 GF / 5 GC",
+      "descripcion": "Wirtz y Musiala dirigen caos ofensivo; Füllkrug aporta gol y juego aéreo."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Inglaterra",
+      "detalle": "4V 1E, 11 GF / 3 GC",
+      "descripcion": "Bellingham llega desde segunda línea; Kane define y Rice controla el tempo."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "4V 1E, 12 GF / 4 GC",
+      "descripcion": "Leão y Félix explotan espacios; Bernardo Silva hilvana juego entre líneas."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Países Bajos",
+      "detalle": "3V 2E, 9 GF / 4 GC",
+      "descripcion": "Gakpo y Simons generan peligro; Van Dijk comanda defensa hermética en bloque bajo."
+    }
+  ],
+  "dato_extra": "Argentina y Francia, finalistas en 2022, solo se pueden cruzar en la final: ¡ruta de colisión soñada!"
+}
