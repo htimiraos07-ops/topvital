@@ -1,0 +1,39 @@
+{
+  "titulo": "⚡️TOP 5 GOLAZOS 2026: ¡LOS MOMENTOS QUE EMOCIONARON!",
+  "subtitulo": "¿Te lo perdiste? Revive los goles que dejaron sin aliento a todo el planeta.",
+  "fecha": "miércoles, 8 de julio de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol en el minuto 112",
+      "detalle": "Minuto 112",
+      "descripcion": "Disparo desde fuera del área al minuto 112, gol de esquina superior que encendió la grada"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada milagrosa de Muslera",
+      "detalle": "90% efectividad",
+      "descripcion": "Voló el balón a 110 km/h en el minuto 87, evitando el empate"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugada colectiva 8-0",
+      "detalle": "8-0 marcador",
+      "descripcion": "8 pases seguidos, remate potente abrió el 8-0, dejó sin aliento"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Gol de falta de 30 m",
+      "detalle": "30 metros de distancia",
+      "descripcion": "Falta de 30 metros en el minuto 92, balón curvo al ángulo superior, gol de la victoria"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Penal salvado en tiempo extra",
+      "detalle": "120' tiempo añadido",
+      "descripcion": "En los penales, el arquero detuvo el disparo decisivo del favorito, enviándolo a la tanda"
+    }
+  ],
+  "dato_extra": "El total de goles en la fase de grupos fue 112, la cifra más alta desde 1998."
+}
