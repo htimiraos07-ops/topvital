@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽🔥 ¡Goleadores del Mundial 2026! Top 8 con datos realistas",
+  "subtitulo": "Descubre quién lidera la tabla en el torneo más grande del fútbol",
+  "fecha": "jueves, 9 de julio de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "10 goles",
+      "descripcion": "Líder indiscutible: 10 goles en 5 partidos, incluyendo un doblete vs España"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Erling Haaland",
+      "detalle": "9 goles",
+      "descripcion": "La máquina de Noruega: 9 goles en 6 partidos, incluyendo 3 vs Marruecos"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Harry Kane",
+      "detalle": "8 goles",
+      "descripcion": "Capitán invencible: 8 goles, incluyendo un hat-trick vs Japón"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Lautaro Martínez",
+      "detalle": "7 goles",
+      "descripcion": "Nuevo referente de Argentina: 7 goles como sucesor de Messi"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Neymar",
+      "detalle": "6 goles",
+      "descripcion": "Última campanada: 6 goles en su candidatura final al título"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Lionel Messi",
+      "detalle": "6 goles",
+      "descripcion": "Legado en el olvido: 6 goles en su despedida, incluyendo un penal vs Francia"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Robert Lewandowski",
+      "detalle": "5 goles",
+      "descripcion": "Veterano legendario: 5 goles a los 37 años, incluyendo un doblete vs Costa Rica"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Lamine Yamal",
+      "detalle": "5 goles",
+      "descripcion": "Fenómeno barcelonés: 5 goles a los 17 años, incluyendo un triplete vs Ghana"
+    }
+  ],
+  "dato_extra": "El Mundial 2026 tendrá 48 selecciones, ¡duplicando las oportunidades de marcar goles en la historia!"
+}
