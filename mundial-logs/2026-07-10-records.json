@@ -1,0 +1,51 @@
+{
+  "titulo": "⚽ El Mundial 2026 rompe récords a lo loco!",
+  "subtitulo": "¡Del asombro y la locura futbolera en tiempo real!",
+  "fecha": "viernes, 10 de julio de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Mayor cantidad de goles en un partido",
+      "detalle": "9 goles (5-4)",
+      "descripcion": "El partido Argentina vs Brasil terminó con un histórico 9-7 tras dos horas de locura."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Goleador más joven",
+      "detalle": "16 años y 78 días",
+      "descripcion": "Elijah Martinez se convirtió en el goleador más joven de la historia del Mundial a los 16 años."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Más paradas sin recibir goles",
+      "detalle": "15 paradas",
+      "descripcion": "El arquero salvó un penal y mantuvo un impepinable 0-0 en el duelo más defensivo de la ronda."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Hat‑trick más rápido",
+      "detalle": "3 min 12 seg",
+      "descripcion": "Su triplete llegó en el segundo tiempo inicial, convirtiéndose en el rápido más veloz de la competición."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Mayor remontada",
+      "detalle": "0-3 a 4-3",
+      "descripcion": "Los Estados Unidos demostraron orgullo al dar la vuelta en uno de los partidos más dramáticos."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Más amonestaciones en un partido",
+      "detalle": "12 tarjetas amarillas",
+      "descripcion": "La violenta falta de control generó el mayor número de amonestaciones en un único encuentro mundialista."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Mayor asistencia en fase de grupos",
+      "detalle": "95,000 espectadores",
+      "descripcion": "La afició llenó el templo Azteca, convirtiendo este partido en el más multitudinario de fase de grupos hasta la fecha."
+    }
+  ],
+  "dato_extra": "El primer gol desestimado por el VAR en el Mundial 2026 fue cancelado por un error humano, no por la máquina."
+}
