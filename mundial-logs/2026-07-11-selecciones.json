@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽ Top 8 Teams Dominating the 2026 World Cup",
+  "subtitulo": "Surprising stats and unexpected contenders shaking up the knockout race",
+  "fecha": "Saturday, July 11, 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "5W-1D, GF 14, GA 5",
+      "descripcion": "Messi’s vision and Haaland’s firepower combine for unstoppable attack."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Brasil",
+      "detalle": "6W, GF 18, GA 6",
+      "descripcion": "Neymar’s trickery and a lethal defense keep them firing on all cylinders."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Francia",
+      "detalle": "5W-1L, GF 13, GA 8",
+      "descripcion": "Young talent and veteran composure drive Les Bleus forward."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Alemania",
+      "detalle": "4W-2D, GF 11, GA 7",
+      "descripcion": "A balanced squad with lethal set‑pieces and defensive solidity."
+    },
+    {
+      "posicion": 5,
+      "nombre": "España",
+      "detalle": "5W-1D, GF 10, GA 6",
+      "descripcion": "Tiki‑takas revival and sharp forwards keep Spain in contention."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Inglaterra",
+      "detalle": "4W-2D, GF 9, GA 8",
+      "descripcion": "A rugged defense and pace on the break propel the Three Lions."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Países Bajos",
+      "detalle": "5W-1L, GF 12, GA 5",
+      "descripcion": "Frenkie’s vision and Dutch press create endless chances."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Portugal",
+      "detalle": "3W-3D, GF 11, GA 7",
+      "descripcion": "Ronaldo’s experience and young stars spark Portugal’s late surge."
+    }
+  ],
+  "dato_extra": "Brasil is the only team to score over 3 goals in every match so far."
+}
