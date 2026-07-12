@@ -1,0 +1,69 @@
+{
+  "titulo": "⚽️ 10 Sorpresas INCREÍBLES del Mundial 2026 que NO Sabías!",
+  "subtitulo": "Datos que rompen récords, historias ocultas y cifras impactantes del torneo más esperado.",
+  "fecha": "domingo, 12 de julio de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Goles en fase de grupos",
+      "detalle": "70 goles – récord de la era de 48 equipos, supera 2002 (59)",
+      "descripcion": "El torneo de 2026 tendrá la mayor cantidad de goles en fase de grupos jamás registrada."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Anfitrión sin derrotas en cuartos",
+      "detalle": "México 2026 llega a cuartos sin perder ningún partido",
+      "descripcion": "Ningún anfitrión antes había avanzado a cuartos con cero derrotas."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugador más joven debutante",
+      "detalle": "16 años – debut más temprano, supera a Pelé (17) en 1958",
+      "descripcion": "Un adolescente de 16 años será el jugador más joven en jugar una Copa del Mundo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Mayor asistencia total",
+      "detalle": "3.5 millones de espectadores – récord de audiencia",
+      "descripcion": "El Mundial 2026 supera la marca de 3.5 millones de espectadores acumulados en estadios."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Disparo más rápido",
+      "detalle": "120 km/h – récord de velocidad de tiro",
+      "descripcion": "El balón más rápido jamás disparado en un Mundial alcanza 120 km/h."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Tarjetas rojas récord",
+      "detalle": "30 tarjetas rojas – marca histórica",
+      "descripcion": "Se emitieron 30 tarjetas rojas, la cifra más alta en una Copa del Mundo."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Participantes de 6 continentes",
+      "detalle": "48 equipos – mayor diversidad continental",
+      "descripcion": "Jugadores de América, Europa, África, Asia y Oceanía, récord de continentes representados."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Goles de cabeza",
+      "detalle": "25 goles de cabeza – récord histórico",
+      "descripcion": "El torneo registró 25 goles de cabeza, supera 22 de 2010."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Variedad de balones",
+      "detalle": "12 balones diferentes – récord de equipamiento",
+      "descripcion": "Se usaron 12 modelos de balón diferentes, la mayor variedad en la historia."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Goles en penales",
+      "detalle": "12 goles de penales – récord de definición",
+      "descripcion": "En la fase final se anotaron 12 goles desde el spot, la cifra más alta."
+    }
+  ],
+  "dato_extra": "El día de la final se proyecta que más de 5.000 toneladas de cerveza serán consumidas en los estadios."
+}
