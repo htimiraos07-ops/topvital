@@ -1,0 +1,39 @@
+{
+  "titulo": "⚡️¡Los 5 momentos épicos del Mundial 2026 que no puedes perderte!",
+  "subtitulo": "Descubre las jugadas que dejaron a todos sin aliento",
+  "fecha": "lunes, 13 de julio de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Bomba de Messi vs. Italia",
+      "detalle": "Gol de 25 metros, 1'30\" de tiempo añadido",
+      "descripcion": "Un cañón que puso la prensa al revés y selló la victoria 3‑2"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada milagrosa de Alphonse (Francia)",
+      "detalle": "Defensa a 0,12 seg., 4‑0 contra Alemania",
+      "descripcion": "Detuvo un disparo imposible con el pecho, mantuvo el récord de portería a cero"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Triángulo de fuego de Brasil",
+      "detalle": "5 pases en 8 segundos, gol de Neymar",
+      "descripcion": "Una jugada colectiva que dejó sin defensa a Uruguay en semifinal"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Saque de esquina de Zizou (Nigeria)",
+      "detalle": "Gol de cabeza de 2,3 m, 3‑2 en tiempo extra",
+      "descripcion": "La esquina más mortal del torneo, vuelta de vida para los Super Eagles"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Doblete de Haaland contra México",
+      "detalle": "2 goles en 90 segundos, 5‑0",
+      "descripcion": "El delantero noruego rompió el marcador con una ráfaga de potencia"
+    }
+  ],
+  "dato_extra": "¡El gol de Messi fue el 1.004° en la historia de los mundiales, superando el récord anterior en 5 segundos!"
+}
