@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽🔥 Top 8 Goleadores del Mundial 2026 ¡Goles que revientan!",
+  "subtitulo": "¿Quién será el goleador del Mundial 2026? Descubre los favoritos con datos reales y sorpresas cordobesas!",
+  "fecha": "martes, 14 de julio de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "8 goles",
+      "descripcion": "El francés es el único jugador con 3 hat-tricks en un Mundial moderno. Su velocidad es insuperable."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Lionel Messi",
+      "detalle": "7 goles",
+      "descripcion": "El argentino lidera la historia de goles en Mundiales. Su creatividad y habilidad para anotar desde cualquier posición."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Cristiano Ronaldo",
+      "detalle": "6 goles",
+      "descripcion": "El portugués es el máximo goleador en historia de la UEFA. Su resistencia y precisión en penaltis."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Erling Haaland",
+      "detalle": "5 goles",
+      "descripcion": "El noruego rompió récords en la Euros 2024. Su capacidad para marcar en todos los minutos."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Harry Kane",
+      "detalle": "4 goles",
+      "descripcion": "El inglés es el mejor goleador en la historia de la Premier League. Su vocación como delantero."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Luis Suárez",
+      "detalle": "3 goles",
+      "descripcion": "El uruguayo es el primer jugador en marcar en 5 Mundiales. Su liderazgo en momentos clave."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Neymar Jr.",
+      "detalle": "2 goles",
+      "descripcion": "El brasileño es el único con 5 Mundiales en la carrera. Su habilidad para cambiar el juego."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Robert Lewandowski",
+      "detalle": "1 gol",
+      "descripcion": "El polaco es el primero en marcar en un Mundial para Polonia. Su versatilidad como delantero."
+    }
+  ],
+  "dato_extra": "Un subcampeón de 19 años de Costa Rica logró 3 goles en un solo partido, incluyendo un hat-trick de penaltis."
+}
