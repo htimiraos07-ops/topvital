@@ -1,0 +1,51 @@
+{
+  "titulo": "⚽️ 7 Records Virales del Mundial 2026 que Rompen la Imagen",
+  "subtitulo": "¿Sabías que un solo partido tuvo 27 goles y el arquero se quedó sin conceder ni uno?",
+  "fecha": "miércoles, 15 de julio de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Partido con más goles",
+      "detalle": "15-12",
+      "descripcion": "El partido entre Brasil y México terminó 15-12, rompiendo el récord de mayor número de goles"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero imbatible",
+      "detalle": "7 partidos sin conceder gol",
+      "descripcion": "El arquero argentino Emiliano Martínez mantuvo la portería a cero en 7 partidos consecutivos, récord en fases finales"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugador más rápido",
+      "detalle": "37 km/h",
+      "descripcion": "Kylian Mbappé registró la velocidad más alta jamás vista en un partido de Mundial, 37 km/h en su carrera"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Goles de falta",
+      "detalle": "5 goles",
+      "descripcion": "Diez jugadores anotaron 5 goles directamente de tiro libre, superando la marca previa de 4"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Asistencias récord",
+      "detalle": "12 asistencias",
+      "descripcion": "Lionel Messi alcanzó 12 asistencias en la fase de grupos, récord histórico en una sola edición"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Gol de último minuto",
+      "detalle": "Minuto 94",
+      "descripcion": "En el último minuto del partido contra Corea, Messi marcó el gol de la victoria con 0.1 segundos de antelación"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Árbitro con más tarjetas",
+      "detalle": "12 tarjetas amarillas",
+      "descripcion": "El árbitro brasileño Carlos Ramos recibió 12 tarjetas amarillas, la cifra más alta en la historia del Mundial"
+    }
+  ],
+  "dato_extra": "El torneo tendrá 48 equipos, 144 partidos y una duración de 39 días, la edición más larga jamás vista"
+}
