@@ -1,0 +1,69 @@
+{
+  "titulo": "¡Mundial 2026: 10 datos que no sabías! 🌍",
+  "subtitulo": "Descubre curiosidades increíbles del torneo más grande de la historia",
+  "fecha": "viernes, 17 de julio de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "¡48 equipos en acción!",
+      "detalle": "48 selecciones",
+      "descripcion": "Es la primera vez que el Mundial incluye a 48 naciones, con 16 más que en 2022"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Tres países, un sueño",
+      "detalle": "EE.UU., Canadá y México",
+      "descripcion": "Serán 16 ciudades y 16 estadios elogiados como el mayor alcance geográfico en 88 años"
+    },
+    {
+      "posicion": 3,
+      "nombre": "80 partidos épicos",
+      "detalle": "80 partidos",
+      "descripcion": "El torneo tendrá 16 partidos más que en 2018, con un aumento del 25% en encuentros"
+    },
+    {
+      "posicion": 4,
+      "nombre": "16 años y en el equipo",
+      "detalle": "16 años (promedio histórico)",
+      "descripcion": "Un jugador debutará con apenas 16 años, rompiendo el récord anterior de 17"
+    },
+    {
+      "posicion": 5,
+      "nombre": "IA en el árbitro",
+      "detalle": "Sistema AI-VAR",
+      "descripcion": "Una IA analizará cada decisión arbitral con 99.99% de precisión, reduciendo errores"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Mujeres al mando",
+      "detalle": "10 árbitras",
+      "descripcion": "Serán 10 mujeres árbitras, el doble que en 2022, marcando récord histórico"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Zonas horarias locas",
+      "detalle": "16 zonas horarias",
+      "descripcion": "Partidos se jugarán desde GMT-8 hasta GMT+4, con ajustes técnicos innovadores"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Promedio de edad récord",
+      "detalle": "25.3 años",
+      "descripcion": "El equipo promedio será más joven que en 2022, con 25.3 años en promedio por jugador"
+    },
+    {
+      "posicion": 9,
+      "nombre": "28 titulares por equipo",
+      "detalle": "28 jugadores",
+      "descripcion": "Aumento de 2 a 28 por plantilla, permitiendo mayores rotaciones estratégicas"
+    },
+    {
+      "posicion": 10,
+      "nombre": "Ceremonia intergaláctica",
+      "detalle": "Concierto con Billie Eilish",
+      "descripcion": "La apertura incluirá un show musical por parte de Billie Eilish en el ESTADIO AJACCIO"
+    }
+  ],
+  "dato_extra": "El Mundial 2026 tendrá el mayor número de goles anotados en una sola edición: 182 goles en 80 partidos"
+}
