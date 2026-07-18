@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ ¡Los Goles que Rompieron el Mundo! #Mundial2026",
+  "subtitulo": "Revive los golazos y paradas que dejaron al mundo sin aliento",
+  "fecha": "sábado, 18 de julio de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol de la Final: Messi vs Francia",
+      "detalle": "Gol decisivo en el minuto 23",
+      "descripcion": "Messi marcó el 1-0 con un disparo potente desde el borde del área, imposible de parar."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada de Szczesny: el bloqueo imposible",
+      "detalle": "Salvó un penal en el minuto 68",
+      "descripcion": "El portero polaco desvió el balón al poste con una extensión prodigiosa tras el penal."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugada colectiva: 5 toques en 10 seg",
+      "detalle": "Gol de Corea del Sur vs Brasil",
+      "descripcion": "Cinco pases rápidos culminaron en un gol de tacón, mostrando visión y velocidad surreal."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Gol de falta directa: Cristiano Ronaldo",
+      "detalle": "Marca el 2-1 en el minuto 77",
+      "descripcion": "Ronaldo disparó con curl perfecto, colándolo en el ángulo superior derecho del arco."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Remontada épica: Corea del Sur 3-2 Ghana",
+      "detalle": "Gol del victoria en el minuto 90+5",
+      "descripcion": "En los últimos segundos, un gol de cabeza selló una victoria inesperada, desatando euforia total."
+    }
+  ],
+  "dato_extra": "¿Sabías que el gol de falta de Ronaldo fue el primero en un Mundial con VAR activo?"
+}
