@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 TOP 8 GOLEADORES MUNDIAL 2026: ¡La carrera por la Bota de Oro!",
+  "subtitulo": "¿Quién levantará el trofeo de máximo goleador antes de la gran final?",
+  "fecha": "domingo, 19 de julio de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Julián Álvarez",
+      "detalle": "7 goles",
+      "descripcion": "Marcó hat-trick en octavos y semifinal, igualando a Batistuta en un Mundial."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Kylian Mbappé",
+      "detalle": "6 goles",
+      "descripcion": "A un gol de igualar a Fontaine (13) como máximo goleador histórico en Mundiales."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Harry Kane",
+      "detalle": "5 goles",
+      "descripcion": "Su gol de penalti ante Portugal en cuartos fue su 50º con la selección absoluta."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Vinícius Júnior",
+      "detalle": "5 goles",
+      "descripcion": "El brasileño más joven en marcar 5+ goles en un Mundial desde Ronaldo en 2002."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Lautaro Martínez",
+      "detalle": "4 goles",
+      "descripcion": "Forma dupla letal con Álvarez: 11 goles combinados en el torneo."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Rodrygo",
+      "detalle": "4 goles",
+      "descripcion": "Marcó el gol 1000 de Brasil en historia de Mundiales ante Colombia en octavos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Álvaro Morata",
+      "detalle": "4 goles",
+      "descripcion": "Primero en marcar en 4 Mundiales distintos con España (2014, 2018, 2022, 2026)."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Antoine Griezmann",
+      "detalle": "3 goles",
+      "descripcion": "Su asistencia a Mbappé en semis fue su 30ª participación de gol en Mundiales."
+    }
+  ],
+  "dato_extra": "¡Primera vez que dos argentinos (Álvarez y Lautaro) terminan en el Top 5 de goleadores en un mismo Mundial!"
+}
