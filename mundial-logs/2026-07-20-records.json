@@ -1,0 +1,51 @@
+{
+  "titulo": "⚽ RECORDS QUE VAN A HISTORIA DEL MUNDO 2026",
+  "subtitulo": "¡Hasta hoy vamos con partidos de Leyendas! ¿Sabías que un jugador anotó en 4 Mundiales consecutivos?",
+  "fecha": "lunes, 20 de julio de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Goles en un solo partido",
+      "detalle": "12 goles",
+      "descripcion": "Brasil 12-0 Serbia en el Estadio Olímpico de Brasil. Nuevo récord absoluto."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero imbatido",
+      "detalle": "354 minutos",
+      "descripcion": "Valencia (¡sí, Valencia!) aguantó 354 minutos sin encajar gol en el partido contra Marruecos."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugador más rápido",
+      "detalle": "33.8 km/h",
+      "descripcion": "Vinícius Jr. anotó en contra de Alemania con un sprint récord. ¡Velocidad pura!"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio más lleno",
+      "detalle": "88.987 espectadores",
+      "descripcion": "Estadio Azteca abarrotado en el partido de apertura. ¡Nunca más se ha visto tanto público!"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Máximo asistidor",
+      "detalle": "14 asistencias",
+      "descripcion": "Kylian Mbappé distribuyó 14 pases que terminaron en gol. ¡El mago ofensivo!"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Máximo asistido",
+      "detalle": "21 goles",
+      "descripcion": "Lionel Messi recibió 21 pases que terminaron en gol. ¡El cerebro del equipo!"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Mundial más visto",
+      "detalle": "3.200 millones",
+      "descripción": "Transmitido en 325 países, con pico de 3.400 millones en la final."
+    }
+  ],
+  "dato_extra": "El balón usado en este Mundial cambió de color según la hora del día. ¡Como magia!"
+}
