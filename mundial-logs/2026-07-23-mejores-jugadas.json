@@ -1,0 +1,39 @@
+{
+  "titulo": "🏆 TOP 5: Momentos ÉPICOS que definieron el Mundial 2026",
+  "subtitulo": "Del gol del siglo a la atajada imposible: revive la historia que acabamos de vivir",
+  "fecha": "jueves, 23 de julio de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "La 'Chilena del Destino' de Vinícius Jr. (Final vs Alemania)",
+      "detalle": "Min 112' | Gol de Oro",
+      "descripcion": "Con el 2-2 en la prórroga, Vini recibe de espaldas, se eleva en el área chica y clava una chilena imparable al ángulo. El MetLife enloqueció: Brasil tetracampeón con una obra de arte inmortal."
+    },
+    {
+      "posicion": 2,
+      "nombre": "La 'Remontada Fantasma' de España vs Francia (Cuartos)",
+      "detalle": "0-3 (60') → 4-3 (90+6')",
+      "descripcion": "Francia paseaba el triplete de Mbappé. Lamine Yamal (18 años) despertó a La Roja: golazo, asistencia, penalti provocado y pase de la muerte para el 4-3 de Oyarzabal en el descuento. Infarto puro."
+    },
+    {
+      "posicion": 3,
+      "nombre": "La 'Mano de Dios 2.0' de Dibu Martínez (Semis vs Portugal)",
+      "detalle": "Tanda de penaltis: 3/3 atajados",
+      "descripcion": "Cristiano, Bruno y Leão fallaron. Dibu bailó, habló, se hizo gigante y adivinó los tres lanzamientos. Argentina eliminó a Portugal sin recibir gol en 120 minutos. Leyenda viva bajo palos."
+    },
+    {
+      "posicion": 4,
+      "nombre": "El 'Gol Maradona' de Endrick vs Inglaterra (Octavos)",
+      "detalle": "67 metros, 11 segundos, 6 rivales",
+      "descripcion": "Recogió en su área, aceleró dejando a Rice, Bellingham y Walker en el suelo, regateó a Pickford y definió de rabona. El estadio enmudeció; luego aplaudió. La joya brasileña anunció su reinado."
+    },
+    {
+      "posicion": 5,
+      "nombre": "La 'Jugueta de 24 Toques' de Japón vs Croacia (Fase Grupos)",
+      "detalle": "Gol colectivo sin tocar el balón el rival",
+      "descripcion": "Un minuto de possession hipnótica: paredes de tacón, fintas, cambios de orientación. Kubo terminó en el área chica tras 24 pases sin que Croacia oliera el cuero. Fútbol como arte abstracto."
+    }
+  ],
+  "dato_extra": "Este Mundial rompió el récord de goles de cabeza (42) y fue el primero sin tarjetas rojas directas en fase de grupos. ¿Casualidad o evolución táctica?"
+}
