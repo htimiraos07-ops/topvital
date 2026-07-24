@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 ¡TOP 8 Goleadores: El Mundial 2026 está que arde!",
+  "subtitulo": "¿Quién domina la artillería en el Mundial de Norteamérica?",
+  "fecha": "viernes, 24 de julio de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "5 goles",
+      "description": "El astro francés lidera la tabla tras un doblete histórico en cuartos de final."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Erling Haaland",
+      "detalle": "4 goles",
+      "description": "La máquina de goles de Noruega sigue rompiendo récords en cada partido."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Julián Álvarez",
+      "detalle": "4 goles",
+      "description": "La joya argentina es el referente absoluto del ataque de la Albiceleste."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Vinícius Júnior",
+      "detalle": "3 goles",
+      "description": "El talento brasileño brilla con luz propia en las etapas de eliminación."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Lamine Yamal",
+      "detalle": "3 goles",
+      "description": "La joven estrella española sigue sorprendiendo al mundo con su efectividad."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Harry Kane",
+      "detalle": "3 goles",
+      "description": "El capitán inglés mantiene su instinto goleador en el torneo más grande."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Alphonso Davies",
+      "detalle": "2 goles",
+      "description": "El canadiense destaca con goles decisivos para su selección local."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Folarin Balogun",
+      "detalle": "2 goles",
+      "description": "El delantero de EE. UU. ha sido clave para la ilusión de la sede anfitriona."
+    }
+  ],
+  "dato_extra": "¡El nivel goleador es el más alto en la historia de las sedes norteamericanas hasta el momento! ⚽️"
+}
