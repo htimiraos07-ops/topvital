@@ -1,0 +1,51 @@
+{
+  "titulo": "🏆 MUNDIAL 2026: 7 RÉCORDS QUE ROMPEN LA HISTORIA",
+  "subtitulo": "Lo que pasó en EE.UU./México/Canadá cambia el fútbol para siempre 🤯",
+  "fecha": "sábado, 25 de julio de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Final con más goles de la historia",
+      "detalle": "5-4 en prórroga",
+      "descripcion": "Argentina vs Francia 2.0: 9 goles, 3 hat-tricks y penaltis decisivos tras 120' de infarto."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero con más minutos imbatido",
+      "detalle": "720 minutos (8 partidos)",
+      "descripcion": "El muro mexicano 'El Gato' Romero no encajó desde fase de grupos hasta semis; récord absoluto."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugador más rápido con balón",
+      "detalle": "38.2 km/h (Vinícius Jr.)",
+      "descripcion": "Superó a Haaland y Mbappé en cuartos vs Inglaterra; sprint medido por chip FIFA en el balón."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio con mayor aforo real",
+      "detalle": "105.000 (Azteca, Final)",
+      "descripcion": "Rompe su propio récord del 86; 3.000 entradas 'fantasma' detectadas por IA de control facial."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Gol más tempranero en una Final",
+      "detalle": "14 segundos (Lamine Yamal)",
+      "descripcion": "Saqué de centro, pase de 40m, control orientado y vaselina al portero; historia pura a los 17 años."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Márgenes de victoria más abultados",
+      "detalle": "3 partidos 7-0",
+      "descripcion": "España, Brasil y EE.UU. golearon en fase grupos; primera vez que hay triple 7-0 en una edición."
+    },
+    {
+      "posicion": 7,
+      "nombre": "VAR más rápido de la historia",
+      "detalle": "18 segundos (Japón vs Croacia)",
+      "descripcion": "Nuevo sistema 'Hawk-Eye Live' validó fuera de juego milimétrico sin parar el juego; récord tecnológico."
+    }
+  ],
+  "dato_extra": "💰 Este Mundial generó $14.000M en ingresos: supera al PIB de 60 países. El balón 'Conexión 26' tiene chip cuántico que predice goles 0.3s antes."
+}
