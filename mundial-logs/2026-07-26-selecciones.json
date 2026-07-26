@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 TOP 8: Las selecciones que mandan en el Mundial 2026",
+  "subtitulo": "¿Tu favorita está en la élite o se quedó en el camino?",
+  "fecha": "domingo, 26 de julio de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "5 PG • 12 GF / 2 GC",
+      "descripcion": "Messi orquesta una máquina perfecta: presión alta, transiciones letales y solidez defensiva. Campeón vigente jugando a otro nivel."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Francia",
+      "detalle": "5 PG • 14 GF / 3 GC",
+      "descripcion": "Mbappé y la nueva generación arrasan con velocidad y talento. Ofensiva imparable, pero duda en defensa ante rivales top."
+    },
+    {
+      "posicion": 3,
+      "nombre": "España",
+      "detalle": "4 PG 1 PE • 11 GF / 1 GC",
+      "descripcion": "Rodri y Pedri controlan el tempo. Tiki-taka evolucionado: posesión con verticalidad. La mejor defensa del torneo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Brasil",
+      "detalle": "4 PG 1 PE • 13 GF / 4 GC",
+      "descripcion": "Vinícius y Rodrygo desatan el 'jogo bonito' moderno. Goleada y espectáculo, pero sufre en repliegue rápido."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "4 PG 1 PE • 10 GF / 2 GC",
+      "descripcion": "Bellingham lidera un bloque físico y técnico. Kane define. Solidez táctica de Southgate, ¿llegará la gloria?"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Alemania",
+      "detalle": "4 PG 1 PE • 12 GF / 5 GC",
+      "descripcion": "Wirtz y Musiala brillan en el renacimiento alemán. Intensidad, orden y pegada. Anfitriones soñando con la 5ª estrella."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "3 PG 2 PE • 9 GF / 3 GC",
+      "descripcion": "Cristiano dice adiós a lo grande. Leão y Fernandes crean, Pepe (41) marschea la zaga. Experiencia y talento puro."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Marruecos",
+      "detalle": "3 PG 2 PE • 7 GF / 2 GC",
+      "descripcion": "Regragui repite hazaña 2022. Bloque bajo férreo, contraataques mortales y Hakimi imparable. África sueña en serio."
+    }
+  ],
+  "dato_extra": "Primera vez en la historia que 3 selecciones africanas alcanzan cuartos de final en un mismo Mundial. 🌍🦁"
+}
