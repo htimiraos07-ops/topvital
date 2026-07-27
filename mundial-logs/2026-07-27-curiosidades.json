@@ -1,0 +1,49 @@
+{
+  "titulo": "⚽ ¡Mundial 2026 revelará secretos que te dejarán sin aliento!",
+  "subtitulo": "Décadas de preparativos, novedades y números que cambiarán todo lo que creías saber del fútbol mundial",
+  "fecha": "lunes, 27 de julio de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "La ciudad con mayor partido en la historia",
+      "detalle": "Ciudad de México jugará 52 partidos",
+      "descripcion": "Lo que nadie sabe: es el primero en albergar más encuentros que Copa Mundial en sí misma"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Tecnología prohibitiva en acción",
+      "detalle": "Bola con sensor de inteligencia artificial",
+      "descripcion": "Mide temperatura, humedad y efecto Magnus para ajustar el análisis en tiempo real"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Récord histórico",
+      "detalle": "Ambos equipos pasarán todo el torneo en un solo estadio",
+      "descripcion": "Primer Mundial con formato 'play-in' en un recinto compartido"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Riqueza con historia",
+      "detalle": "México es solo el segundo país en albergar dos Mundiales seguidos",
+      "descripcion": "Existen 14 estadios nuevos o totalmente renovados para el evento"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Innovaciones inesperadas",
+      "detalle": "Perros y gatos ayudan a monitorear el clima"
+    },
+    {
+      "posicion": 6,
+      "nombre": "El mañana es hoy",
+      "detalle": "Gafas inteligentes proyectan estadísticas en tiempo real"
+    },
+    {
+      "posicion": 7,
+      "nombre": "La fusión global",
+      "detalle": "Fórmulas de vinos autóctonas para el Mundial",
+      "descripcion": "Trees de cerveza con sabores locales en todos los estadios"
+    }
+  ],
+  "dato_extra": "🏆 ¡El presidente de la FIFA prohíbe la venta de camisetas de equipos desconocidos!"
+}
