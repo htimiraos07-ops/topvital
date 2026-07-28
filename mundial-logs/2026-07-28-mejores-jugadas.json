@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ TOP 5 GOLES INSANOS del Mundial 2026 ¡No los Misses!",
+  "subtitulo": "Momentazos que dejaron sin aliento a millones, desde el gol de la victoria hasta la parada imposible.",
+  "fecha": "martes, 28 de julio de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol de la victoria argentina (Argentina 4-2 Francia)",
+      "detalle": "Minuto 108, zurda de Messi tras pase de Di María",
+      "descripcion": "Messi ejecuta una zurda imparable que rompe el empate y lleva a los argentinos al título, 3-3 en penales."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Gol sorpresa Japón 2-1 España",
+      "detalle": "Gol de cabeza de Ritsu Doan, 85'",
+      "descripcion": "Doan cabecea un centro preciso y rompe la defensa española, dejando a Japón en shock."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Parada milagrosa de Alisson vs Brasil",
+      "detalle": "Parada en el minuto 90+4, con el pecho desde fuera del área",
+      "descripcion": "Alisson salva el gol de Vinícius con un espectacular salvamento de pecho."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jugada colectiva épica Corea del Sur 3-2 México",
+      "detalle": "12 pases en 30 segundos, finaliza con gol de Son Heung-min",
+      "descripcion": "Corea despliega 12 pases rápidos, finalizando con el gol de Son que deja al público sin aliento."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Gol de falta directa de Cristiano Ronaldo",
+      "detalle": "Gol en el minuto 12 contra Ghana, 25 metros",
+      "descripcion": "CR7 patea un tiro libre que se eleva y se cuela en la esquina superior izquierda."
+    }
+  ],
+  "dato_extra": "¿Sabías que el gol de Messi llegó a los 108 minutos y fue el primero en una final de Mundial después de 30 años?"
+}
