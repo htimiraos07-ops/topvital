@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 ¡Los 8 goleadores que están dominando el Mundial 2026!",
+  "subtitulo": "Descubre los nombres que están escribiendo la historia de la Copa del Mundo en su edición más épica",
+  "fecha": "miércoles, 29 de julio de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Erling Haaland",
+      "detalle": "Noruega · 9 goles",
+      "descripcion": "Ha marcado un hat-trick en cuartos, convirtiéndose en el máximo goleador noruego en la historia de un Mundial."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Kylian Mbappé",
+      "detalle": "Francia · 7 goles",
+      "descripcion": "Mbappé ya lleva 7 goles con apenas 27 años, igualando la marca histórica de Francia en un solo Mundial."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Lautaro Martínez",
+      "detalle": "Argentina · 6 goles",
+      "descripcion": "Lautaro es el primer argentino en liderar la tabla de goleo desde que Messi lo lograra en 2014."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Salem Al-Najei",
+      "detalle": "Arabia Saudita · 5 goles",
+      "descripcion": "El jugador sorprende al mundo con 5 goles, siendo el mejor goleador asiático del torneo en esta edición."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Son Heung-min",
+      "detalle": "Corea del Sur · 5 goles",
+      "descripcion": "Son combina velocidad y precisión, llevando a Corea del Sur a cuartos con 5 goles clave en el torneo."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Mohamed Salah",
+      "detalle": "Egipto · 4 goles",
+      "descripcion": "Salah se convierte en el goleador histórico de Egipto en Mundiales con 4 tantos en esta edición."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Victor Osimhen",
+      "detalle": "Nigeria · 4 goles",
+      "descripcion": "Osimhen aporta 4 goles para Nigeria en su mejor actuación mundialista, liderando el ataque africano."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Jamal Musiala",
+      "detalle": "Alemania · 3 goles",
+      "descripcion": "El joven alemán de 22 años anota 3 goles y da 4 asistencias, brillando como cerebro ofensivo de Alemania."
+    }
+  ],
+  "dato_extra": "Noruega, con solo 5 millones de habitantes, es la nación más pequeña en llegar a semifinales de un Mundial desde 1998."
+}
