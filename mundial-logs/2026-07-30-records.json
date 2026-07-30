@@ -1,0 +1,51 @@
+{
+  "titulo": "⚽️ ¡HISTÓRICO! Los 7 récords que están rompiendo el Mundial 2026",
+  "subtitulo": "Ni en Alemania ni en Brasil se vio algo así. ¡El Mundial más loco de la historia!",
+  "fecha": "jueves, 30 de julio de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Goleada del Siglo",
+      "detalle": "9 goles en un solo encuentro",
+      "descripcion": "Un despliegue ofensivo sin precedentes en la fase de grupos que dejó al mundo boquiabierto."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Estadio más vibrante",
+      "detalle": "95,000 espectadores",
+      "descripcion": "El Estadio Azteca batió su propio récord de asistencia en un partido de cuartos de final."
+    },
+    {
+      "posicion": 3,
+      "nombre": "El Muro Imbatible",
+      "detalle": "5 partidos sin recibir goles",
+      "descripcion": "Un portero joven ha logrado la racha de porterías a cero más larga en la historia de las copas."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Velocidad Relámpago",
+      "detalle": "37.5 km/h",
+      "descripcion": "Un extremo rompió el récord de velocidad máxima registrada en un partido mundialista."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Multinacionalidad récord",
+      "detalle": "48 selecciones",
+      "descripcion": "Por primera vez, el mundo entero se detiene con el formato de expansión más grande de la historia."
+    },
+    {
+      "posicion": 6,
+      "nombre": "El 'Clutch' Player",
+      "detalle": "4 goles en tiempo de descuento",
+      "descripcion": "Un delantero ha decidido tres partidos distintos en los últimos minutos del juego."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Impacto Digital",
+      "detalle": "10 mil millones de views",
+      "descripcion": "Las transmisiones en streaming han alcanzado cifras nunca antes vistas en un evento deportivo."
+    }
+  ],
+  "dato_extra": "¡Sabías que este Mundial es el primero en utilizar 100% tecnología de IA para decisiones de fuera de juego en tiempo real! 🤖⚽"
+}
