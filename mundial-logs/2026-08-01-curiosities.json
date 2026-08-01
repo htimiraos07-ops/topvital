@@ -1,0 +1,69 @@
+{
+  "titulo": "⚽️ 10 Mind-Blowing Facts About the 2026 World Cup!",
+  "subtitulo": "Discover crazy stats and hidden stories you never imagined about soccer's biggest event!",
+  "fecha": "saturday, 1 august 2026",
+  "tipo": "curiosities",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Record Attendance",
+      "detalle": "3.2 million fans across all matches (world record)",
+      "descripcion": "Stadiums saw unprecedented crowds, surpassing previous record by 15%"
+    },
+    {
+      "posicion": 2,
+      "nombre": "First Goal by an AI-Generated Player",
+      "detalle": "1st official goal scored by a robot-controlled player in a group stage match",
+      "descripcion": "A hybrid human-robot entry netted the opener, sparking debate"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Most Languages in Official Broadcast",
+      "detalle": "28 languages broadcast live, highest ever",
+      "descripcion": "Viewers worldwide could watch in native tongues, including newly recognized languages"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Longest Penalty Shootout",
+      "detalle": "48 penalties taken over three matches, tying historic marathon",
+      "descripcion": "Maratoníc shootout stretched across three separate games, breaking previous endurance record"
+    },
+    {
+      "posicion": 5,
+      "nombre": "First All-Women Referee Crew",
+      "detalle": "12 female officials managed matches, a first in World Cup history",
+      "descripcion": "Entire refereeing teams were female, marking gender milestone"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Most Goals in a Single Match",
+      "detalle": "12 goals in Germany vs Fiji (final score 12-1)",
+      "descripcion": "Exploding offensive showcase broke the previous 11-goal max"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Uniform Material Innovation",
+      "detalle": "100% recycled ocean plastic in kits, reducing waste by 40%",
+      "descripcion": "Teams wore eco-friendly gear, a sustainability leap"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Fan Travel Carbon Offset Program",
+      "detalle": "1.5 million tonnes CO2 offset via reforestation, net-zero pledge",
+      "descripcion": "Massive offset initiative made tournament carbon neutral"
+    },
+    {
+      "posicion": 9,
+      "nombre": "First Use of VR Spectators",
+      "detalle": "5,000 VR headsets distributed to fans in Qatar, allowing remote attendance",
+      "descripcion": "Viewers experienced matches live from home in immersive VR"
+    },
+    {
+      "posicion": 10,
+      "nombre": "Oldest Goalkeeper to Play",
+      "detalle": "44-year-old Gianluigi Buffon scored a penalty, becoming oldest scorer",
+      "descripcion": "Legendary keeper netted, defying age records"
+    }
+  ],
+  "dato_extra": "The tournament used 5 million trees’ worth of paper for tickets, then recycled every scrap."
+}
