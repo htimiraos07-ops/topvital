@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽ ¡GOL DE LA VIDA! 🌟 TOP 5 MOMENTOS 2026",
+  "subtitulo": "¿SABÍAS QUE EL MEJOR GOL DE LA SEMFUEL No fue por el marcador?",
+  "fecha": "domingo, 2 de agosto de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "El Gol de la Vida de Messi",
+      "detalle": "Gol en 98' que faltó al rival 2-1",
+      "descripcion": "Messi, con un remate de cabeza en el área, marcó el gol decisivo yEnvío al público a un éxtasis. ¡Una obra de arte!"
+    },
+    {
+      "posicion": 2,
+      "nombre": "La Parada Milagrosa de Neuer",
+      "detalle": "Atajó un disparo a punto de meta a los 89' y evitó el empate",
+      "descripcion": "Neuer, con una parada de conglomerado, salvó el 1-0. ¡Un milagro que marcó el rumbo del partido!"
+    },
+    {
+      "posicion": 3,
+      "nombre": "La jugada colectiva de Brasil",
+      "detalle": "Cuatro pases seguidos que condujeron al gol 3-2",
+      "descripcion": "Brasil ejecutó un movimiento impecable, rompiendo la defensa rival con velocidad y coordinación. ¡Un masterpiece!"
+    },
+    {
+      "posicion": 4,
+      "nombre": "El Volador de Mbappé",
+      "detalle": "Gol de volea desde fuera del área a los 45'",
+      "descripcion": "Mbappé, con un remate de volea preciso, abrió el marcador. ¡Una jugada que se volvió viral en redes!"
+    },
+    {
+      "posicion": 5,
+      "nombre": "ElReturno de Argentina",
+      "detalle": "Gano 3-2 tras estar 0-2 abajo",
+      "descripcion": "Argentina, con un cambio de juego en el minuto 60', logró remontar y se impuso. ¡Una remontada épica!"
+    }
+  ],
+  "dato_extra": "¡El registro de goles más alto en un partido fue 7-3! Más que un partido, fue una fiesta de goles."
+}
