@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽ LOS 8 CAÑONEROS QUE HICIERON HISTORIA EN MÉXICO/USA/CAN 2026",
+  "subtitulo": "Mbappé no fue el único que brilló: descubre al sorpresa que igualó su récord goleador",
+  "fecha": "lunes, 3 de agosto de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "8 goles (Francia)",
+      "descripcion": "Bota de Oro y MVP: lideró a Les Bleus al bicampeonato con hat-trick en semifinales vs Brasil"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Julián Álvarez",
+      "detalle": "8 goles (Argentina)",
+      "descripcion": "Empató a Mbappé pero perdió Bota de Oro por menos asistencias; 4 goles en fase grupos"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Vinícius Jr.",
+      "detalle": "7 goles (Brasil)",
+      "descripcion": "Máximo goleador histórico de Brasil en Mundiales (14); falló penalti decisivo en 4tos vs Francia"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Harry Kane",
+      "detalle": "6 goles (Inglaterra)",
+      "descripcion": "A sus 33 años, único con 6+ goles en 3 mundiales distintos (2018, 2022, 2026)"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jamal Musiala",
+      "detalle": "5 goles (Alemania)",
+      "descripcion": "Jugador joven del torneo: a los 23 años, 3 goles en octavos vs México en el Azteca"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Lautaro Martínez",
+      "detalle": "5 goles (Argentina)",
+      "descripcion": "Formó dupla letal con Álvarez: 13 goles entre ambos, récord de pareja en un Mundial"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Cody Gakpo",
+      "detalle": "4 goles (Países Bajos)",
+      "descripcion": "Llegó a 8 goles mundialistas totales, superando a Van Basten y Kluivert en la historia naranja"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Santiago Giménez",
+      "detalle": "4 goles (México)",
+      "descripcion": "Héroe local: marcó doblete vs Alemania en fase grupos en el Azteca ante 87,000 espectadores"
+    }
+  ],
+  "dato_extra": "Primera vez en la historia que el campeón (Francia) y subcampeón (Argentina) comparten al máximo goleador con 8 goles cada uno"
+}
