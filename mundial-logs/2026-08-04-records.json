@@ -1,0 +1,51 @@
+{
+  "titulo": "⚽ HISTÓRICO: 8 goles en un partido marcan récord",
+  "subtitulo": "¿Cuánto puede pasar en 90 minutos? ¡Descubre los récords más locos del Mundial 2026!",
+  "fecha": "martes, 4 de agosto de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Jornada histórica de goles",
+      "detalle": "8 goles marcados por un equipo",
+      "descripcion": "Brasil aplastó a Chile 8-1, rompiendo el récord anterior de 7 goles."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Expulsión más rápida de la historia",
+      "detalle": "Expulsado a los 12 segundos",
+      "descripcion": "El defensa del Qatar perdió su paciencia a los 12 segundos y vió la roja más rápida."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Más Porterías a Cero",
+      "detalle": "4 partidos sin recibir goles",
+      "descripcion": "El guardameta canadiense mantuvo la portería virgen en los cuatro primeros partidos."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Asistencia récord en el Azteca",
+      "detalle": "94,000 espectadores",
+      "descripcion": "El Estadio Azteca registró una asistencia récord de 94,000 fans, superando al anterior máximo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Tres penaltis detenidos en un partido",
+      "detalle": "3 penaltis detenidos",
+      "descripcion": "El arquero Miguel Ortega detuvo tres penaltis, batiendo un récord inédito."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Hat-trick más rápido",
+      "detalle": "3 goles en 4 minutos",
+      "descripcion": "Lionel Messi marcó su hat-trick más rápido, anotando tres goles en solo cuatro minutos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Cinco remontadas en la segunda mitad",
+      "detalle": "5 remontadas en la segunda mitad",
+      "descripcion": "Los aficionados vieron cinco espectaculares remontadas después del descanso."
+    }
+  ],
+  "dato_extra": "¡El uniforme de la selección de Irán está hecho de 100% plástico reciclado, el primero en la historia del Mundial!"
+}
