@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 Las 8 selecciones que están dominando el Mundial 2026",
+  "subtitulo": "Estos equipos están dejando todo en el campo por levantar la Copa del Mundo 2026",
+  "fecha": "miércoles, 5 de agosto de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "4G 1E | GF: 12 | GC: 4",
+      "descripcion": "Defienden su título con Messi como líder y un juego sólido en defensa"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Brasil",
+      "detalle": "4G 1E | GF: 10 | GC: 3",
+      "descripcion": "El Scratch domina con velocidad, creatividad y precisión en ataque"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Francia",
+      "detalle": "4G 0E 1D | GF: 11 | GC: 5",
+      "descripcion": "Francia renovada con juventud y calidad táctica en cada línea"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estados Unidos",
+      "detalle": "3G 2E 0D | GF: 8 | GC: 3",
+      "descripcion": "La anfitriona sorprende con intensidad, ritmo y corazón local"
+    },
+    {
+      "posicion": 5,
+      "nombre": "España",
+      "detalle": "3G 1E 1D | GF: 9 | GC: 5",
+      "descripcion": "Tiki-taka evolucionado con una medular brutal de talento joven"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Inglaterra",
+      "detalle": "3G 1E 1D | GF: 7 | GC: 4",
+      "descripcion": "Contundencia británica con juventud y gol en cada línea del juego"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Japón",
+      "detalle": "3G 0E 1D | GF: 8 | GC: 4",
+      "descripcion": "La gran sorpresa del torneo con disciplina táctica y eficacia letal"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Portugal",
+      "detalle": "3G 0E 1D | GF: 7 | GC: 3",
+      "descripcion": "Portugal juega al máximo nivel con una delantera demoledora"
+    }
+  ],
+  "dato_extra": "USA es la primera anfitriona en llegar a cuartos de final desde Francia en 1998, algo que nadie esperaba al inicio del torneo"
+}
