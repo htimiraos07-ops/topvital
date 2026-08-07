@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ MOMENTOS DE FURIA: Los Goles Históricos del Mundial 2026",
+  "subtitulo": "¡Revive los goles, las paradas y las jugadas que definieron esta Copa del Mundo!",
+  "fecha": "viernes, 7 de agosto de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Chilena de Messi en los Playoffs",
+      "detalle": "93' minuto, 3-2 vs Brasil",
+      "descripcion": "Un impresionante remate de bicicleta clasifica a Argentina en el último suspiro."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Saves heroicos de Pickford",
+      "detalle": "3 paradas, incluido penal en el 90+3",
+      "descripcion": "Pickford despeja con una mano el penal en el 90+3, enviando el partido a la definición por penaltis."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Tacleo salvador de Boufal",
+      "detalle": "Evita un gol en el área portuguesa",
+      "descripcion": "El esfuerzo defensivo de Boufal detiene un contraataque português, llevando al triunfo en los penaltis."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Triplete de Pulisic vs Canadá",
+      "detalle": "3 goles, 2 asistencias, victoria 4-3",
+      "descripcion": "Un impresionante triplete de Pulisic, incluido un preciso minuto 30 de volea, sella la victoria en Canadá."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Own goal fatal de Japón",
+      "detalle": "Minuto 88, 2-1 Holanda",
+      "descripcion": "Una catástrofe japonesa en el área da a Holanda la ventaja en el último minuto, enviando el estadio al delirio."
+    }
+  ],
+  "dato_extra": "Curiosamente, el Mundial 2026 es el primero en utilizar tecnología de IA en tiempo real para monitorear el juego y asistir a los árbitros."
+}
