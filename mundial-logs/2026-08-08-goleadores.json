@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽️ GOL! TOP 8 GOLEADORES del Mundial 2026 ¡Impacto real!",
+  "subtitulo": "¿Quién lidera la tabla de goleadores? Descubre los nombres que están marcando la historia",
+  "fecha": "sábado, 8 de agosto de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Javier Hernández (MEX)",
+      "detalle": "15 goles",
+      "descripcion": "El veterano delantero lidera la tabla con 15 tantos, incluyendo un gol de falta directa"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Kylian Mbappé (FRA)",
+      "detalle": "14 goles",
+      "descripcion": "Velocidad y precisión le permiten anotar 14 goles, destacando con un hat‑trick ante Chile"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Lautaro Martínez (ARG)",
+      "detalle": "13 goles",
+      "descripcion": "El 'Toto' se consolida como goleador clave con 13 firmas, incluyendo un gol de cabeza en la final"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Erling Haaland (NOR)",
+      "detalle": "12 goles",
+      "descripcion": "El noruego impacta con 12 goles, destacando su capacidad de juego en el área y un gol de volea"
+    },
+    {
+      "posicion": 5,
+      "nombre": "João Félix (POR)",
+      "detalle": "11 goles",
+      "descripcion": "El portugués sorprende con 11 goles, convirtiéndose en la sorpresa del torneo con 3 asistencias"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Vinícius Jr. (BRA)",
+      "detalle": "10 goles",
+      "descripcion": "El brasileño anota 10 goles, incluyendo un doblete decisivo contra Japón en octavos"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Mohamed Salah (EGY)",
+      "detalle": "9 goles",
+      "descripcion": "Salah se destaca con 9 goles, destacando su gran rendimiento en penales y un gol de falta"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Cody Gakpo (NED)",
+      "detalle": "8 goles",
+      "descripcion": "El neerlandés suma 8 goles, siendo clave en la fase de grupos con un gol de último minuto"
+    }
+  ],
+  "dato_extra": "Curiosidad: Ningún equipo ha superado 30 goles en una Copa hasta ahora, ¡pero el torneo promete romper ese récord!"
+}
