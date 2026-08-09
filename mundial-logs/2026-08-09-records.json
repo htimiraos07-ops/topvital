@@ -1,0 +1,51 @@
+{
+  "titulo": "🏆 7 RÉCORDS QUE ROMPIÓ EL MUNDIAL 2026 (Y NO TE LOS CREERÁS)",
+  "subtitulo": "Goles imposibles, porteros mágicos y estadios que temblaron: lo nunca visto en Norteamérica",
+  "fecha": "domingo, 9 de agosto de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Partido con más goles en la historia",
+      "detalle": "12 goles (España 7 - 5 Alemania)",
+      "descripcion": "Semifinal de infarto en Dallas: 5 goles en la prórroga, hat-trick de Yamal y remontada alemana del 0-3 al 3-5 en 10 min."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero con más minutos imbatido",
+      "detalle": "843 minutos (Mike Maignan, Francia)",
+      "descripcion": "Superó a Zoff (1974) y Buffon (2006). Recibió su único gol en el minuto 118 de la final... de penalti."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugador más rápido con balón controlado",
+      "detalle": "38.2 km/h (Alphonso Davies, Canadá)",
+      "descripcion": "Dejó atrás a Walker y Mbappé en el sprint vs México. El estadio Azteca enmudeció al ver la 'bala' canadiense."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio con mayor asistencia media",
+      "detalle": "104.500 espectadores (AT&T Stadium, Dallas)",
+      "descripcion": "Rompe el récord del Maracaná 1950. 8 partidos, 8 llenos absolutos. La 'casa de los Cowboys' se rindió al fútbol."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Gol más tardío en fase de grupos",
+      "detalle": "Minuto 104:32 (Jude Bellingham, Inglaterra)",
+      "descripcion": "Cabeza picada tras córner en el 11º minuto de descuento vs Eslovaquia. El VAR tardó 4 min en validar la locura."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Selección con más penaltis a favor",
+      "detalle": "9 penaltis (Argentina)",
+      "descripcion": "Messi no falló ninguno (5/5), Julián Álvarez metió 3 y el 'Dibu' atajó 2 en la tanda vs Brasil en cuartos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Debutante más joven en marcar en final",
+      "detalle": "17 años, 11 meses (Lamine Yamal, España)",
+      "descripcion": "Rompió a Pelé (1958). Golazo de rosca desde la frontal en el minuto 89 para forzar la prórroga histórica."
+    }
+  ],
+  "dato_extra": "🤯 Por 1ª vez en 92 años, los 4 semifinalistas (España, Francia, Argentina, Marruecos) habían ganado TODOS sus partidos en 90 min. Cero prórrogas hasta semis."
+}
