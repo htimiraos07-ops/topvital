@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 ¡EL TOP 8 DE LA COPA DEL MUNDO 2026!",
+  "subtitulo": "Descubre qué potencias están dominando el torneo más grande de la historia",
+  "fecha": "lunes, 10 de agosto de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Francia",
+      "detalle": "4 victorias | 10 GF / 1 GC",
+      "descripcion": "Dominio absoluto con una defensa impenetrable y un ataque letal liderado por Mbappé."
+    },
+    {
+      "posicion": 2,
+      "nombre": "España",
+      "detalle": "4 victorias | 11 GF / 2 GC",
+      "descripcion": "Posesión total y presión alta. El fútbol total que todos quieren imitar."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Brasil",
+      "detalle": "3 victorias | 8 GF / 2 GC",
+      "descripcion": "Magia pura en el mediocampo con transiciones rápidas y un desequilibrio constante."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Argentina",
+      "detalle": "3 victorias | 7 GF / 3 GC",
+      "descripcion": "Manejo inteligente de los tiempos y una mentalidad ganadora inquebrantable."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "3 victorias | 6 GF / 2 GC",
+      "descripcion": "Solidez física y efectividad máxima en las áreas; un bloque muy difícil de romper."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Portugal",
+      "detalle": "3 victorias | 7 GF / 4 GC",
+      "descripcion": "Talento generacional en ataque que compensa una defensa algo vulnerable."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Alemania",
+      "detalle": "3 victorias | 6 GF / 3 GC",
+      "descripcion": "Disciplina táctica y una estructura defensiva que ha vuelto a ser de élite."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Países Bajos",
+      "detalle": "2 victorias | 5 GF / 3 GC",
+      "descripcion": "Un sistema de juego fluido que prioriza la salida limpia desde el fondo."
+    }
+  ],
+  "dato_extra": "¡La selección con menos goles en contra hasta la fecha es Francia! 🇫🇷 ¿Podrán mantener la racha en la final?"
+}
