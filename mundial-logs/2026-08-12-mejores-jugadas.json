@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ ¡Goles que sacudieron el Mundial 2026! #EpicMoments",
+  "subtitulo": "Revive los goles que dejaron sin aliento a fans y rivales, ¡no te los pierdas!",
+  "fecha": "miércoles, 12 de agosto de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol de cabeza de Henry Martín (México vs Brasil)",
+      "detalle": "78' gol de cabeza",
+      "descripcion": "Un cabezazo imparable que dejó al arquero sin reacción, explotando la grada."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada milagrosa de Keylor Navas (Costa Rica vs Argentina)",
+      "detalle": "70' salvó el 2-2",
+      "descripcion": "Un despeje con el pecho que negó el gol de Messi, manteniendo el empate."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Gol de tiro libre de Luka Modrić (Croacia vs Corea)",
+      "detalle": "35' gol desde 30 metros",
+      "descripcion": "Curvatura perfecta que superó la barrera y dejó al portero estático."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Ráfaga colectiva de Argentina (Argentina vs Alemania)",
+      "detalle": "68' gol tras 12 pases",
+      "descripcion": "Una cadena de 12 toques que desató la locura, culminando en un remate potente."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Gol de victoria en tiempo añadido de Joao Félix (Corea del Sur vs Portugal)",
+      "detalle": "90+4' gol decisivo",
+      "descripcion": "Un contragolpe fulminante que selló el triunfo en los últimos segundos."
+    }
+  ],
+  "dato_extra": "¡Sabías que el Mundial 2026 es el primero con 48 equipos y 16 grupos de 3? Cada grupo produce 2 avances directos!"
+}
