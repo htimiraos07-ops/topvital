@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 #Top8Mundial: Los Gigantes que Dominan el 2026",
+  "subtitulo": "Descubre los ocho colosos que están escribiendo historia en Qatar",
+  "fecha": "sábado, 15 de agosto de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Brasil",
+      "detalle": "Partidos ganados: 3, GF: 10, GC: 2",
+      "descripcion": "Apuesta por un fútbol agresivo, con cinco goles por partido en promedio."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Argentina",
+      "detalle": "Partidos ganados: 3, GF: 9, GC: 3",
+      "descripcion": "El ‘Alma Latina’ combina técnica y pasión, marcando en cada ataque."
+    },
+    {
+      "posicion": 3,
+      "nombre": "España",
+      "detalle": "Partidos ganados: 2, GF: 8, GC: 1",
+      "descripcion": "Posesión milimétrica y eficacia en el área, tercer mejor ataque del grupo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Francia",
+      "detalle": "Partidos ganados: 2, GF: 7, GC: 2",
+      "descripcion": "Velocidad y precisión francesa, superan a rivals con estilo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "Partidos ganados: 2, GF: 6, GC: 3",
+      "descripcion": "Dureza defensiva y contraataques letales, third en la tabla."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Alemania",
+      "detalle": "Partidos ganados: 1, GF: 5, GC: 4",
+      "descripcion": "Organización militar y poder ofensivo, avanzan con determinación."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "Partidos ganados: 1, GF: 4, GC: 5",
+      "descripcion": "Tecnica refinada y individualidades brillantes, aún buscan ritmo."
+    },
+    {
+      "posicion": 8,
+      "nombre": "EE.UU.",
+      "detalle": "Partidos ganados: 1, GF: 3, GC: 6",
+      "descripcion": "Esfuerzo collective y gol de oro en momentos clave, sorpresivos."
+    }
+  ],
+  "dato_extra": "El árbitro del partido Brasil vs Argentina anuló un gol en tiempo de descuento."
+}
