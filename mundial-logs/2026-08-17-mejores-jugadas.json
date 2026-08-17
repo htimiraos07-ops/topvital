@@ -1,0 +1,39 @@
+{
+  "titulo": "🔥 Los 5 momentos épicos del Mundial 2026",
+  "subrkulo": "Revive los momentos que marcaron historia en el Mundial 2026",
+  "fecha": "lunes, 17 de agosto de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol de Messi en la final",
+      "detalle": "1-0 en el minuto 118",
+      "Descripción": "Un gol de tijera que dejó sin aliento a todo el estadio."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada épica de Oblak",
+      "detalle": "Atajó tres disparos seguidos",
+      "Descripción": "El arquero paró un penal y dos tiros desde afuera."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Hattrick de Haaland",
+      "detalle": "3 goles en 10 minutos",
+      "Descripción": "El delantero noruego anotó tres veces en un solo half."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jugada colectiva de Brasil",
+      "detalle": "Asistencia de 10 jugadores",
+      "Descripción": "Un pase de 10 jugadores que terminó en gol."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Gol de empate en el minuto 90",
+      "detalle": "Empate 2-2",
+      "Descripción": "Un golazo en el minuto 90 que empató el partido."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 supera los 5 millones de espectadores en el primer fin de semana."
+}
