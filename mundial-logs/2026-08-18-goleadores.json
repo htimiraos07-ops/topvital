@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 Bota de Oro 2026: Los 8 máximicos goleadores del Mundial",
+  "subtitulo": "Mundial 2026 rompe récords: ¿quién se quedó con la Bota de Oro en su edición más grande?",
+  "fecha": "martes, 18 de agosto de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "7 goles",
+      "descripcion": "Lideró la ofensiva francesa y compartió la Bota de Oro histórica"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Lionel Messi",
+      "detalle": "6 goles",
+      "descripcion": "Su último torneo: gloria, asistencia y 6 anotaciones inolvidables"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Harry Kane",
+      "detalle": "6 goles",
+      "descripcion": "Mejor marca histórica de Inglaterra en una edición única"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Vinícius Jr.",
+      "detalle": "5 goles",
+      "descripcion": "Se convirtió en el brasileño más joven en 5 goles en un Mundial"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Julián Álvarez",
+      "detalle": "5 goles",
+      "descripcion": "Artífice clave en la conquista argentina en la final"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Jamal Musiala",
+      "detalle": "4 goles",
+      "descripcion": "Talento alemán marcó en cuatro ediciones seguidas desde juveniles"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Federico Valverde",
+      "detalle": "4 goles",
+      "descripcion": "Mediocampista uruguayo sorprendió con su producción goleadora"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Joshua Zirkzee",
+      "detalle": "3 goles",
+      "descripcion": "Explosión final lo llevó al top 8 y al radar europeo"
+    }
+  ],
+  "dato_extra": "El Mundial 2026 tuvo 108 goles en total, con Mbappé liderando la historia con 7 dianas."
+}
