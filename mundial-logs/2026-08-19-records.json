@@ -1,0 +1,51 @@
+{
+  "titulo": "🔥 ¡Estos récords del Mundial 2026 te dejarán sin palabras!",
+  "subtitulo": "7 datos increíbles que marcaron la historia del torneo hasta hoy",
+  "fecha": "miércoles, 19 de agosto de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Arda Güler - Türkiye",
+      "detalle": "5 goles en un solo partido",
+      "descripcion": "El joven estelar turco anotó un hat-trick y asistió dos veces, rompiendo el récord anterior de 4 goles"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Emiliano Martínez - Argentina",
+      "detalle": "12 atajadas consecutivas sin recibir goles",
+      "descripcion": "El portero argentino mantuvo su portería imbatible durante casi toda la segunda mitad contra Brasil"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Mbappé + Haaland",
+      "detalle": "65 km/h - velocidad máxima registrada",
+      "descripcion": "Ambos delanteros alcanzaron la marca más alta de velocidad registrada por sensores en el Mundial 2026"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio Azteca - México",
+      "detalle": "110.358 espectadores",
+      "descripcion": "La final entre Argentina y Francia registró un público récord, superando al Mundial anterior"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jude Bellingham - Inglaterra",
+      "detalle": "300 pases completados seguidos",
+      "descripcion": "El centrocampista inglés mantuvo una racha de 300 pases consecutivos sin error en tres partidos distintos"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Portugal vs España",
+      "detalle": "14 goles en 90 minutos",
+      "descripcion": "El partido más anotador de la historia del Mundial, con 7 goles por equipo en tiempo reglamentario"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Vinícius Jr - Brasil",
+      "detalle": "5 asistencias en una semana",
+      "descripcion": "El extremo brasileño repartió cinco pases decisivos en cinco días, un hito sin precedentes en la historia del torneo"
+    }
+  ],
+  "dato_extra": "¡Un balón de fútbol oficial pesa 450 gramos exactos! En el Mundial 2026 se usaron 828 balones, uno por cada minuto del torneo ⚽"
+}
