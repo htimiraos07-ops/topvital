@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥🏆 ¡Las TOP 8 del Mundial 2026 reveladas!",
+  "subtitulo": "Descubre quién domina el fútbol en los estadios norteamericanos ahora",
+  "fecha": "jueves, 20 de agosto de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Brasil",
+      "detalle": "4-0 (7GF-2GA)",
+      "descripcion": "El ataque brasileño combina velocidad y creatividad, con un ataque a presión que controla la columna media"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Francia",
+      "detalle": "3-0 (6GF-1GA)",
+      "descripcion": "Defensa sólida y juego colectivo, con ataques pivotados que generan oportunidades constantes"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Argentina",
+      "detalle": "3-1 (5GF-0GA)",
+      "descripcion": "Presión alta y dominio en el mediocentro, jugando con su característica combinación ofensiva"
+    },
+    {
+      "posicion": 4,
+      "nombre": "España",
+      "detalle": "2-0 (4GF-1GA)",
+      "descripcion": "Control del balón y pasajes precisos, con una defensa resiliente que evita goles"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "2-0 (5GF-0GA)",
+      "descripcion": "Barrera defensiva y ataque circular, con rompedores en los laterales"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Alemania",
+      "detalle": "1-0 (3GF-0GA)",
+      "descripcion": "Arquitectura de juego organizada, que equilibra defensa meticulosa y ataque ensacado"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "1-1 (4GF-3GA)",
+      "descripcion": "Juego posicional, con gran presión y un ataque finalista que aprovecha cada oportunidad"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Holanda",
+      "detalle": "1-1 (3GF-3GA)",
+      "descripcion": "Presión alta, juego de posesión, con una defensa que se suscribe al “Total Football”"
+    }
+  ],
+  "dato_extra": "El Mundial 2026 tendrá la mayor asistencia en historia, superando los 9 millones de espectadores"
+}
