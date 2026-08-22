@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽ Mundial 2026: Los 5 Goles que Revolucionaron la Copa",
+  "subtitulo": "Goles imposibles, atajadas legendarias y la gloria en cada jugada",
+  "fecha": "sábado, 22 de agosto de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol de la Fase de Grupos",
+      "detalle": "Min. 90'+3, Francia 2-3 Alemania",
+      "descripcion": "Gol de volea imposible en el último suspiro que desató la euforia total"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Atada de Penal decisiva",
+      "detalle": "Penal 88', Argentina 1-0 Brasil",
+      "descripcion": "El arquero adivinó el lado y envió el balón al corner con un reflejo sobrenatural"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugada Colectiva Maestrosa",
+      "detalle": "10 pases, España 4-0 Costa Rica",
+      "descripcion": "Una serie de toques precisos terminó con un disparo cruzado desde fuera del área"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Gol de cabeza olímpico",
+      "detalle": "Min. 71, Italia 2-1 Inglaterra",
+      "descripcion": "Un centro perfecto se convirtió en gol con un salto impecable y peinado al ángulo"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Gol en contra sorpresa",
+      "detalle": "Autogol min. 12, Japón 1-0 España",
+      "descripcion": "Un desvío inesperado a los 12 minutos dejó al portero estático y al estadio en shock"
+    }
+  ],
+  "dato_extra": "El Mundial 2026 ya superó los 120 goles en sus primeros 20 días, récord histórico de velocidad"
+}
