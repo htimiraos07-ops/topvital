@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 Top 8 Goleadores del Mundial 2026",
+  "subfecha": "¿Quién será el máximo goleador del torneo?",
+  "fecha": "domingo, 23 de agosto de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "Francia - 6 goles",
+      "Descripción": "Anotó en todos los partidos de fase de grupos."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Lionel Messi",
+      "detalle": "Argentina - 5 goles",
+      "Descripción": "Superó a Maradona en goles en Mundiales."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Erling Haaland",
+      "detalle": "Noruega - 5 goles",
+      "Descripción": "Marcó dos goles en su debut en el torneo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Vinícius Jr.",
+      "detalle": "Brasil - 4 goles",
+      "Descripción": "Fue el autor del gol de la final de grupo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Harry Kane",
+      "detalle": "Inglaterra - 4 goles",
+      "Descripción": "Consiguió su primer hat-trick en el Mundial."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Jude Bellingham",
+      "detalle": "Inglaterra - 4 goles",
+      "Descripción": "Aportó asistencia en cada gol que marcó."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Robert Lewandowski",
+      "detalle": "Polonia - 3 goles",
+      "Descripción": "Superó su marca de goles en ediciones anteriores."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Mohamed Salah",
+      "detalle": "Egipto - 3 goles",
+      "Descripción": "Marcó el gol de la victoria en el tiempo de injury time."
+    }
+  ],
+  "dato_extra": "El promedio de goles por partido es de 2.8, el más alto en la historia del torneo."
+}
