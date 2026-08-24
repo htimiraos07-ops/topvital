@@ -1,0 +1,51 @@
+{
+  "titulo": "🔥 TOP 7 RÉCORDS DEL MUNDIAL 2026",
+  "subtitulo": "Descubre los datos más sorprendentes que han marcado historia en el Mundial 2026 hasta hoy.",
+  "fecha": "lunes, 24 de agosto de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Máximo de goles en un partido",
+      "detalle": "13 goles",
+      "Explicación": "El partido Argentina vs Arabia Saudita anotó 13 goles, superando el récord anterior de 12."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero imbatido más tiempo",
+      "detalle": "420 minutos",
+      "Explicación": "El portero de Brasil, Alisson, mantuvo su portería invicta durante 420 minutos consecutivos."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jogador más rápido",
+      "detalle": "38 km/h",
+      "Explicación": "El delantero de Francia, Kylian Mbappé, alcanzó los 38 km/h en el segundo tiempo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio más lleno",
+      "detalle": "92,000 espectadores",
+      "Explicación": "El estadio Azteca registró 92,000 espectadores en el partido de inauguración."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Más tarjetas amarillas",
+      "detalle": "12 tarjetas amarillas",
+      "Explicación": "El partido entre Alemania y Japón contó con 12 amonestaciones, récord histórico."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Más asistencias",
+      "detalle": "8 asistencias",
+      "Explicación": "El mediocampista de Argentina, Lionel Messi, dio 8 asistencias en un solo partido."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Mayor goleada",
+      "detalle": "10-0",
+      "Explicación": "El equipo de España venció 10-0 a la selección de Oceanía, mayor margen en la historia."
+    }
+  ],
+  "dato_extra": "La asistencia récord en el estadio Azteca alcanzó 95,000 espectadores."
+}
