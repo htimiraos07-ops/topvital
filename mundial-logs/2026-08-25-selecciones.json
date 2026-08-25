@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 TOP 8 SELECCIONES BRILLANDO EN EL MUNDIAL 2026",
+  "subtitulo": "¿Tu favorito está en la lista? Estas selecciones están robándose el show en Norteamérica",
+  "fecha": "martes, 25 de agosto de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "🇦🇷 Argentina",
+      "detalle": "4-0 | 9 GF / 1 GC",
+      "descripcion": "La Scaloneta arrasa con fútbol de época. Messi brilla como director de orquesta y la defensa es una muralla impenetrable."
+    },
+    {
+      "posicion": 2,
+      "nombre": "🇫🇷 Francia",
+      "detalle": "4-0 | 8 GF / 2 GC",
+      "descripcion": "Mbappé desatado y un mediocampo físico letal. Los bleus se perfilan como máximos candidatos al título."
+    },
+    {
+      "posicion": 3,
+      "nombre": "🇪🇸 España",
+      "detalle": "3-1 | 7 GF / 2 GC",
+      "descripcion": "La nueva generación de La Roja enamora con toque, presión alta y gol. Pedri y Lamine Yamal son una pesadilla."
+    },
+    {
+      "posicion": 4,
+      "nombre": "🇧🇷 Brasil",
+      "detalle": "3-1 | 7 GF / 3 GC",
+      "descripcion": "Vinícius y Endrick lideran el ataque más eléctrico del torneo. La canarinha recuperó su ADN ofensivo y vertiginoso."
+    },
+    {
+      "posicion": 5,
+      "nombre": "🏴 Inglaterra",
+      "detalle": "3-1 | 6 GF / 2 GC",
+      "descripcion": "Bellingham, Foden y Kane en estado de gracia. Los Tres Leones juegan su mejor fútbol en décadas con solidez y talento."
+    },
+    {
+      "posicion": 6,
+      "nombre": "🇵🇹 Portugal",
+      "detalle": "3-1 | 6 GF / 3 GC",
+      "descripcion": "Con Cristiano eterno y Bruno Fernandes magistral, Portugal muestra jerarquía y carácter en los momentos clave."
+    },
+    {
+      "posicion": 7,
+      "nombre": "🇳🇱 Países Bajos",
+      "detalle": "3-1 | 5 GF / 2 GC",
+      "descripcion": "El sistema de Koeman funciona: bloque compacto, transiciones rápidas y un Gakpo decisivo. Orden y eficacia tulipán."
+    },
+    {
+      "posicion": 8,
+      "nombre": "🇺🇾 Uruguay",
+      "detalle": "3-1 | 5 GF / 3 GC",
+      "descripcion": "La garra charrúa está más viva que nunca. Valverde y Araújo son muros, y Darwin Núñez se destapó como '9' letal."
+    }
+  ],
+  "dato_extra": "🤯 Dato loco: Las 4 mejores selecciones (ARG, FRA, ESP, BRA) suman 31 goles en 12 partidos. ¡Más de 2.5 goles por partido! 🔥⚽"
+}
