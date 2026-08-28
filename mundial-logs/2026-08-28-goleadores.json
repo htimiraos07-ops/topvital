@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 TOP 8 GOLEADORES DEL MUNDIAL 2026 ¡HAY SORPRESAS!",
+  "subtitulo": "Los máximos artilleros de la Copa del Mundo en USA, México y Canadá 🇺🇸🇲🇽🇨🇦",
+  "fecha": "viernes, 28 de agosto de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé 🇫🇷",
+      "detalle": "7 goles",
+      "descripcion": "A sus 27 años, lidera el Mundial con Francia. Anotó un hat-trick ante Croacia en octavos. Cerca del Botín de Oro."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Vinícius Júnior 🇧🇷",
+      "detalle": "6 goles",
+      "descripcion": "Baila en cada gol. Es el primer brasileño en marcar en 6 partidos consecutivos de Mundial desde Ronaldo 2002."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Erling Haaland 🇳🇴",
+      "detalle": "5 goles",
+      "descripcion": "Noruega hizo historia llegando a semis. Haaland rompió el récord de goles en una sola edición para debutante."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Lionel Messi 🇦🇷",
+      "detalle": "5 goles",
+      "descripcion": "A sus 39 años, sigue mágico. Convirtió un golazo de tiro libre ante Francia en la final soñada. ¿La última Copa?"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jude Bellingham 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detalle": "4 goles",
+      "descripcion": "Con 22 años, el inglés es el mediocampista más joven en marcar 4 goles en un Mundial desde Pelé en 1958."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Santiago Giménez 🇲🇽",
+      "detalle": "4 goles",
+      "descripcion": "El 'Bebote' hizo llorar a México. Primer mexicano en anotar hat-trick mundialista en partidos oficiales."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Lautaro Martínez 🇦🇷",
+      "detalle": "3 goles",
+      "descripcion": "El 'Toro' entró desde el banco y siempre rinde. Promedia un gol cada 28 minutos en este Mundial."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Bukayo Saka 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "detalle": "3 goles",
+      "descripcion": "Inglaterra llegó a la final con Saka como arma secreta. Ya igualó sus goles mundialistas de Qatar 2022."
+    }
+  ],
+  "dato_extra": "🇲🇽 México con Giménez es el país anfitrión con mejor marca goleadora en su propio Mundial desde Corea-Japón 2002. 🐐"
+}
