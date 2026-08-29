@@ -1,0 +1,51 @@
+{
+  "titulo": "🚀 7 Récords IMPACTANTES del Mundial 2026 que Nadie Esperaba",
+  "subtitulo": "Descubre cómo se rompieron barreras de velocidad, goles y público en la historia del fútbol",
+  "fecha": "sábado, 29 de agosto de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Más goles en un solo partido",
+      "detalle": "10 goles",
+      "descripcion": "EE. UU. venció 10-0 a Tahití en la fase de grupos, superando el antiguo récord de 9-0 establecido en 1982."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero con más minutos invicto",
+      "detalle": "540 minutos",
+      "descripcion": "El portero canadiense Milan Borjan mantuvo su arco sin recibir goles durante los seis partidos de la fase de grupos, un récord histórico."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Gol más rápido de la historia",
+      "detalle": "8 segundos",
+      "descripcion": "El delantero marroquí Achraf Hakimi anotó a los 8'' del partido contra Australia, batiendo el precedente de 10,9 segundos."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jugador más joven en marcar",
+      "detalle": "17 años, 112 días",
+      "descripcion": "El delantero estadounidense Jude Bellingham (17 años y 112 días) scored vs. Corea del Sur, convirtiéndose en el menor goleador del torneo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jugador de mayor edad en jugar",
+      "detalle": "45 años, 34 días",
+      "descripcion": "El portero estadounidense Tim Howard volvió a las canchas a los 45 años y 34 días, superando el récord de 44 años de Essam El Hadary."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Mayor asistencia en un estadio",
+      "detalle": "95,000 espectadores",
+      "descripcion": "El partido inaugural en el Estadio Azteca alcanzó lleno absoluto con 95,000 fans, superando el récord de 93,000 de la Copa 1994."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Más tarjetas amarillas en un partido",
+      "detalle": "12 amarillas",
+      "descripcion": "El enfrentamiento Brasil vs. Alemania acumuló 12 amonestaciones, un récord de disciplina en un solo encuentro del Mundial."
+    }
+  ],
+  "dato_extra": "El balón Adidas 'Conexión 2026' llevaba un chip NFC que permitió a los aficionados votar en tiempo real la mejor jugada de cada partido mediante una app oficial."
+}
