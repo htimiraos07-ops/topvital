@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 TOP 8 del Mundial 2026: ¡Las mejores selecciones!",
+  "subtitulo": "Descubre quién domina el juego y quién está más cerca de la gloria.",
+  "fecha": "domingo, 30 de agosto de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Brasil",
+      "detalle": "4V, 12 GF, 3 GC",
+      "descripcion": "Ataque imparable con Neymar y Vinícius, defensa robusta, líder en diferencia de gol."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Francia",
+      "detalle": "4V, 10 GF, 4 GC",
+      "descripcion": "Presión alta, contraataques letales con Mbappé y Griezmann, sólida en mediocampo."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Argentina",
+      "detalle": "4V, 11 GF, 5 GC",
+      "descripcion": "Messi dirige con visión, defensa aguerrida, pero ha recibido más goles que sus rivales directos."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Inglaterra",
+      "detalle": "3V, 9 GF, 4 GC",
+      "descripcion": "Juego físico y rápido, Harry Kane efectivo de cara al arco, pero zona media mejora."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Alemania",
+      "detalle": "3V, 8 GF, 3 GC",
+      "descripcion": "Disciplina táctica, presión alta y contraataques precisos, pero falta de gol natural."
+    },
+    {
+      "posicion": 6,
+      "nombre": "España",
+      "detalle": "3V, 7 GF, 2 GC",
+      "descripcion": "Combinación de posesión y jóvenes talentos, defensa sólida, definición aún mejorable."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Países Bajos",
+      "detalle": "3V, 8 GF, 5 GC",
+      "descripcion": "Ataque versátil con Memphis Depay, mediocampo sólido, defensa a veces vulnerable."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Portugal",
+      "detalle": "3V, 7 GF, 4 GC",
+      "descripcion": "Cristiano Ronaldo aún letal, pero equipo dependiente de su estrella; defensa necesita consolidarse."
+    }
+  ],
+  "dato_extra": "Brasil lidera con 12 goles a favor y solo 3 en contra, la mejor diferencia de gol del torneo."
+}
