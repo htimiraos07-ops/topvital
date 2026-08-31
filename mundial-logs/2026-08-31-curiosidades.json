@@ -1,0 +1,69 @@
+{
+  "titulo": "🏆 Mundial 2026: 10 datos QUE NADIE te cuenta",
+  "subtitulo": "El Mundial más grande de la historia tiene secretos que te volarán la cabeza",
+  "fecha": "lunes, 31 de agosto de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "48 equipos en competencia",
+      "detalle": "Por primera vez en la historia",
+      "descripcion": "La Copa Mundial pasó de 32 a 48 selecciones, el mayor crecimiento en la historia del torneo FIFA"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Un mundial tripartito",
+      "detalle": "3 países sedes por primera vez",
+      "descripcion": "Estados Unidos, México y Canadá comparten la organización, algo nunca visto en mundiales anteriores"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Récord absoluto de partidos",
+      "detalle": "104 encuentros en total",
+      "descripcion": "Se jugarán 24 partidos más que en Qatar 2022, rompiendo todos los récords de la competición"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Selección asiática debutante",
+      "detalle": "Uzbekistán alcanza su primer mundial",
+      "descripcion": "Los uzbekos se convierten en la nueva nación asiática en debutar en una Copa del Mundo FIFA"
+    },
+    {
+      "posicion": 5,
+      "nombre": "El regreso de los 'All Whites'",
+      "detalle": "Nueva Zelanda clasifica tras 16 años",
+      "descripcion": "Los neozelandeses regresan al torneo mundial después de más de una década de ausencia"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Doble continental histórico",
+      "detalle": "Dos confederaciones con récords",
+      "descripcion": "África envía 9 equipos y Asia 8, superando sus propias marcas históricas de participación"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Récord de finales programadas",
+      "detalle": "19 días de competición total",
+      "descripcion": "La fase final se extiende por casi tres semanas, siendo el mundial más largo de la historia"
+    },
+    {
+      "posicion": 8,
+      "nombre": " Estadio con más capacidad",
+      "detalle": "MetLife Stadium en Nueva Jersey",
+      "descripcion": "Con más de 82.000 asientos, alberga la inauguración y partidos clave del torneo"
+    },
+    {
+      "posicion": 9,
+      "nombre": "Equipos africanos duplicados",
+      "detalle": "De 5 a 9 selecciones africanas",
+      "descripcion": "África duplicó su representación con respecto al anterior torneo, marcando un hito histórico"
+    },
+    {
+      "posicion": 10,
+      "nombre": "Primera cita sin precedentes",
+      "detalle": "Tres naciones organizadoras simultáneas",
+      "descripcion": "Canadá y México organizan por tercera vez, mientras EE.UU. repite tras 30 años de su único mundial"
+    }
+  ],
+  "dato_extra": "El Mundial 2026 es el primero en la historia con 48 equipos, 104 partidos y 3 países sedes. ¡Nunca antes se había visto algo así! 🌍⚽"
+}
