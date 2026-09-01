@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ Top 5 Joyas del Mundial 2026 ¡Que no puedes perderte!",
+  "subtitulo": "Revive los momentos que definieron el torneo hasta hoy",
+  "fecha": "martes, 1 de septiembre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol del siglo de Lionel Messi",
+      "detalle": "Gol de volea en el minuto 115 de la final vs Francia",
+      "descripcion": "Un zurazo desde fuera del área que enterró el título en el último suspiro."
+    },
+    {
+      "posicion": 2,
+      "nombre": "El penalti letal de Mbappé",
+      "detalle": "Disparo esquinado a las 5' de la prórroga vs Portugal",
+      "descripcion": "Una definición con clase que envió a Portugal a casa."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Parada milagrosa de Emiliano Martínez",
+      "detalle": "3 penaltis detuvo vs Inglaterra en semis",
+      "descripcion": "El arquero argentino realizó una serie de reflexos sobrehumanos."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Gol colectivo vs Canadá",
+      "detalle": "8 jugadores envolvieron en 2 minutos para marcar",
+      "descripcion": "Una jugada en cadena desde la defensa que culminó con un cabezazo en el área."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Mundial récord de goles en un partido",
+      "detalle": "7-3 vs Japón, el partido con más goles en historia del torneo",
+      "descripcion": "Un festival ofensivo en el estadio Azteca que cautivó al planeta."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 generó más de 5.5 mil millones de espectadores, superando todos los récords anteriores."
+}
