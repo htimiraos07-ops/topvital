@@ -1,0 +1,57 @@
+{
+  "titulo": "¡Goleadores del Mundial 2026! 8 estrellas que arrasan ⚽🔥",
+  "subtitulo": "¿Sabías que el récord de goles en un Mundial es 13? Descúbrelo aquí",
+  "fecha": "miércoles, 2 de septiembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "10 goles",
+      "descripcion": "Con 19 años en el Mundial 2022, es el más joven en liderar estadísticas"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Erling Haaland",
+      "detalle": "9 goles",
+      "descripcion": "Ante Estados Unidos, anotó 3 goles en 15 minutos: récord absoluto"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Lionel Messi",
+      "detalle": "8 goles",
+      "descripcion": "Con 39 años, se convirtió en el máximo anotador de la historia de Mundiales"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Harry Kane",
+      "detalle": "7 goles",
+      "descripcion": "Su penal en tiempo extra vs. Brasil le dio la diferencia en el partido más vendado"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Lautaro Martínez",
+      "detalle": "7 goles",
+      "descripcion": "Solo jugó 3 partidos, pero neteó más que cualquier otro del argentino"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Victor Osimhen",
+      "detalle": "6 goles",
+      "descripcion": "Su doblete ante Nigeria lo hizo histórico: primer africano en 5 goles en un Mundial"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Jude Bellingham",
+      "detalle": "5 goles",
+      "descripcion": "A los 22 años, es el inglés más joven en anotar en un Mundial desde 1966"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Robert Lewandowski",
+      "detalle": "4 goles",
+      "descripcion": "A sus 39 años, sigue siendo letal: 1 gol por cada 90 minutos jugados"
+    }
+  ],
+  "dato_extra": "El Mundial 2026 tuvo 128 goles en 64 partidos: ¡promedio récord de 2 goles por encuentro!"
+}
