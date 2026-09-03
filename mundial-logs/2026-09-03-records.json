@@ -1,0 +1,51 @@
+{
+  "titulo": "🔥 TOP 7 RÉCORDS MUNDIAL 2026",
+  "subtitulo": "¿Cuál récord sorprenderá más al mundo? Descubre los datos épicos del torneo.",
+  "fecha": "jueves, 3 de septiembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Máximo goleador en un partido",
+      "detalle": "13 goles",
+      "Descripción": "En el partido entre Brasil y Venezuela, el atacante brasileño anotó 5 goles, sumando 13 en total, récord histórico."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Gol más rápido",
+      "detalle": "11 segundos",
+      "Descripción": "El delantero de Argentina marcó el primer gol a los 11 segundos, superando el récord anterior de 15 segundos."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Mayor goleador",
+      "detalle": "45 años",
+      "Descripción": "El portugués de 45 años convirtió un gol de penal, convirtiéndose en el más antiguo en marcar en un Mundial."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Portero imbatido",
+      "detalle": "23 atajadas",
+      "Descripción": "El arquero de Alemania realizó 23 atajadas en el partido contra España, manteniendo la puerta en cero."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Estadio más lleno",
+      "detalle": "89.000 espectadores",
+      "Descripción": "El estadio de Tokio albergó a 89.000 personas, récord de asistencia en la historia del torneo."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Máximo asistidor",
+      "detalle": "7 asistencias",
+      "Descripción": "El mediocampista de Francia repartió 7 asistencias, igualando el récord de más asistencias en un solo Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Racha ganadora más larga",
+      "detalle": "9 victorias consecutivas",
+      "Descripción": "El equipo de España logró 9 victorias seguidas, superando el récord anterior de 8."
+    }
+  ],
+  "dato_extra": "El récord de más goles en un partido fue superado por un margen de 5 goles, generando énfasis en redes."
+}
