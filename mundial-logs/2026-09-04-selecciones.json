@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 TOP 8 Mundial 2026: ¡Estas selecciones dominan el torneo!",
+  "subtitulo": "Descubre cuál equipo va más fuerte en esta Copa del Mundo épica",
+  "fecha": "viernes, 4 de septiembre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Brasil",
+      "detalle": "5 victorias, 16 goles a favor, 2 en contra",
+      "descripcion": "Brasil sigue su hegemonía con un fútbol ofensivo y defensas impenetrables. Vinícius Jr y Endrick son claves."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Francia",
+      "detalle": "4 victorias, 14 goles a favor, 3 en contra",
+      "descripcion": "Francia sigue mostrando su poderío ofensivo con Mbappé y Griezmann. Sólida en todas las líneas del campo."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Argentina",
+      "detalle": "4 victorias, 13 goles a favor, 4 en contra",
+      "descripcion": "La defensa del campeón mundial es roca. Messi aún impulsa la ofensiva con magia y liderazgo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Inglaterra",
+      "detalle": "4 victorias, 12 goles a favor, 3 en contra",
+      "descripcion": "Inglaterra combina jóvenes talentos con experiencia. Su mediocampo controla el ritlo del juego."
+    },
+    {
+      "posicion": 5,
+      "nombre": "España",
+      "detalle": "3 victorias, 10 goles a favor, 2 en contra",
+      "descripcion": "La técnica española sigue siendo letal. Dominan posesión y crean oportunidades constantes de gol."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Portugal",
+      "detalle": "3 victorias, 9 goles a favor, 4 en contra",
+      "descripcion": "Portugal apuesta por la velocidad y el contraataque. Ronaldo sigue siendo el referente ofensivo."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Países Bajos",
+      "detalle": "3 victorias, 8 goles a favor, 3 en contra",
+      "descripcion": "Los suizos del norte sorprenden con organización y disciplina táctica. Excelente defensa colectiva."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Croacia",
+      "detalle": "3 victorias, 7 goles a favor, 4 en contra",
+      "descripcion": "Croacia sigue viva gracias a su experiencia y liderazgo de Modrić. Sólida en fases decisivas."
+    }
+  ],
+  "dato_extra": "Brasil no ha recibido goles de cabeza en todo el Mundial 2026. ¡La defensa es su mejor arma!"
+}
