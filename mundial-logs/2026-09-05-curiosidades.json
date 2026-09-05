@@ -1,0 +1,69 @@
+{
+  "titulo": "🌍 2026 Mundial: 10 datos que te sorprenderán",
+  "subtitulo": "Del expansión a récords históricos: descubre lo que nadie sabe del Mundial más grande de la historia",
+  "fecha": "sábado, 5 de septiembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Expansión histórica",
+      "detalle": "De 32 a 48 selecciones",
+      "descripcion": "El Mundial 2026 será el primero con 48 equipos y 80 partidos, frente a los 32 y 64 de ediciones anteriores."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Azteca triple historia",
+      "detalle": "Estadio Azteca, 3 Mundiales",
+      "descripcion": "Azteca es el único estadio que ha albergado partidos en tres Mundiales distintos (1970, 1986, 2026)."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Tres países anfitriones",
+      "detalle": "USA, Canadá y México",
+      "descripcion": "Será el primer Mundial con tres países anfitriones; Canadá nunca había albergado la cita máxima."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Nuevo formato de grupos",
+      "detalle": "12 grupos de 4",
+      "descripcion": "Se jugarán 12 grupos de 4 equipos; clasificarán los 2 primeros y los 8 mejores terceros, formato inédito en Mundiales."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Centenarismo",
+      "detalle": "96 años de historia",
+      "descripcion": "2026 celebra los casi 100 años del primer Mundial (1930), con especiales homenajes y iniciativas conmemorativas."
+    },
+    {
+      "posicion": 6,
+      "nombre": "16 ciudades anfitrionas",
+      "detalle": "Distintas geografías",
+      "descripcion": "El torneo se disputará en 16 ciudades a través de EE.UU., Canadá y México, la mayor diversidad geográfica de la historia Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Máximo de goles posibles",
+      "detalle": "80 partidos vs 64",
+      "descripcion": "Con 16 partidos adicionales, se espera un aumento significativo en el total de goles anotados comparado con ediciones anteriores."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Messi y el último baile",
+      "detalle": "Posible despedida",
+      "descripcion": "A los 38 años, Lionel Messi probablemente dispute su último Mundial, buscando emular la gloria de Maradona en 1986."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Jóvenes talentos",
+      "detalle": "Estrella más joven",
+      "descripcion": "Con más equipos y partidos, la edad mínima de los convocados podría romper récords históricos de participación juvenil."
+    },
+    {
+      "posicion": 10,
+      "nombre": "VAR en todos los partidos",
+      "detalle": "Estándar desde 2018",
+      "descripcion": "El VAR estará presente en los 80 partidos, consolidándose como la norma absoluta tras su debut en 2018."
+    }
+  ],
+  "dato_extra": "¿Sabías que el Mundial 2026 tendrá 80 partidos, 16 más que en Qatar 2022? La expansión a 48 equipos busca globalizar aún más el fútbol."
+}
