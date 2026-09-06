@@ -1,0 +1,39 @@
+{
+  "titulo": "🏆 Los 5 momentos que hicieron historia en el Mundial 2026",
+  "subtitulo": "Desde goles de última hora hasta paradas que desafiaron la gravedad, revive lo que nadie esperaba.",
+  "fecha": "domingo, 6 de septiembre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Chilena de Messi vs Francia",
+      "detalle": "Gol al 92'",
+      "descripcion": "Messi conectó una chilena imposible desde fuera del área, sellando la victoria argentina y enviando al mundo al éxtasis."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada de Alisson vs Portugal",
+      "detalle": "Penalti atajado al 118'",
+      "descripcion": "Alisson adivinó el disparo de CR7, lanzó su cuerpo y mantuvo vivo el sueño brasileño en los cuartos de final."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Tiki-taka España vs Marruecos",
+      "detalle": "22 pases antes del gol",
+      "descripcion": "La Roja tejió una telaraña de pases que dejó sin respiración a la defensa marroquí, culminando con el tanto de Gavi."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Tiro libre de Mbappé vs Alemania",
+      "detalle": "35 metros, ángulo",
+      "descripcion": "Mbappé curvó el balón como un láser, colgándolo en el ángulo superior y desatando el estadio."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Triplete de Álvarez vs Marruecos",
+      "detalle": "3 goles en 20'",
+      "descripcion": "Álvarez explotó con un triplete en menos de veinte minutos, dejando a Marruecos sin respuesta y llevando a Argentina a la final."
+    }
+  ],
+  "dato_extra": "Este Mundial 2026 fue el primero en usar tecnología de IA en tiempo real para decidir faltas, reduciendo errores arbitrales a menos del 0,3%."
+}
