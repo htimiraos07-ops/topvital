@@ -1,0 +1,51 @@
+{
+  "titulo": "🔥 TOP 7 RÉCORDS INÉDITOS del Mundial 2026",
+  "subtitulo": "Goles históricos, porteros legendarios y datos que rompen todas las reglas del fútbol mundial",
+  "fecha": "martes, 8 de septiembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Japón 7-7 España",
+      "detalle": "14 goles en un solo partido",
+      "descripcion": "Primer empate 7-7 en la historia de los Mundiales. Nueve goles en la segunda parte y prórroga épica."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Emiliano Martínez",
+      "detalle": "627 minutos imbatido",
+      "descripcion": "Récord absoluto de portería invicta en un Mundial. Solo fue batido en el minuto 89 de cuartos."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Hat-trick de Mbappé",
+      "detalle": "4 minutos (min 14-18)",
+      "descripcion": "El gol, asistencia y tripleta más rápidos de la historia. Francia ganó 5-4 tras remontar dos veces."
+    },
+    {
+      "posicion": 4,
+      "nombre": "MetLife Stadium",
+      "detalle": "102,456 espectadores",
+      "descripcion": "Lleno absoluto en la inauguración. Récord mundial de asistencia en un partido de selecciones."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Lamine Yamal",
+      "detalle": "Gol a los 43 segundos",
+      "descripcion": "El goleador más joven de la historia mundialista con 15 años. Batió a Pickford con un chut cruzado."
+    },
+    {
+      "posicion": 6,
+      "nombre": "5 tarjetas rojas",
+      "detalle": "Portugal vs Uruguay",
+      "descripcion": "Partido más violento del torneo. Se expulsaron 3 portugueses y 2 charrúas en 20 minutos de caos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Argentina: 28 goles",
+      "detalle": "7 goles por partido de media",
+      "descripcion": "Selección más goleadora del torneo. Messi lleva 9 goles y 5 asistencias en 4 encuentros."
+    }
+  ],
+  "dato_extra": "⚽ El VAR anuló 14 goles en una sola jornada, récord histórico. Los árbitros revisaron 86 decisiones con IA en tiempo real."
+}
