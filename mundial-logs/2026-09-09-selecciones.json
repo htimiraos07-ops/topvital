@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥🏆 Las 8 BESTIAS del Mundial 2026",
+  "subtitulo": "¿Quién domina el torneo? Estas selecciones están IMPARABLES y podrían dar sorpresas",
+  "fecha": "miércoles, 9 de septiembre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "5G 0P | GF:12 GA:3",
+      "descripcion": "Messi y compañía dominan con fútbol eléctrico y una defensa impenetrable."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Brasil",
+      "detalle": "5G 0P | GF:15 GA:4",
+      "descripcion": "Jogo bonito en estado puro: goles de todos colores y un ataque demoledor."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Francia",
+      "detalle": "4G 1E | GF:11 GA:3",
+      "descripcion": "Efectividad suprema, control total del mediocampo y contragolpe letal."
+    },
+    {
+      "posicion": 4,
+      "nombre": "España",
+      "detalle": "4G 1E | GF:9 GA:2",
+      "descripcion": "Juego de posesión envidiable, máxima circulación y portería a cero."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "4G 1E | GF:10 GA:5",
+      "descripcion": "Físico y táctica perfectos, un rodillo que aplasta a cualquier rival."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Países Bajos",
+      "detalle": "4G 0E 1D | GF:8 GA:4",
+      "descripcion": "Presión alta y fútbol total holandés, siempre adelante desde el pitido inicial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "3G 2E 0D | GF:9 GA:3",
+      "descripcion": "Bernardo y compañía brillan, combinaciones letales y gol de crack."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Alemania",
+      "detalle": "3G 1E 1D | GF:7 GA:5",
+      "descripcion": "Renacimiento teutón con solidez defensiva y contragolpes letales."
+    }
+  ],
+  "dato_extra": "Argentina lleva 450 minutos sin recibir gol, la mejor defensa del torneo 2026."
+}
