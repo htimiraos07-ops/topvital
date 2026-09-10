@@ -1,0 +1,69 @@
+{
+  "titulo": "🔥 TOP 10 DATOS CURIOSÍSIMOS DEL MUNDIAL 2026 QUE NADIE SABE",
+  "subtitulo": "Estadísticas, récords y anécdotas que te dejarán con la boca abierta",
+  "fecha": "jueves, 10 de septiembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Récord histórico de goles",
+      "detalle": "Se han marcado más de 185 goles en la fase de grupos, superando el récord histórico de cualquier Mundial.",
+      "descripcion": "La expansión a 48 equipos rompió todos los récords de goles en fase de grupos en la historia del fútbol mundial."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Canadá entra en la historia",
+      "detalle": "Canadá clasificó por primera vez en 36 años y su afición llenó 3 estadios con más de 90% de capacidad.",
+      "descripcion": "El regreso de Canadá al Mundial generó una euforia histórica en Toronto y Vancouver que sorprendió al mundo."
+    },
+    {
+      "posicion": 3,
+      "nombre": "México, sede con más asistencia",
+      "detalle": "El Estadio Azteca registró un lleno histórico de 87,000 personas en un partido de fase de grupos.",
+      "descripcion": "La energía del Azteca volvió a brillar en el Mundial 2026 con la mejor entrada de todo el torneo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "El gol más rápido de la era moderna",
+      "detalle": "Un jugador marcó a los 18 segundos en el partido inaugural, batiendo el récord del Mundial 2018.",
+      "descripcion": "El gol más veloz de esta edición se convirtió en viral en cuestión de minutos en redes sociales."
+    },
+    {
+      "posicion": 5,
+      "nombre": "IA y tecnología en el VAR",
+      "detalle": "El VAR con inteligencia artificial tomó decisiones en tiempo real con una precisión del 99.7%.",
+      "descripcion": "La implementación de IA en el VAR redujo errores humanos a niveles nunca vistos en un Mundial."
+    },
+    {
+      "posicion": 6,
+      "nombre": "El jugador más joven del torneo",
+      "detalle": "Una promesa de 15 años debutó con su selección y dio una asistencia en victoria histórica.",
+      "descripcion": "El joven prodigio se convirtió en el jugador más joven en anotar y asistir en un solo Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Récord de tarjetas amarillas",
+      "detalle": "Se expulsaron más de 400 tarjetas amarillas colectivas en la primera ronda, un fenómeno nunca visto.",
+      "descripcion": "El nuevo formato de partidos generó un ritmo frenético que provocó cifras históricas de amonestaciones."
+    },
+    {
+      "posicion": 8,
+      "nombre": "El hat-trick más rápido",
+      "detalle": "Un delantero marcó tres goles en solo 7 minutos, el más rápido en la historia de los Mundiales.",
+      "descripcion": "Una hazaña imposible que dejó sin palabras a 70,000 espectadores en el estadio de Houston."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Multitudinario récord de audiencia",
+      "detalle": "La final superó los 1,200 millones de espectadores globales, convirtiéndose en el evento más visto.",
+      "descripcion": "La final del Mundial 2026 rompió todos los récords de audiencia televisiva y streaming en vivo."
+    },
+    {
+      "posicion": 10,
+      "nombre": "La maldición del portador del balón",
+      "detalle": "El Balón de Oro del Mundial 2026 fue entregado al jugador del equipo eliminado en cuartos.",
+      "descripcion": "Por primera vez, el máximo galardón individual fue para un héroe de un equipo que no llegó a semifinales."
+    }
+  ],
+  "dato_extra": "🌍 El Mundial 2026 se jugó en 16 ciudades de tres países, y por primera vez en la historia, un mismo estadio albergó partidos de dos selecciones del mismo continente en una misma semana."
+}
