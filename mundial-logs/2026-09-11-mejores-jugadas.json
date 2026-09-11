@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ Los 5 Goles que Estremecieron el Mundial 2026",
+  "subtitulo": "Desde disparos de larga distancia hasta jugadas de equipo que dejaron sin aliento a millones",
+  "fecha": "viernes, 11 de septiembre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Tiro libre de Messi vs Francia",
+      "detalle": "1 gol, 0.89xG",
+      "descripcion": "Messi clavó un tiro libre imposible que selló el pase a la final y dejó al mundo boquiabierto."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Penal atajado por Dibu Martínez vs Brasil",
+      "detalle": "1 penal atajado, 0.0 xG",
+      "descripcion": "Dibu Martínez voló como un gato y rechazó el penal de Neymar, manteniendo viva la esperanza argentina."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugada de 7 pases de España vs Alemania",
+      "detalle": "7 pases, 0.45 xG",
+      "descripcion": "Una coreografía de pases de primera que desarmó la defensa alemana y culminó con el gol de Pedri."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Carrera y gol de Mbappé vs Marruecos",
+      "detalle": "70m sprint, 1 gol",
+      "descripcion": "Mbappé explotó la banda, recorrió 70 metros y definió con clase para poner a Francia en la final."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Volea de Smith vs Japón",
+      "detalle": "1 gol, 0.62 xG",
+      "descripcion": "Smith conectó una volea de 25 metros que se colgó en el ángulo izquierdo, dejando sin reacción al portero japonés."
+    }
+  ],
+  "dato_extra": "Más de 3 millones de fans vieron el Argentina-Francia en TV, récord para un partido en EE.UU., México y Canadá."
+}
