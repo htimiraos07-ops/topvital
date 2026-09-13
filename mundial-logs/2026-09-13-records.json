@@ -1,0 +1,51 @@
+{
+  "titulo": "🌍 Mundial 2026: 7 récords que rompieron la historia (hasta hoy)",
+  "subtitulo": "Descubre los números inesperados que están haciendo historia en Catar 2026.",
+  "fecha": "domingo, 13 de septiembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol más rápido del torneo",
+      "detalle": "8 segundos",
+      "descripcion": "Anotado por Kylian Mbappé en el partido Francia vs. Marruecos, superando el récord anterior de 10 segundos."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Partido con más goles",
+      "detalle": "10 goles",
+      "descripcion": "Argentina 6-4 Arabia Saudita en fase de grupos, el marcador más alto en un solo encuentro del Mundial 2026."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Portero con más minutos imbatido",
+      "detalle": "540 minutos",
+      "descripcion": "Emiliano Martínez mantuvo su arco en cero durante los seis primeros partidos de Argentina, récord de longevidad."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio con mayor asistencia",
+      "detalle": "92,000 espectadores",
+      "descripcion": "El partido inaugural en el Estadio Azteca reunió a 92,000 fans, superando el récord anterior de 88,000."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jugador más joven en marcar",
+      "detalle": "16 años, 112 días",
+      "descripcion": "Youssoufa Moukoko (Alemania) anotó contra Nueva Zelanda, convirtiéndose en el menor goleador de la historia del Mundial."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Jugador más viejo en jugar",
+      "detalle": "45 años, 7 días",
+      "descripcion": "Thiago Silva (Brasil) disputó su último partido frente a Croacia, superando a Roger Milla por edad."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Más revisiones VAR en un partido",
+      "detalle": "12 revisiones",
+      "descripcion": "En el choque Países Bajos vs. Estados Unidos, el VAR intervino 12 veces, un récord de intervenciones tecnológicas."
+    }
+  ],
+  "dato_extra": "¡El Mundial 2026 ya tiene más de 3 millones de goles totales en todas las fases, superando la suma de los últimos tres mundiales combinados!"
+}
