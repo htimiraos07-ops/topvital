@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 Las 8 potencias dominan el Mundial 2026",
+  "subtitulo": "¿Quién está escribiendo su leyenda en la máxima competición?",
+  "fecha": "lunes, 14 de septiembre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "Partidos ganados: 4, GF: 12, GC: 3",
+      "descripcion": "Dominant attacking flair, lethal set‑pieces, and a rock‑solid defense drive them to the top."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Brasil",
+      "detalle": "Partidos ganados: 4, GF: 11, GC: 4",
+      "descripcion": "Swinging creativity and superstar talent keep Brazil flying high with five‑star attacking football."
+    },
+    {
+      "posicion": 3,
+      "nombre": "España",
+      "detalle": "Partidos ganados: 3, GF: 10, GC: 5",
+      "descripcion": "Possesion mastery and quick transitions let Spain dominate, netting ten goals while shielding their cage."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Francia",
+      "detalle": "Partidos ganados: 3, GF: 9, GC: 6",
+      "descripcion": "Youthful vigor and firepower propel France forward, scoring nine while exposing defensive lapses."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "Partidos ganados: 3, GF: 8, GC: 7",
+      "descripcion": "Direct power and clinical finishing give England momentum, converting eight goals despite occasional defensive cracks."
+    },
+    {
+      "posicion": 6,
+      "nombre": "EE. UU.",
+      "detalle": "Partidos ganados: 2, GF: 7, GC: 6",
+      "descripcion": "Determined resilience and fast counterattacks lift USA, scoring seven goals with solid defensive organization."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Canadá",
+      "detalle": "Partidos ganados: 2, GF: 6, GC: 8",
+      "descripcion": "Surging confidence and skillful winger play boost Canada, netting six goals but struggling at the back."
+    },
+    {
+      "posicion": 8,
+      "nombre": "México",
+      "detalle": "Partidos ganados: 1, GF: 5, GC: 12",
+      "descripcion": "Heart and flair drive Mexico, yet defensive fragility costs them, conceding 12 goals in close matches."
+    }
+  ],
+  "dato_extra": "Argentina lidera con 12 goles, promediando 2.4 por partido, el promedio más alto en la historia del torneo."
+}
