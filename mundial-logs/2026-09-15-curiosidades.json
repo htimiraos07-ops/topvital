@@ -1,0 +1,69 @@
+{
+  "titulo": "🔥 10 DATOS DEL MUNDIAL 2026 QUE NO SABÍAS",
+  "subtitulo": "Estadísticas y récords que dejan sin palabras",
+  "fecha": "martes, 15 de septiembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "48 selecciones participantes",
+      "detalle": "Récord histórico de equipos",
+      "descripcion": "Se amplió de 32 a 48 equipos, un 50% más que cualquier edición anterior."
+    },
+    {
+      "posicion": 2,
+      "nombre": "104 partidos jugados",
+      "detalle": "Más partidos que cualquier Mundial",
+      "descripcion": "Supera al Mundial 2022 (64 partidos) con 40 encuentros adicionales."
+    },
+    {
+      "posicion": 3,
+      "nombre": "3 países anfitriones",
+      "detalle": "Primera vez en la historia",
+      "descripcion": "Estados Unidos, Canadá y México comparten sede por primera vez."
+    },
+    {
+      "posicion": 4,
+      "nombre": "16 estadios emblemáticos",
+      "detalle": "Distribuidos en 3 naciones",
+      "descripcion": "Desde el AT&T Stadium de Texas hasta el Estadio Azteca: 16 sedes en 3 países."
+    },
+    {
+      "posicion": 5,
+      "nombre": "El Azteca regresa al protagonismo",
+      "detalle": "México organiza su tercer Mundial",
+      "descripcion": "Solo México organiza 3 Mundiales en solitario (1970, 1986 y 2026), récord único."
+    },
+    {
+      "posicion": 6,
+      "nombre": "El debut de Canadá como sede",
+      "detalle": "Anfitrión con una historia reciente",
+      "descripcion": "A pesar de ser sede, Canadá nunca había clasificado a un Mundial masculino hasta 2022."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Grupos de solo 3 equipos",
+      "detalle": "Nuevo formato con eliminación directa",
+      "descripcion": "16 grupos de 3: el último de cada grupo se irá sin ganar ningún partido."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Asistencia millonaria proyectada",
+      "detalle": "Récord de espectadores en vivo",
+      "descripcion": "Se proyecta que más de 5 millones de personas llenarán los estadios durante el torneo."
+    },
+    {
+      "posicion": 9,
+      "nombre": "El gol más rápido de la historia",
+      "detalle": "Comparación con otros Mundiales",
+      "descripcion": "En 2002, Hakan Şükür anotó a los 11 segundos; la velocidad del gol nunca se ha superado."
+    },
+    {
+      "posicion": 10,
+      "nombre": "El Mundial más lucrativo",
+      "detalle": "Impacto económico sin precedentes",
+      "descripcion": "Generará más de 14 mil millones de dólares, convirtiéndolo en el Mundial más rentable."
+    }
+  ],
+  "dato_extra": "Ningún país que haya ganado un Mundial lo ha hecho jugando fuera de Europa o Sudamérica… hasta ahora en 2026."
+}
