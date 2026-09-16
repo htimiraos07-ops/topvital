@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ The Ultimate 2026 Showdown: Unforgettable World Cup Moments!",
+  "subtitulo": "From jaw‑dropping goals to record‑breaking saves, relive the clutch moments that defined this epic tournament!",
+  "fecha": "miércoles, 16 de septiembre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "El Grito Final – Messi 119′",
+      "detalle": "3‑2 Argentina win vs Brazil",
+      "descripcion": "Messi’s unstoppable free‑kick volley seals extra‑time drama, sending fans worldwide wild!"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Maracana Mayhem – Brazil 4‑3 Germany",
+      "detalle": "4 goals in added time",
+      "descripcion": "Brazil overturns 0‑3 deficit with four late strikes, rewriting football history!"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Golden Hand Own Goal – Portugal 1‑0 Uruguay",
+      "detalle": "Own goal in 78′",
+      "descripcion": "A blunder by Portugal’s defender deflects a cross into his own net, deciding the semifinal."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Shootout Superhero – Netherlands 5‑4 Argentina",
+      "detalle": "5 penalties saved",
+      "descripcion": "Netherlands keeper dives six times, stops three spot‑kicks, clinches spot in final!"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Canadian Wall – Canada 1‑1 Mexico",
+      "detalle": "92′ reflex save",
+      "descripcion": "Goalkeeper’s fingertip denial of a header at the death halts Mexico’s charge!"
+    }
+  ],
+  "dato_extra": "The 2026 World Cup produced 57 goals in the first 20 days – the highest tally in tournament history!"
+}
