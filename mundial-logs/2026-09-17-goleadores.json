@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 LOS 8 GOLEADORES DEL MUNDIAL 2026: ¿QUIÉN LIDERA?",
+  "subtitulo": "Los números que dejaron la historia en USA, México y Canadá",
+  "fecha": "jueves, 17 de septiembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Harry Kane",
+      "detalle": "8 goles — Inglaterra",
+      "descripcion": "Batió el récord de goles para Inglaterra en un Mundial y levantó el título de máximo anotador."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Kylian Mbappé",
+      "detalle": "7 goles — Francia",
+      "descripcion": "El francés brilló con hat-tricks y jugadas que rompieron defensas y redes por igual."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Erling Haaland",
+      "detalle": "6 goles — Noruega",
+      "descripcion": "Noruega por fin tenía un destructor de redes en una Copa del Mundo. Cumplió la expectativa."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Vinícius Jr",
+      "detalle": "6 goles — Brasil",
+      "descripcion": "El brasileño deslumbró con velocidad desbordante y firmó goles que se viralizaron en redes."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Lionel Messi",
+      "detalle": "5 goles — Argentina",
+      "descripcion": "Despidió su carrera mundialista con una actuación legendaria que emocionó al planeta entero."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Victor Osimhen",
+      "detalle": "5 goles — Nigeria",
+      "descripcion": "El nigeriano fue pura potencia y dejó sin poder a todas las defensas que le cruzaron."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Lautaro Martínez",
+      "detalle": "5 goles — Argentina",
+      "descripcion": "El delantero del Inter fue clave para la selección argentina en tierra norteña."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Gonçalo Ramos",
+      "detalle": "4 goles — Portugal",
+      "descripcion": "El portugués sorprendió a todos con un rendimiento monumental en su primera Copa del Mundo."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 fue el más goleador de la historia: 342 goles en 104 partidos, un promedio de 3.29 por encuentro."
+}
