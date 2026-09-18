@@ -1,0 +1,51 @@
+{
+  "titulo": "🔥 Mundial 2026: 7 cifras que rompen la Copa",
+  "subtitulo": "Más equipos, partidos y sedes que en cualquier edición anterior.",
+  "fecha": "viernes, 18 de septiembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "La Copa con más naciones",
+      "detalle": "48 selecciones",
+      "descripcion": "El formato se duplica respecto a las 32 selecciones de 1998 a 2022."
+    },
+    {
+      "posicion": 2,
+      "nombre": "La edición de 104 partidos",
+      "detalle": "104 encuentros",
+      "descripcion": "Son 28 más que Catar 2022, el anterior récord absoluto de la competición."
+    },
+    {
+      "posicion": 3,
+      "nombre": "El Mundial de 16 ciudades",
+      "detalle": "16 sedes",
+      "descripcion": "Catar 2022 concentró la Copa en ocho ciudades; el 2026 la duplica."
+    },
+    {
+      "posicion": 4,
+      "nombre": "El torneo trinacional",
+      "detalle": "3 países anfitriones",
+      "descripcion": "México, Canadá y Estados Unidos comparten por primera vez la organización."
+    },
+    {
+      "posicion": 5,
+      "nombre": "El dominio estadounidense",
+      "detalle": "11 de 16 ciudades",
+      "descripcion": "EE. UU. concentra la mayoría de sedes: más de la mitad del mapa del torneo."
+    },
+    {
+      "posicion": 6,
+      "nombre": "El coloso de Texas",
+      "detalle": "AT&T Stadium: 100.500",
+      "descripcion": "Es la mayor capacidad anunciada para 2026 y supera al Estadio Azteca."
+    },
+    {
+      "posicion": 7,
+      "nombre": "El templo que repitió historia",
+      "detalle": "Estadio Azteca: semifinal 2026",
+      "descripcion": "Vivió las finales de 1970 y 1986; en 2026 también fue escenario de semifinal."
+    }
+  ],
+  "dato_extra": "Dato candente: el torneo creció un 37% en partidos: de 76 a 104, el salto más grande de la historia."
+}
