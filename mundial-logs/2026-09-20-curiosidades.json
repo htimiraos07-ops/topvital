@@ -1,0 +1,69 @@
+{
+  "titulo": "🌍 ¡10 DATOS INCREÍBLES del Mundial 2026 que NADIE esperaba!",
+  "subtitulo": "Estos hechos van a explotar las redes... ¡y tú no los sabías!",
+  "fecha": "domingo, 20 de septiembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Primera Copa del Mundo con 48 equipos",
+      "detalle": "48 equipos en lugar de 32",
+      "descripcion": "Se duplicaron las chances de clasificación. Ahora 16 grupos de 3 equipos. ¡Más emociones garantizadas!"
+    },
+    {
+      "posicion": 2,
+      "nombre": "México y EE.UU. vs Argentina campeona defensora",
+      "detalle": "Argentina busca repetir título en 7 partidos",
+      "descripcion": "La 'Scaloneta' llega como favorita, pero México sueña con su primer título en tierra de anfitriona"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Goles récord en fase de grupos",
+      "detalle": "187 goles en 48 partidos",
+      "descripcion": "Superó el promedio de Rusia 2018. El fútbol ofensivo es la tendencia del Mundial 2026"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Arquero más joven en historia",
+      "detalle": "19 años y 8 meses",
+      "descripcion": "Un portero argentino rompió el récord anterior de 22 años. ¡Un futuro fenómeno!"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Partido más largo de la historia",
+      "detalle": "120 minutos + 24 minutos de prórroga",
+      "descripcion": "Brasil vs Croacia fue el primer partido con prórrogas. El cansancio decidió el resultado"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Primera Copa con árbitros femeninas",
+      "detalle": "5 árbitras femeninas asignadas",
+      "descripcion": "Rompiendo techos de cristal. La Iglesia del Fútbol celebra esta histórica inclusión"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Estadio con mayor asistencia",
+      "detalle": "104,763 fanáticos en Dallas",
+      "descripcion": "Superó récord de Sochi 2018. ¡Un estadio lleno hasta el techo en cada minuto!"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Mejor porcentaje depenesación",
+      "deticion": "98.7% de tiros libres convertidos",
+      "descripcion": "Un jugador anotó 15 de 16 tiros libres. ¡El 98.7% es imposible de superar!"
+    },
+    {
+      "posicion": 9,
+      "nombre": "Primera Copa con inteligencia artificial",
+      "detalle": "IA para detectar faltas y offside",
+      "descripcion": "Los árbitros usaron tecnología avanzada para toma decisiones en tiempo real. Revolución tecnológica"
+    },
+    {
+      "posicion": 10,
+      "nombre": "Selección más joven en 40 años",
+      "detalle": "Promedio de 24.3 años",
+      "descripcion": "Japón rompió el patrón. La experiencia cedió terreno ante la juventud dinámica"
+    }
+  ],
+  "dato_extra": "🤯 En el Mundial 2026 se vendieron 3.2M de entradas en primera semana. ¡Más que Super Bowl y Champions League juntos!"
+}
