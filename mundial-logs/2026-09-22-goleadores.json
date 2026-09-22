@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 TOP 8 GOLEADORES del Mundial 2026 - ¡Imposible de creer!",
+  "subtitulo": "Haaland lidera con 9 goles, pero hay sorpresas asiáticas y latinoamericanas que nadie esperaba",
+  "fecha": "martes, 22 de septiembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Erling Haaland",
+      "detalle": "Noruega - 9 goles",
+      "descripcion": "Récord histórico: primer noruego en liderar goleo mundialista desde 1998. Promedia un gol cada 67 minutos."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Vinícius Júnior",
+      "detalle": "Brasil - 7 goles",
+      "descripcion": "Primer brasileño en anotar en tres mundiales consecutivos. 4 de sus goles fueron en el último cuarto de hora."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Lautaro Martínez",
+      "detalle": "Argentina - 7 goles",
+      "descripcion": "Lleva goles en cuatro mundiales seguidos. Igualó a Batistuta como máximo artillero argentino en copas del mundo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Kylian Mbappé",
+      "detalle": "Francia - 6 goles",
+      "descripcion": "Superó a Henry como máximo goleador francés en mundiales. Tres de sus goles fueron de penal, todos convertidos."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Harry Kane",
+      "detalle": "Inglaterra - 6 goles",
+      "descripcion": "Único jugador en anotar penalti, gol de campo y gol olímpico en un mismo mundial. Asistió en 4 goles más."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Alphonso Davies",
+      "detalle": "Canadá - 5 goles",
+      "descripcion": "Primer canadiense en entrar al top 10 de goleadores de un mundial. Velocidad récord: 36.5 km/h en un contragolpe."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Takumi Minamino",
+      "detalle": "Japón - 5 goles",
+      "descripcion": "Primer asiático en anotar 5 goles en un mundial desde Lee Dong-Gook en 2002. 3 goles de cabeza, todo un record."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Salem Al-Dawsari",
+      "detalle": "Arabia Saudita - 4 goles",
+      "descripcion": "Líder histórico de Arabia en mundiales con 6 goles totales. Dos fueron en tiempo añadido, ambos decisivos."
+    }
+  ],
+  "dato_extra": "🌍 Por primera vez en la historia, ningún europeo está en el top 5 de goleadores. El fútbol se está democratizando como nunca."
+}
