@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 TOP 8: Las bestias que dominan el Mundial 2026",
+  "subtitulo": "¿Quién levantará la copa en la fase final de septiembre?",
+  "fecha": "jueves, 24 de septiembre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "5V 0E 0D | 13:2",
+      "descripcion": "Messi dirige orquesta; defensa de acero y contragolpe letal."
+    },
+    {
+      "posicion": 2,
+      "nombre": "España",
+      "detalle": "5V 0E 0D | 15:3",
+      "descripcion": "Posesión asfixiante; Yamal y Nico desbordan por bandas."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Francia",
+      "detalle": "4V 1E 0D | 12:4",
+      "descripcion": "Mbappé imparable; Camavinga y Tchouaméni dominan el centro."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Brasil",
+      "detalle": "4V 1E 0D | 14:5",
+      "descripcion": "Vinícius y Rodrygo crean caos; Alisson seguro bajo palos."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "4V 0E 1D | 11:3",
+      "descripcion": "Kane goleador histórico; Bellingham llega desde segunda línea."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Alemania",
+      "detalle": "3V 2E 0D | 10:4",
+      "descripcion": "Wirtz y Musiala magia pura; estructura alemana recuperada."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "4V 0E 1D | 13:6",
+      "descripcion": "Nueva generación brilla; Leão y Conceição velocidad pura."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Marruecos",
+      "detalle": "3V 2E 0D | 7:2",
+      "descripcion": "Bono muralla; contragolpes quirúrgicos con En-Nesyri."
+    }
+  ],
+  "dato_extra": "Primera vez en la historia que 4 sudamericanos llegan a cuartos en Mundial fuera de su continente."
+}
