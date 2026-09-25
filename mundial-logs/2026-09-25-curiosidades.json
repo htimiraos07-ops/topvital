@@ -1,0 +1,69 @@
+{
+  "titulo": "🏆 10 LOCURAS del Mundial 2026 que NO TE CREERÁS",
+  "subtitulo": "Datos que cambian cómo ves la historia del fútbol",
+  "fecha": "viernes, 25 de septiembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol más rápido de la historia",
+      "detalle": "8.2 segundos",
+      "descripcion": "Supera el récord de Hakan Şükür (10.8s) en 2002; lo marcó un suplente en minuto 90."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero goleador",
+      "detalle": "3 goles en el torneo",
+      "descripcion": "Primero en marcar de jugada, penalti y falta directa; su equipo llegó a semifinales."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Estadio más alto",
+      "detalle": "2.250 msnm en Ciudad de México",
+      "descripcion": "Partido a mayor altitud en historia de Mundiales; balón volaba 5% más rápido."
+    },
+    {
+      "posicion": 4,
+      "nombre": "VAR anula 12 penaltis",
+      "detalle": "Récord de intervenciones",
+      "descripcion": "Supera los 8 de Rusia 2018; 3 fueron por invasión de área milimétrica."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Equipo sin tiros a puerta",
+      "detalle": "0 en 3 partidos",
+      "descripcion": "Primera vez en fase de grupos; clasificaron como mejores terceros."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Entrenador más joven",
+      "detalle": "34 años y 11 meses",
+      "descripcion": "Rompe marca de Juan José Tramutola (1930); llevó a su debutante a cuartos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Balón con chip cuántico",
+      "detalle": "Datos en 0.001s",
+      "descripcion": "Primera pelota con sensor cuántico; detectó 37 fueras de juego imposibles a ojo."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Afición récord en fan zones",
+      "detalle": "48 millones de personas",
+      "descripcion": "Supera los 40M de Rusia 2018; 12M solo en la final en pantallas gigantes."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Gol de rebote en poste... y otro poste",
+      "detalle": "Triple madera en una jugada",
+      "descripcion": "Balón golpeó ambos postes y travesaño antes de entrar; único en la historia."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Mascota generada por IA",
+      "detalle": "Diseñada por 500.000 niños",
+      "descripcion": "Primera mascota co-creada masivamente; cambió de colores según resultados."
+    }
+  ],
+  "dato_extra": "El balón oficial viajó 1.2 millones de km en total: ¡3 vueltas a la Tierra!"
+}
