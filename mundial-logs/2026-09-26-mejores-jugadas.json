@@ -1,0 +1,39 @@
+{
+  "titulo": "🔥 TOP 5: Las Jugadas que Rompieron el Mundo en el Mundial 2026",
+  "subtitulo": "Estos cinco momentos dejaron sin aliento a miles de millones de personas en todo el planeta.",
+  "fecha": "sábado, 26 de septiembre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "La Chilena de Lautaro",
+      "detalle": "Gol espectacular de chilena al minuto 89 ante Brasil (1-0)",
+      "descripcion": "Una volea perfecta de Lautaro que dejó sin reacción al portero brasileño y desató la locura de la hinchada argentina."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada Imperial de Donnarumma",
+      "detalle": "Penalti salvado en la prórroga, Italia clasificada",
+      "descripcion": "El portero italiano voló como un superhéroe para detener el penalti decisivo y mantener vivas las esperanzas de Italia."
+    },
+    {
+      "posicion": 3,
+      "nombre": "La Magia Colectiva de España",
+      "detalle": "17 pases seguidos en 8 segundos, golazo histórico",
+      "descripcion": "Una jugada ensayada de ballet futbolístico donde España desbordó a toda una defensa con pases imposibles y un remate letal."
+    },
+    {
+      "posicion": 4,
+      "nombre": "El Gol Olímpico de Vinícius",
+      "detalle": "Falta directa al ángulo, gol más rápido del torneo",
+      "descripcion": "El brasileño lanzó una falta directa que irrumpió en el aire y se coló por el ángulo superior, un gol de pura fantasía."
+    },
+    {
+      "posicion": 5,
+      "nombre": "La Remontada de Argentina",
+      "detalle": "Perdían 2-0, ganaron 3-2 en el último suspiro",
+      "descripcion": "Una remontada épica con dos goles en el tiempo de descuento que hizo llorar de alegría a toda una nación y a millones más."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 batió récords con más de 3.500 millones de espectadores en la final, el evento deportivo más visto de la historia."
+}
