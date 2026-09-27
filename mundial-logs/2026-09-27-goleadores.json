@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 TOP 8 GOLEADORES DEL MUNDIAL 2026: ¡RÉCORD HISTÓRICO!",
+  "subtitulo": "Los grandes dominadores del gol en la Copa del Mundo más grande jamás vista",
+  "fecha": "domingo, 27 de septiembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Lautaro Martínez",
+      "detalle": "8 goles | Argentina 🇦🇷",
+      "descripcion": "El torito argentino fue la estrella absoluta del certamen, liderando el ataque con contundencia y definiendo en los momentos clave."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Vinicius Jr.",
+      "detalle": "7 goles | Brasil 🇧🇷",
+      "descripcion": "El fenómeno del Real Madrid brilló con luces propias, desbordando defensas con su velocidad y creatividad en el fútbol brasileño."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Kylian Mbappé",
+      "detalle": "6 goles | Francia 🇫🇷",
+      "descripcion": "El francés alcanzó la cima histórica del Mundial, convirtiéndose en el primer jugador en anotar en seis ediciones consecutivas."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jamal Musiala",
+      "detalle": "6 goles | Alemania 🇩🇪",
+      "descripcion": "El joven prodigio bávaro demostró que Alemania vuelve a ser peligrosa con su magia individual y visión de juego."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Alphonso Davies",
+      "detalle": "5 goles | Canadá 🇨🇦",
+      "descripcion": "El lateral canadiense fue un arma ofensiva letal para el anfitrión, sorprendiendo con sus llegadas al arco rival."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Harry Kane",
+      "detalle": "5 goles | Inglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "descripcion": "El goleador de los Three Lions cumplió su misión, manteniendo su récord de precisión goleadora en el torneo más exigente."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Darwin Núñez",
+      "detalle": "4 goles | Uruguay 🇺🇾",
+      "descripcion": "El delantero charrúa fue fundamental en la clasificación de Uruguay, mostrando su instinto goleador con jugadas de gran intensidad."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Gavi",
+      "detalle": "4 goles | España 🇪🇸",
+      "descripcion": "El joven mediocentro español brilló con su desgaste y olfato goleador, confirmando el relevo generacional en la Roja."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 batió el récord de goles totales con más de 200 tantos en la fase de grupos, superando cualquier edición anterior en la historia del torneo."
+}
