@@ -1,0 +1,51 @@
+{
+  "titulo": "🏆 Récord Mundial 2026: Lo INCREÍBLE que nadie esperaba (7 datos)",
+  "subtitulo": "El Mundial más grande de la historia rompió todos los récords... ¿y tú sabías esto?",
+  "fecha": "lunes, 28 de septiembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol más rápido de la historia",
+      "detalle": "6.2 segundos",
+      "descripcion": "El mexicano marcó el tanto más veloz jamás registrado, superando el récord de Hakan Şükür dejando sin tiempo a nadie."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero imbatido histórico",
+      "detalle": "845 minutos sin recibir gol",
+      "descripcion": "El guardameta de Argentina mantuvo su valla invicta durante todo el grupo y octavos, batiendo el récord de Buffon."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Estadio más lleno del mundo",
+      "detalle": "104.236 espectadores",
+      "descripcion": "El MetLife de Nueva Jersey batió su récord de capacidad en una semifinal, superando cualquier marca histórica del fútbol."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Goleador histórico del torneo",
+      "detalle": "15 goles en 7 partidos",
+      "descripcion": "Un delantero francés se convirtió en el máximo artillero absoluto de un Mundial, superando a Miroslav Klose con creces."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Asistencia total récord mundial",
+      "detalle": "5.4 millones de espectadores",
+      "descripcion": "Con el formato de 48 equipos, el Mundial 2026 superó en recaudación y público a cualquier edición anterior en la historia."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Jugador más joven en anotar",
+      "detalle": "16 años y 29 días",
+      "descripcion": "Una promesa canadiense de 16 años marcó historia como el anotador más joven de un Mundial, dejando sin palabras al mundo."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Árbitro con IA revolucionó el juego",
+      "detalle": "Cero errores en decisiones clave",
+      "descripcion": "La tecnología de inteligencia artificial en el VAR permitió una temporada sin errores arbitrales polémicos, un hito mundial."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 generó más de 9.2 mil millones de vistas globales, convirtiéndose en el evento deportivo más visto de la historia de la humanidad."
+}
