@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 unstoppable juggernauts dominate World Cup 2026!",
+  "subtitulo": "Eight giants rewrite football rules with jaw‑dropping stats and dazzling showdowns!",
+  "fecha": "martes, 29 de septiembre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "PJ 3, G 3, GF 9, GA 2",
+      "descripcion": "Dominant attack, solid defense, early knockout contender."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Brazil",
+      "detalle": "PJ 3, G 3, GF 8, GA 3",
+      "descripcion": "Fluid attack, occasional lapses, yet unstoppable momentum."
+    },
+    {
+      "posicion": 3,
+      "nombre": "France",
+      "detalle": "PJ 3, G 2, GF 7, GA 1",
+      "descripcion": "Versatile squad, strong finishing, dangerous in any stage."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Netherlands",
+      "detalle": "PJ 3, G 2, GF 6, GA 2",
+      "descripcion": "High press, creative midfield, dominates possession battles."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Spain",
+      "detalle": "PJ 3, G 2, GF 5, GA 4",
+      "descripcion": "Patient possession, clinical finishes, resilient defensively."
+    },
+    {
+      "posicion": 6,
+      "nombre": "England",
+      "detalle": "PJ 3, G 2, GF 5, GA 5",
+      "descripcion": "Physical, resilient, scores late and thrives under pressure."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "PJ 3, G 1, GF 4, GA 3",
+      "descripcion": "Star power shines, clutch performances in tight fixtures."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Italy",
+      "detalle": "PJ 3, G 1, GF 4, GA 4",
+      "descripcion": "Defensively disciplined, lucky wins, still alive in the tournament."
+    }
+  ],
+  "dato_extra": "The top-ranked team averages 3 goals per match, the highest scoring rate in World Cup history!"
+}
