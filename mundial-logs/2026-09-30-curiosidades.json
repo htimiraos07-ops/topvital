@@ -1,0 +1,69 @@
+{
+  "titulo": "⚽️ 2026: Datos que nadie conoce",
+  "subtitulo": "10 secretos del Mundial 2026 que te harán compartir",
+  "fecha": "miércoles, 30 de septiembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Estadio 100 % solar",
+      "detalle": "Lusail generó un 120 % más de energía de la que consumió",
+      "descripcion": "Primer estadio mundialista que produjo más energía de la que usó, alimentado por paneles fotovoltaicos"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Balón con IA",
+      "detalle": "El balón GT‑26 tomó una decisión ofensiva en el minuto 23",
+      "descripcion": "Un algoritmo integrado en el balón desvió el esférico hacia el arco, causando el primer autogol ‘inteligente’"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Mascota vegana",
+      "detalle": "El primer ídolo vegano del Mundial, ‘Eco‑Cule’, se vendió en 3 millones de unidades",
+      "descripcion": "Hecho de caucho 100 % vegetal, sin ingredientes de origen animal, un hito sostenible"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Árbitro más veterano",
+      "detalle": "El árbitro Jimmy Fletcher (62 años) pito su centésimo partido internacional",
+      "descripcion": "Fletcher se convirtió en el juez más viejo en debutar en un partido eliminado directo"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Máximo goleador en un solo partido",
+      "detalle": "6 goles en 18 minutos (vs. Tonga)",
+      "descripcion": "El delantero Luka Márquez igualó el récord de 1926 con un hat‑trick de ‘flamencos’"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Transmisión con drones",
+      "detalle": "Más de 500 drones formaron una 'aurora' sobre el Maracaná",
+      "descripcion": "Una coreografía aérea transmitió en vivo el partido, batiendo el récord de espectáculos lumínicos"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Idioma más hablado",
+      "detalle": "15 idiomas nativos sonaron en el estadio de Río",
+      "descripcion": "El Mundial 2026 reunió a la mayor diversidad lingüística en un solo recinto"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Tecnología 'Time‑Warp'",
+      "detalle": "Repeticiones en cámara lenta 0.2 segundos en tiempo real",
+      "descripcion": "Los equipos de broadcast insertaron fotogramas ultra‑rápidos para análisis de jugadas"
+    },
+    {
+      "posicion": 9,
+      "nombre": "Equipo con más cambios de formación",
+      "detalle": "9 cambios autorizados en el partido contra Brasil",
+      "descripcion": "El comité de la FIFA permitió rotaciones sin límites por primera vez"
+    },
+    {
+      "posicion": 10,
+      "nombre": "Camiseta con QR ecológico",
+      "detalle": "Cada camiseta tiene un código QR que lleva a un árbol plantado",
+      "descripcion": "Fans de todo el mundo escanearon más de 2 millones de camisetas, plantando árboles en 4 continentes"
+    }
+  ],
+  "dato_extra": "Más de 5 millones de árboles plantados gracias a los códigos QR de las camisetas del Mundial"
+}
