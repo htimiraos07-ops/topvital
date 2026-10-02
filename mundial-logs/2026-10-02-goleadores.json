@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 ¡LOS 8 ARTILLEROS DEL MUNDIAL 2026!",
+  "subtitulo": "Mbappé y Kane lideran una tabla que sorprende a todos",
+  "fecha": "viernes, 2 de octubre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Lautaro Martínez",
+      "detalle": "7 goles",
+      "descripcion": "Lleva 5 goles seguidos, todos de penal."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Harry Kane",
+      "detalle": "6 goles",
+      "descripcion": "Superó a Pelé como máximo goleador inglés en mundiales."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Kylian Mbappé",
+      "detalle": "6 goles",
+      "descripcion": "Tiene gol en cada partido que ha jugado en el torneo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Vinícius Jr",
+      "detalle": "5 goles",
+      "descripcion": "Su promedio de gol cada 72 minutos es histórico en Brasil."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Alphonso Davies",
+      "detalle": "4 goles",
+      "descripcion": "Primer canadiense en liderar goleo de un mundial en la historia."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Joshua Zirkzee",
+      "detalle": "4 goles",
+      "descripcion": "Surgió de la cantera y explotó como revelación del torneo."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Takumi Minamino",
+      "detalle": "3 goles",
+      "descripcion": "Hizo tripleta ante España en octavos de final, hazaña histórica."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Santiago Giménez",
+      "detalle": "3 goles",
+      "descripcion": "Gritó gol en el Azteca con 80,000 personas, momento inolvidable."
+    }
+  ],
+  "dato_extra": "El torneo ya superó los 150 goles y aún faltan cuartos de final."
+}
