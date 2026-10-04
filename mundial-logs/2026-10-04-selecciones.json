@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 ¡EL TOP 8 QUE ESTÁ DOMINANDO EL MUNDIAL 2026!",
+  "subtitulo": "Nadie puede detener a estas potencias en la conquista de la gloria eterna",
+  "fecha": "domingo, 4 de octubre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Francia",
+      "detalle": "3 PG | 8 GF / 1 GC",
+      "descripcion": "Máxima potencia física y técnica. Su transición defensa-ataque es la más letal del torneo."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Brasil",
+      "detalle": "3 PG | 7 GF / 2 GC",
+      "descripcion": "Juego vistoso y creativo. Dominan la posesión con un ritmo frenético que asfixia rivales."
+    },
+    {
+      "posicion": 3,
+      "nombre": "España",
+      "detalle": "3 PG | 6 GF / 1 GC",
+      "descripcion": "Control total del mediocampo. Su precisión en pases cortos es quirúrgica y desesperante."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Argentina",
+      "detalle": "3 PG | 5 GF / 2 GC",
+      "descripcion": "Orden táctico impecable y jerarquía individual. Saben sufrir y liquidar en momentos clave."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "3 PG | 6 GF / 3 GC",
+      "descripcion": "Un bloque sólido con juego directo muy efectivo. Letal en jugadas a balón parado."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Alemania",
+      "detalle": "2 PG | 5 GF / 3 GC",
+      "descripcion": "Intensidad alemana pura. Presión alta constante que recupera balones en zonas de peligro."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "2 PG | 4 GF / 2 GC",
+      "descripcion": "Talento generacional en ataque. Un equipo capaz de romper cualquier línea defensiva."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Países Bajos",
+      "detalle": "2 PG | 4 GF / 2 GC",
+      "descripcion": "Estructura defensiva impenetrable. Un equipo muy inteligente que aprovecha cada error."
+    }
+  ],
+  "dato_extra": "¡La defensa de Francia es la más sólida del torneo hasta ahora, habiendo concedido solo un gol en tres encuentros!"
+}
