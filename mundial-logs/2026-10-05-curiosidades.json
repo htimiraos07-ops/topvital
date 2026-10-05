@@ -1,0 +1,69 @@
+{
+  "titulo": "🔥 Top 10 secretos del Mundial 2026",
+  "subtitulo": "Datos que no te contaron, récords y anécdotas ocultas del Mundial 2026",
+  "fecha": "lunes, 5 de octubre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Primer Mundial con 48",
+      "detalle": "48 selecciones",
+      "descripcion": "Veinticuatro equipos más que en 2022; el torneo más grande de la historia oficial."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Récord de partidos",
+      "detalle": "104 encuentros",
+      "descripcion": "El Mundial 2026 suma 104 partidos, 52 más que el récord de 1998 con 64."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Grupos de cuatro",
+      "detalle": "12 grupos de 4",
+      "descripcion": "El Mundial 2026 mantiene grupos de 4, pero con 12 grupos y 48 selecciones en juego."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Terceros clasificados",
+      "detalle": "8 terceros avanzan",
+      "descripcion": "Los 8 mejores terceros avanzan a la ronda de 32, un mecanismo inédito para repartir cupos."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Triple sede",
+      "detalle": "3 países organizadores",
+      "descripcion": "Estados Unidos, Canadá y México son los primeros tres coorganizadores de un Mundial."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Azteca histórico",
+      "detalle": "3er Mundial en Azteca",
+      "descripcion": "El Estadio Azteca es el único estadio con tres Mundiales: 1970, 1986 y 2026."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Torneo más largo",
+      "detalle": "39 días de juego",
+      "descripcion": "El Mundial 2026 dura 39 días, 10 más que Qatar 2022, para absorber 104 partidos."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Salto horario",
+      "detalle": "3 horas máximas",
+      "descripcion": "Entre Miami y Vancouver hay 3 horas de diferencia, el mayor salto horario entre sedes."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Maratón de grupos",
+      "detalle": "12 partidos diarios",
+      "descripcion": "La fase de grupos dura 6 días y suma 72 partidos, 4 más por jornada que en 2022."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Más de 4 partidos",
+      "detalle": "67% de selecciones",
+      "descripcion": "El 67% de las selecciones jugará 4 o más partidos; solo 16 se van con 3 encuentros."
+    }
+  ],
+  "dato_extra": "La distancia entre Vancouver y Miami supera los 4,800 km, el mayor recorrido entre sedes."
+}
