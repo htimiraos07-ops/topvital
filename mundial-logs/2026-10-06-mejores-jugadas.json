@@ -1,0 +1,39 @@
+{
+  "titulo": "🌍 El Torneo 2026: ¡Momentos Inolvidables! 🚀",
+  "subtitulo": "Prepárate para ver golpes mágicos que cambiarán la historia del fútbol.",
+  "fecha": "martes, 6 de octubre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Goleada Legendaria",
+      "detalle": "118°",
+      "descripcion": "El delantero tira de esquina con potencia y precisión, provocando gol de decana."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada Maestra del Arquero",
+      "detalle": "3-2",
+      "descripcion": "El arquero desvía un balón raro con reflejo de acriado, salvando el equipo."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Continuo de 7 pases clave",
+      "detalle": "7",
+      "descripcion": "La línea media ejecuta una combinación perfecta de pases largos que abre el cañón."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Carnaval Táctico",
+      "detalle": "30m",
+      "descripcion": "Los cuatro barrajadores rotan el balonete en círculo, creando confusión y espacio."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Ventas de Puntería en Penalty",
+      "detalle": "12",
+      "descripcion": "El mediocampista anula dos penales al final, garantizando la victoria histórica."
+    }
+  ],
+  "dato_extra": "Se introdujo la regla de cambio por tiempo en el Mundial 2026, acelerando los partidos y reduciendo interrupciones."
+}
