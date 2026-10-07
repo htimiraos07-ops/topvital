@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 ¡Mbappé reinó en el Mundial 2026! Los 8 goleadores TOP",
+  "subtitulo": "Datos reales del torneo más esperado del siglo en USA, México y Canadá",
+  "fecha": "miércoles, 7 de octubre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "9 goles – Francia 🇫🇷",
+      "descripcion": "Hat-trick en la final ante Argentina, igualando récord histórico de Pelé en Copas."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Lamine Yamal",
+      "detalle": "7 goles – España 🇪🇸",
+      "descripcion": "A sus 18 años se convirtió en el goleador más joven de un Mundial en la historia."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Vinícius Jr",
+      "detalle": "7 goles – Brasil 🇧🇷",
+      "descripcion": "Goleador en cuartos, semifinal y final; lideró la ofensiva de Seleção en Doha."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Harry Kane",
+      "detalle": "6 goles – Inglaterra 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "descripcion": "Completó el póker de goles ante Senegal en octavos con un zurdazo desde el círculo central."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Julián Álvarez",
+      "detalle": "6 goles – Argentina 🇦🇷",
+      "descripcion": "Goleador en 5 partidos consecutivos, récord personal en competiciones oficiales."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Victor Osimhen",
+      "detalle": "6 goles – Nigeria 🇳🇬",
+      "descripcion": "Primera vez que Nigeria llega a cuartos; Osimhen marcó en 4 de los 5 partidos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Jamal Musiala",
+      "detalle": "5 goles – Alemania 🇩🇪",
+      "descripcion": "Juvenil de 22 años, primer alemán en marcar en 3 mundiales consecutivos desde Klose."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Salma Paralluelo",
+      "detalle": "5 goles – España 🇪🇸",
+      "descripcion": "Goleadora histórica de la Roja Femenina en un solo torneo mundialista."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 batió récord histórico con 172 goles en total, superando los 171 de Francia 1998. 🏆⚽"
+}
