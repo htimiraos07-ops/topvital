@@ -1,0 +1,51 @@
+{
+  "titulo": "⚽¡Mundial 2026: Récord de Goles y Fanáticos del Siglo!",
+  "subtitulo": "Descubre el juego más rápido, el arquejero imbatido y el estadio más repleto jamás visto.",
+  "fecha": "jueves, 8 de octubre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Producción de Gol",
+      "detalle": "72 goles marcados en total",
+      "descripcion": "Más de dos veces la histórica media de una copa."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Arqueador Imbatido",
+      "detalle": "12 partidos sin gol",
+      "descripcion": "El mejor arcoero en la historia del torneo."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Estadio Máximo",
+      "detalle": "Ubicación: Estadio Azteca, CDMX",
+      "descripcion": "Con 89% de capacidad, el llenado histórico."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Récord de Velocidad",
+      "detalle": "Sprint de 37 segundos",
+      "descripcion": "Velocidad máxima registrada durante el torneo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Marca de Asistencias",
+      "detalle": "Lionel Scott con 45 pases clave",
+      "descripcion": "El maestro del control que lideró la creación."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Gol Más Expotente",
+      "detalle": "Disparo de 50 m de fuerza.",
+      "descripcion": "El golpe más potente del evento histórico."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Mayor Horizón de Partido",
+      "detalle": "Duración: 90 minutos sin interrupción.",
+      "descripcion": "El encuentro más extenso jamás disputado."
+    }
+  ],
+  "dato_extra": "Por primera vez se jugarán los ties en dos cámaras virtuales con transmisión en tiempo real."
+}
