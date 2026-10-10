@@ -1,0 +1,69 @@
+{
+  "titulo": "🔥 2026 World Cup: 10 Insane Facts You Never Knew!",
+  "subtitulo": "Get ready to wow friends with these hidden gems from the 2026 FIFA World Cup!",
+  "fecha": "saturday, october 10, 2026",
+  "tipo": "curiosities",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "48‑Team Madness",
+      "detalle": "48 teams, 16 more than the 2022 Qatar edition.",
+      "descripcion": "Largest World Cup ever, expanding from 32 to 48 teams."
+    },
+    {
+      "posicion": 2,
+      "nombre": "AI‑Assisted Referees",
+      "detalle": "70 AI-driven decisions per match on average.",
+      "descripcion": "AI predicts fouls before they happen, cutting VAR reviews by 40%."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Zero‑Carbon Stadiums",
+      "detalle": "100% renewable energy power for all venues.",
+      "descripcion": "Every stadium runs solely on solar + wind, offsetting 100% of emissions."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Digital Fan Voting",
+      "detalle": "Fans vote for goal-line technology in real time.",
+      "descripcion": "Crowd‑sourced tech choices influence match decisions live."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Multi‑City Finals",
+      "detalle": "Final played across New York, Los Angeles, Mexico City & Toronto.",
+      "descripcion": "Four host cities share the final match, breaking traditional single‑venue format."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Record‑Breaking Attendance",
+      "detalle": "Over 5 million tickets sold in 24 hours.",
+      "descripcion": "Pre‑sale frenzy sells over 5 million tickets in 24 hours."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Youth Showcase",
+      "detalle": "30% of squads feature players under 21.",
+      "descripcion": "30% of squads feature players under 21, lowest average age in WC history."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Universal e‑Gaming Stage",
+      "detalle": "First-ever e‑Football tournament integrated into main schedule.",
+      "descripcion": "First-ever e‑Football tournament integrated into main schedule for global fan engagement."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Bilingual Announcements",
+      "detalle": "All stadium PA in English & Spanish.",
+      "descripcion": "All stadium PA in English & Spanish, covering 1.2B speakers worldwide."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Historic Hat‑Trick Rush",
+      "detalle": "First hat‑trick in under 5 minutes recorded.",
+      "descripcion": "Player scores three goals in 4:38, fastest hat‑trick ever recorded."
+    }
+  ],
+  "dato_extra": "The 2026 WC uses biodegradable wristbands that dissolve in water, eliminating 12 tons of plastic each tournament."
+}
