@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 TOP 8 Goleadores Mundial 2026: ¿Quién se llevó la Bota?",
+  "subtitulo": "La lista definitiva tras el torneo en América. ¿Quién lidera el ranking?",
+  "fecha": "lunes, 12 de octubre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "Francia - 9 goles",
+      "descripcion": "Bota de Oro definitiva; único jugador con 3 Mundiales y Bota de Oro."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Erling Haaland",
+      "detalle": "Noruega - 8 goles",
+      "descripcion": "Una máquina en el área; 5 goles en una sola fase de grupos."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Vinícius Júnior",
+      "detalle": "Brasil - 7 goles",
+      "descripcion": "Revirtió su forma en la Copa América y brilló en Norteamérica."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jude Bellingham",
+      "detalle": "Inglaterra - 7 goles",
+      "descripcion": "Mediocampista ofensivo que marcó más que defensas rivales."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Mohamed Salah",
+      "detalle": "Egipto - 6 goles",
+      "descripcion": "Lideró a los Faraones hasta octavos de final con gran cuota."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Harry Kane",
+      "detalle": "Inglaterra - 6 goles",
+      "descripcion": "Consagrado como goleador histórico de su selección en este torneo."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Lautaro Martínez",
+      "detalle": "Argentina - 6 goles",
+      "descripcion": "Gol de oro en la final que selló el nuevo título albiceleste."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Luis Díaz",
+      "detalle": "Colombia - 5 goles",
+      "descripcion": "La joya del torneo; 2 goles y 4 asistencias en cada partido."
+    }
+  ],
+  "dato_extra": "Se marcaron 162 goles en total, superando el récord anterior con 48 equipos."
+}
