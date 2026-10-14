@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽️ Mundial 2026: Las 8 Selecciones que Marcan la Diferencia",
+  "subtitulo": "Argentina busca el tricampeonato; Francia y Brasil acechan el título.",
+  "fecha": "miércoles, 14 de octubre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Brasil",
+      "detalle": "4 victorias, 10GF/2GA",
+      "descripcion": "Ataque letal y defensa sólida, encadenan 4 victorias consecutivas."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Francia",
+      "detalle": "3 victorias, 9GF/3GA",
+      "descripcion": "Juego colectivo rápido; Mbappé y Griezmann lideran la ofensiva."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Argentina",
+      "detalle": "3 victorias, 7GF/2GA",
+      "descripcion": "Messi inspirador; solidez defensiva y contundencia en contraataques."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Inglaterra",
+      "detalle": "3 victorias, 8GF/4GA",
+      "descripcion": "Saka y Kane lideran; juego directo y alto pressing."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Alemania",
+      "detalle": "3 victorias, 7GF/3GA",
+      "descripcion": "Reestructuración táctica; eficacia en transiciones y pelotas quietas."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Portugal",
+      "detalle": "2 victorias, 6GF/2GA",
+      "descripcion": "Ronaldo en racha; equilibrio entre creatividad y rigor táctico."
+    },
+    {
+      "posicion": 7,
+      "nombre": "España",
+      "detalle": "2 victorias, 5GF/2GA",
+      "descripcion": "Dominio de posesión; jóvenes talentos como Yamal y Williams desequilibran."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Marruecos",
+      "detalle": "2 victorias, 5GF/3GA",
+      "descripcion": "Defensa férrea y contraataques rápidos; sorprenden en la fase de grupos."
+    }
+  ],
+  "dato_extra": "Dato extra: En el Mundial 2026, 5 de las 8 selecciones líderes han debutado con victorias por 3-0 o más."
+}
