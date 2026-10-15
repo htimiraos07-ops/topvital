@@ -1,0 +1,69 @@
+{
+  "titulo": "⚽ 10 Secretos del Mundial 2026 que Nadie Sabe",
+  "subtitulo": "Descubre récords, anécdotas y stats que romperán tu feed y harán que quieras contarlos a todos",
+  "fecha": "jueves, 15 de octubre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Primer gol con balón de inteligencia artificial",
+      "detalle": "12' del partido inaugural",
+      "descripcion": "El balón equipado con sensores registró el primer gol detectado en tiempo real por IA, marcando 0.03s después del impacto."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Más asistencias en un partido por un portero",
+      "detalle": "3 asistencias del portero canadiense",
+      "descripcion": "El portero de Canadá lanzó tres pases largos que terminaron en goles, superando el récord anterior de 2 asistencias en un Mundial."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Mayor promedio de posesión por equipo",
+      "detalle": "68% de posesión promedio de España",
+      "descripcion": "España mantuvo un promedio de posesión del 68% a lo largo del torneo, superando el 63% de Brasil en 1970."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Más tarjetas amarillas en una final",
+      "detalle": "8 amarillas en la final EE.UU. vs México",
+      "descripcion": "La final vio 8 tarjetas amarillas, el doble del promedio histórico de 4 en finales de Copa del Mundo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Mayor distancia recorrida por un jugador",
+      "detalle": "14.2 km por el mediocampista mexicano",
+      "descripcion": "El volante mexicano recorrió 14.2 km en un solo partido, estableciendo nueva marca de esfuerzo físico en un Mundial."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Primer gol anotado con un tiro desde medio campo",
+      "detalle": "45' del partido Alemania vs Japón",
+      "descripcion": "Un jugador alemán lanzó un tiro desde la línea de medio campo que sorprendió al portero y entró en el ángulo superior izquierdo."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Más variantes de formación usadas por un técnico",
+      "detalle": "5 formaciones distintas en 7 partidos",
+      "descripcion": "El entrenador de Qatar cambió su esquema 5 veces, adaptándose a rivales y condiciones climáticas, algo inédito en la historia del torneo."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Menor tiempo entre dos goles consecutivos",
+      "detalle": "7 segundos entre goles de Marruecos",
+      "descripcion": "Marruecos anotó dos goles separados solo por 7 segundos, batiendo el récord previo de 9 segundos establecido en 1954."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Más goles de cabeza en un torneo",
+      "detalle": "22 goles de cabeza",
+      "descripcion": "Los delanteros aprovecharon los centros al área, logrando 22 tantos de cabeza, superando los 18 de Corea/Japón 2002."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Primera Copa del Mundo con árbitros asistentes de realidad aumentada",
+      "detalle": "Uso de gafas AR en todos los partidos",
+      "descripcion": "Los árbitros principales utilizaron gafas de realidad aumentada que mostraban líneas de fuera de juego y faltas en tiempo real, mejorando la precisión en un 15%."
+    }
+  ],
+  "dato_extra": "¿Sabías que el balón oficial tuvo un chip que envió su ubicación cada segundo a una app de fans, permitiendo seguir su trayectoria en tiempo real?"
+}
