@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ ¡Mundial 2026: Los momentos que nos cambiaron la vida!",
+  "subtitulo": "¿Cuál jugada te dejó sin palabras mientras el mundo latía?",
+  "fecha": "viernes, 16 de octubre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol del Milagro",
+      "detalle": "3-0 (gol de la victoria al minuto 78')",
+      "descripcion": "Un lanzador de cabeza bajo el arco con la grama salpicada, la afición estalló en un rugido infinito."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada Divina",
+      "detalle": "2-1 (saque de meta detenido)",
+      "descripcion": "El portero bloquea un disparo de contraataque con un gesto de palma, dejando el balón suspendido."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Penal de Cristal",
+      "detalle": "85' (penal convertido)",
+      "descripcion": "Un penal heredado del rebote del defensor, con explosión de velocidad y el silencio quebrado por el grito."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Regate Colectivo",
+      "detalle": "62' (asociación de cinco jugadores)",
+      "descripcion": "Las medias se entrelazaron como una red de luces, culminando en un pase perfecto al delantero."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Cabeazo Heroico",
+      "detalle": "119' (gol de la salvación)",
+      "descripcion": "Un cabezazo final que rompe el viento, transformando el fallo rival en una victoria histórica."
+    }
+  ],
+  "dato_extra": "El nuevo estadio de México registró 200.000 asistentes en su primer partido, superando al Camp Nou."
+}
