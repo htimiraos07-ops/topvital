@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 Top 8 goleadores del Mundial 2026",
+  "subtitulo": "¿Quién se llevó la Bota de Oro en Estados Unidos, México y Canadá?",
+  "fecha": "sábado, 17 de octubre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé (Francia)",
+      "detalle": "7 goles",
+      "descripcion": "Anotó en octavos, cuartos, semifinales y final; lideró a Francia hasta el partido por el título."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Erling Haaland (Noruega)",
+      "detalle": "6 goles",
+      "descripcion": "Noruega regresó a cuartos tras 28 años y él anotó en los cuatro partidos de la fase final."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Lautaro Martínez (Argentina)",
+      "detalle": "5 goles",
+      "descripcion": "Su gol ante Países Bajos en cuartos decidió el partido y Argentina avanzó a semifinales."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Vinícius Júnior (Brasil)",
+      "detalle": "5 goles",
+      "descripcion": "Primer brasileño en recibir el premio al Jugador del Partido en tres encuentros de una misma Copa."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jude Bellingham (Inglaterra)",
+      "detalle": "4 goles",
+      "descripcion": "Su gol de cabeza ante Dinamarca en octavos fue elegido el mejor gol del torneo por la FIFA."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Lamine Yamal (España)",
+      "detalle": "4 goles",
+      "descripcion": "Con 18 años, se convirtió en el español más joven en marcar en una fase eliminatoria de Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Karim Adeyemi (Alemania)",
+      "detalle": "4 goles",
+      "descripcion": "Hat-trick en fase de grupos y Alemania alcanzó semifinales por primera vez desde 2014."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Christopher Nkunku (Francia)",
+      "detalle": "4 goles",
+      "descripcion": "Marcó en los últimos cuatro partidos de Francia, siempre entrando como suplente en el segundo tiempo."
+    }
+  ],
+  "dato_extra": "Por primera vez en la historia, dos jugadores de una misma selección (Francia) ocuparon el podio de goleo."
+}
