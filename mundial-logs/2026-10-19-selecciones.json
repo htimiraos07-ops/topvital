@@ -1,0 +1,57 @@
+{
+  "titulo": "🏆 TOP 8 del Mundial 2026: ¿Quién domina?",
+  "subtitulo": "8 selecciones, 1 sueño: el fútbol que deja sin aliento en 2026",
+  "fecha": "lunes, 19 de octubre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "España",
+      "detalle": "5G | 14 GF - 3 GC",
+      "descripcion": "Control absoluto del balón y presión alta; dominio táctico sin fisuras en cada partido."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Argentina",
+      "detalle": "5G | 11 GF - 4 GC",
+      "descripcion": "Messi lidera una mezcla de experiencia y juventud; contragolpe letal y solidez defensiva."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Francia",
+      "detalle": "4G | 10 GF - 5 GC",
+      "descripcion": "Velocidad en bandas y físico imponente; Mbappé desequilibra en transición rápida."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Brasil",
+      "detalle": "4G | 13 GF - 6 GC",
+      "descripcion": "Juego ofensivo creativo, presión en salida y individualidades que resuelven partidos clave."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "4G | 9 GF - 3 GC",
+      "descripcion": "Defensa ordenada, juego por las bandas y efectividad en jugadas a balón parado."
+    },
+    {
+      "posicion": 6,
+      "nombre": "México",
+      "detalle": "4G | 8 GF - 4 GC",
+      "descripcion": "Apoyo masivo en casa, velocidad por extremos y juego colectivo con identidad propia."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "4G | 10 GF - 5 GC",
+      "descripcion": "Cristiano sigue siendo referencia; equipo equilibrado con transiciones vertiginosas."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Países Bajos",
+      "detalle": "4G | 7 GF - 2 GC",
+      "descripcion": "Sistema táctico rígido, salida limpia desde atrás y solidez defensiva casi infranqueable."
+    }
+  ],
+  "dato_extra": "Ninguna selección anfitriona había llegado tan lejos en un Mundial jugado en suelo norteamericano."
+}
