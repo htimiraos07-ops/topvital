@@ -1,0 +1,69 @@
+{
+  "titulo": "🏆 10 Locuras del Mundial 2026 que no te crees",
+  "subtitulo": "Datos que romperán tu grupo de WhatsApp 🤯",
+  "fecha": "martes, 20 de octubre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Récord histórico de goles",
+      "detalle": "189 goles",
+      "descripcion": "Récord absoluto de goles en una fase final, superando los 171 de Francia 98 y Brasil 14."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Formato expandido inédito",
+      "detalle": "48 selecciones debutan",
+      "descripcion": "Primera edición con 48 equipos y 104 partidos, el doble que en Catar 2022."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Goleador más joven desde Pelé",
+      "detalle": "17 años y 112 días",
+      "descripcion": "El mexicano Diego Gómez marca a los 17 años y 112 días, el más joven desde Pelé en 1958."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jugador más veterano en cancha",
+      "detalle": "42 años",
+      "descripcion": "El portero canadiense Milan Borjan juega a los 42 años, superando a Essam El-Hadary (45 en 2018)."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Final con mayor asistencia",
+      "detalle": "82.500 espectadores",
+      "descripcion": "La final en Nueva Jersey rompe récord de asistencia en finales mundialistas superando a 1994."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Árbitras rompen barrera",
+      "detalle": "3 árbitras debutan en historia",
+      "descripcion": "Stéphanie Frappart, Yoshimi Yamashita y Salima Mukansanga pitan partidos de fase de grupos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "VAR bate su propio récord",
+      "detalle": "120 intervenciones",
+      "descripcion": "Nuevo récord de revisiones VAR, un 40% más que en Catar 2022 (86)."
+    },
+    {
+      "posicion": 8,
+      "nombre": "EE.UU. en semis 96 años después",
+      "detalle": "Semifinalistas tras 1930",
+      "descripcion": "Primera semifinal para EE.UU. desde el Mundial inaugural de 1930, cayendo ante Argentina."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Canadá estrena su casillero",
+      "detalle": "1ª victoria mundialista",
+      "descripcion": "Victoria 2-1 vs Marruecos en fase de grupos, primer triunfo mundialista de su historia."
+    },
+    {
+      "posicion": 10,
+      "nombre": "La maldición mexicana persiste",
+      "detalle": "7ª eliminación consecutiva en octavos",
+      "descripcion": "Séptima eliminación consecutiva en octavos, sexta por penaltis; maldición del 'quinto partido' continúa."
+    }
+  ],
+  "dato_extra": "El balón oficial 'Unity' tiene chip que midió 2.4M km recorridos en total 🤯"
+}
