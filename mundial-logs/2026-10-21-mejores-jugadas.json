@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽!! ¡El Mundial 2026 ERA LEGENDA! 🏆🔥",
+  "subtitulo": "Descubre las jugadas que dejaron el estadio en tiemblos y pasiones!",
+  "fecha": "miércoles, 21 de octubre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol del Imparable",
+      "detalle": "Dobleta en 15 min vs Argentina",
+      "descripcion": "Un doblete espectacular marcó al minuto 23, desatando la hinchada."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Salvador de la Mariposa",
+      "detalle": "Penalto detenido en la final 2-0",
+      "descripcion": "Guardia goleador bloqueó el disparo decisivo con reflexos increíbles."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Contraataque Inicial",
+      "detalle": "Voltiyo del delantero a los 12 segundos",
+      "descripcion": "Rápida combinación rompió la defensa rival y generó ventaja temprana."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Cañonazo de la Esperanza",
+      "detalle": "Gol desde 42m a favor de su selección",
+      "descripcion": "Lanzó desde lejos para sellar la victoria 3-2 en tiempo reglamentario."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Entrada Perfecta del Arribado",
+      "detalle": "70' empate con balón de lujo",
+      "descripcion": "Pase de centróculo glorioso que dio gol antes del tiempo extra."
+    }
+  ],
+  "dato_extra": "El tournament incluirá 68 partidos, el mayor número de encuentros desde 1994."
+}
