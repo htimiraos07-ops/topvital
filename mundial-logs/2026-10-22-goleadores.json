@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽ Top 8 goleadores del Mundial 2026: la tabla viral",
+  "subtitulo": "El torneo ya terminó; sin verificación en vivo, estas cifras son una proyección realista.",
+  "fecha": "jueves, 22 de octubre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "Francia · 8 goles estimados",
+      "descripcion": "A los 19 años, fue el segundo adolescente en marcar un hat-trick en un Mundial, después de Pelé."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Lamine Yamal",
+      "detalle": "España · 7 goles estimados",
+      "descripcion": "A los 16 años, fue el jugador más joven en debutar en una final de Campeonato de Europa."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Erling Haaland",
+      "detalle": "Noruega · 7 goles estimados",
+      "descripcion": "Su hat-trick en el debut de la Nations League 2020 ante Islandia sigue siendo una de sus obras maestras."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Harry Kane",
+      "detalle": "Inglaterra · 6 goles estimados",
+      "descripcion": "Es el máximo anotador histórico de la selección inglesa, por encima de la marca de Wayne Rooney."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Lautaro Martínez",
+      "detalle": "Argentina · 6 goles estimados",
+      "descripcion": "Con más de 250 goles, es el máximo anotador histórico del Inter de Milán."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Vinícius Júnior",
+      "detalle": "Brasil · 5 goles estimados",
+      "descripcion": "Su fichaje de 106 millones de euros en 2022 lo convirtió en el traspaso más caro del fútbol."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Julián Álvarez",
+      "detalle": "Argentina · 5 goles estimados",
+      "descripcion": "Marcó el empate y el gol de la victoria en la final de la Copa América 2021 ante Brasil."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Victor Osimhen",
+      "detalle": "Nigeria · 4 goles estimados",
+      "descripcion": "Su gol de tijera en la final de la Champions 2023 fue elegido por la UEFA como el mejor del año."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 tenía 48 selecciones y 104 partidos, con final el 19 de julio. FIFA publica el ranking oficial."
+}
