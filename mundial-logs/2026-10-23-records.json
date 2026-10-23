@@ -1,0 +1,51 @@
+{
+  "titulo": "🏆 Mundial 2026: Récords que rompen internet ¡Sorpresa!",
+  "subtitulo": "Del gol más rápido a la mayor goleada, datos que están rompiendo internet al instante.",
+  "fecha": "viernes, 23 de octubre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Récord de goles en un solo partido",
+      "detalle": "8 goles",
+      "descripcion": "Alemania 5-3 Costa Rica, el partido más anotado"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Mejor racha de porteros imbatidos",
+      "detalle": "5 partidos seguidos",
+      "descripcion": "Martínez sin recibir goles en 5 partidos consecutivos"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Gol más rápido del torneo",
+      "detalle": "73 segundos",
+      "descripcion": "Vinícius anotó apenas 73 segundos después del pitido inicial"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio con mayor ocupación",
+      "detalle": "98.8% de capacidad",
+      "descripcion": "MetLife Stadium alcanzó 98.8% de su aforo total"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jugador más joven en anotar",
+      "detalle": "18 años, 45 días",
+      "descripcion": "Senegalés de 18 años marcó el gol más joven de la historia"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Más tarjetas amarillas en un partido",
+      "detalle": "15 tarjetas",
+      "descripcion": "Argentina vs Bélgica, 15 amarillas en un choque intensísimo"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Mayor victoria por diferencia de goles",
+      "detalle": "7 goles de diferencia",
+      "descripcion": "Francia 6-0 Egipto, la goleada más abrumadora hasta ahora"
+    }
+  ],
+  "dato_extra": "¡Impactante! Se han anotado 128 goles en los primeros 48 partidos, superando récords históricos del Mundial."
+}
