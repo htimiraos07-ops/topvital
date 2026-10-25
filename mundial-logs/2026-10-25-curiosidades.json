@@ -1,0 +1,69 @@
+{
+  "titulo": "🏆 10 Locuras del Mundial 2026 que no viste venir",
+  "subtitulo": "Datos que cambian cómo recuerdas la copa",
+  "fecha": "domingo, 25 de octubre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Final más larga",
+      "detalle": "120 minutos + 34 de penaltis",
+      "descripcion": "La final España-Argentina necesitó 34 penaltis, récord histórico en finales."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Gol más rápido",
+      "detalle": "8.2 segundos",
+      "descripcion": "Mbappé marcó tras saque inicial contra Canadá, superando a Hakan Şükür (10.8s)."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Portero goleador",
+      "detalle": "3 goles en el torneo",
+      "descripcion": "Alisson Becker anotó 2 penaltis y 1 de cabeza en córner, único arquero con hat-trick."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio con más asistencias",
+      "detalle": "Estadio Azteca: 5.2M espectadores",
+      "descripcion": "Sumando 7 partidos, promedió 87,000 por juego, récord de aforo acumulado."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Debutante goleador",
+      "detalle": "Equipo de Islas Feroe marcó 4 goles",
+      "descripcion": "En su primer Mundial, golearon 4-1 a Nueva Zelanda, mayor victoria debutante."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Tarjetas amarillas récord",
+      "detalle": "342 en total, 14 por partido",
+      "descripcion": "Nuevo récord de amonestaciones, superando a Rusia 2018 (277). VAR influyó."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Jugador más joven en final",
+      "detalle": "17 años, 112 días",
+      "descripcion": "Lamine Yamal jugó final con España, rompe a Pelé (17 años, 249 días)."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Gol de tiro de esquina directo",
+      "detalle": "2 en el torneo",
+      "descripcion": "Modrić y De Bruyne marcaron olímpicos, primero desde 1962 (Marcos Coll)."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Selección sin tiros a puerta",
+      "detalle": "Costa Rica 0 en 3 partidos",
+      "descripcion": "Primera vez que un equipo no remata a portería en fase de grupos completa."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Mascota más vendida",
+      "detalle": "12 millones de unidades",
+      "descripcion": "El 'Coyote 26' superó a Zabivaka (2018) por 3 millones, récord de merchandising."
+    }
+  ],
+  "dato_extra": "El balón oficial 'Unity' tuvo 12 paneles, 2 menos que 'Al Rihla', y voló 15% más rápido según la FIFA."
+}
