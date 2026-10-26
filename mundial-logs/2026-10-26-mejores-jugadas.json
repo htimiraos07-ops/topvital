@@ -1,0 +1,39 @@
+{
+  "titulo": "🔥 Los 5 momentos épicos del Mundial 2026",
+  "subrkulo": "Revive los goles y jugadas que hicieron historia en el torneo",
+  "fecha": "lunes, 26 de octubre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol de Haaland en el minuto 89",
+      "detalle": "Gol de 45 metros",
+      " descripción": "Un golazo de larga distancia que dejó sin aliento al estadio"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada de Neuer en el penalti",
+      "detalle": "Parada decisiva",
+      " descripción": "Neuer detuvo el penal con una refleja increíble, salvando el empate"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugada colectiva de Argentina",
+      "detalle": "Asistencia de Messi",
+      " descripción": "Un pase magistral de Messi iluminó el ataque y generó el gol"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Gol de Mbappé en la final",
+      "detalle": "Gol de 30 metros",
+      " descripción": "Mbappé marcó el gol del título con un disparo imparable"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Cruzada de Cristiano Ronaldo",
+      "detalle": "Cruzada en el minuto 120",
+      " descripción": "Cristiano ejecutó un saque de esquina que terminó en gol"
+    }
+  ],
+  "dato_extra": "El torneo ha superado los 3 goles por partido, récord histórico"
+}
