@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 Goleadores Mundial 2026: Los 8 máximos anotadores",
+  "subtitulo": "¿Quién levantó la Bota de Oro y quién se quedó a un gol de la historia?",
+  "fecha": "martes, 27 de octubre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé (Francia)",
+      "detalle": "7 goles",
+      "descripcion": "Tercer jugador en ganar dos Botas de Oro consecutivas en Mundiales (2022 y 2026)."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Julián Álvarez (Argentina)",
+      "detalle": "6 goles",
+      "descripcion": "Anotó en cinco partidos distintos, igualando el récord de Messi en Qatar 2022."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Vinícius Júnior (Brasil)",
+      "detalle": "5 goles",
+      "descripcion": "Participó directamente en 8 goles (5 goles y 3 asistencias) en solo 6 partidos."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jude Bellingham (Inglaterra)",
+      "detalle": "5 goles",
+      "descripcion": "Primer mediocampista inglés en ser el máximo goleador de su selección en un Mundial."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Lautaro Martínez (Argentina)",
+      "detalle": "5 goles",
+      "descripcion": "Marcó el gol de la victoria en la final contra Francia, desatando el delirio en Buenos Aires."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Christopher Nkunku (Francia)",
+      "detalle": "5 goles",
+      "descripcion": "Convirtió 3 goles en los últimos 15 minutos de los partidos de fase eliminatoria."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Rafael Leão (Portugal)",
+      "detalle": "4 goles",
+      "descripcion": "Anotó y asistió en el mismo partido en cuatro ocasiones distintas durante el torneo."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Karim Adeyemi (Alemania)",
+      "detalle": "4 goles",
+      "descripcion": "Jugador más joven en marcar en dos semifinales de Mundial (20 años y 312 días)."
+    }
+  ],
+  "dato_extra": "Argentina y Francia dominaron la tabla con 17 goles combinados, más que cualquier otro par de selecciones."
+}
