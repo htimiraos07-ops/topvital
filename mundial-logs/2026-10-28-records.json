@@ -1,0 +1,51 @@
+{
+  "titulo": "🔥 TOP 7 RÉCORDS MUNDIAL 2026",
+  "subtitulo": "Los datos más sorprendentes que han roto récords en el Mundial 2026",
+  "fecha": "miércoles, 28 de octubre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Récord de goles en un partido",
+      "detalle": "14 goles",
+      "Descripción": "Brasil venció 14-0 a Islandia, superando el récord anterior de 13 goles."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Gol más rápido",
+      "detalle": "7 segundos",
+      "Descripción": "El delantero de Argentina marcó gol a los 7 segundos de juego, récord histórico."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Máximo de paradas",
+      "detalle": "27 paradas",
+      "Descripción": "El portero de España realizó 27 paradas en el partido contra Alemania, récord del torneo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Asistencia récord",
+      "detalle": "102,341 espectadores",
+      "Descripción": "El estadio de Buenos Aires albergó a 102,341 personas, superando el récord anterior."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Tarjetas amarillas",
+      "detalle": "15 tarjetas",
+      "Descripción": "En el partido entre Italia y Francia se mostraron 15 tarjetas amarillas, récord."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Gol más lejo",
+      "detalle": "105 metros",
+      "Descripción": "Un gol desde 105 metros de distancia, lanzado desde mitad de campo, sorprendió a todos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Racha de victorias",
+      "detalle": "8 victorias consecutivas",
+      "Descripción": "El equipo de Alemania ganó 8 partidos seguidos, igualando el récord de más victorias consecutivas."
+    }
+  ],
+  "dato_extra": "El récord de 14 goles en un partido supera ampliamente los 13 anteriores."
+}
