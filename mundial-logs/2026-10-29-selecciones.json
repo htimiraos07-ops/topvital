@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 Top 8 selecciones que dominan el Mundial 2026",
+  "subtitulo": "¿Sabías que una selección sorpresa lidera el campeonato?",
+  "fecha": "jueves, 29 de octubre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Brasil",
+      "detalle": "5 partidos ganados - 18 goles a favor / 3 en contra",
+      "descripcion": "Brasil combina fuerza ofensiva y solidez defensiva, liderando el Grupo A con un fútbol impecable."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Francia",
+      "detalle": "4 partidos ganados - 15 goles a favor / 5 en contra",
+      "descripcion": "Campeona defensora muestra jerarquía con MBappé y Griezmann, dominando el mediocampo."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Argentina",
+      "detalle": "4 partidos ganados - 12 goles a favor / 4 en contra",
+      "descripcion": "Messi y su equipo ajustan cada vez más su maquinaria ofensiva en busca del t��tulo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "España",
+      "detalle": "4 partidos ganados - 10 goles a favor / 2 en contra",
+      "descripcion": "La furia roja impone su fútbol de posesión y transición, con una defensa casi inquebrantable."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Inglaterra",
+      "detalle": "3 partidos ganados - 11 goles a favor / 6 en contra",
+      "descripcion": "Los Tres Leones sorprenden con intensidad y velocidad, liderando el Grupo D de forma contundente."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Países Bajos",
+      "detalle": "3 partidos ganados - 9 goles a favor / 5 en contra",
+      "descripcion": "Los suizos del norte combinan disciplina táctica y peligro en ataque, muy completos."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "3 partidos ganados - 10 goles a favor / 7 en contra",
+      "descripcion": "CR7 sigue siendo clave, y el equipo muestra madurez en momentos decisivos del campeonato."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Marruecos",
+      "detalle": "3 partidos ganados - 8 goles a favor / 3 en contra",
+      "descripcion": "Los atlas marroquíes sorprenden con organización defensiva y efectividad en transición."
+    }
+  ],
+  "dato_extra": "¿Sabías que Marruecos es la única selección sin perder un partido en fase de grupos del Mundial 2026?"
+}
