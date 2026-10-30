@@ -1,0 +1,69 @@
+{
+  "titulo": "🎉 La Copa del Mundo 2026 que no conoces",
+  "subtitulo": "10 datos sorprendentes que te harán alucinar",
+  "fecha": "viernes, 30 de octubre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "⚽ Goles en el partido inaugural",
+      "detalle": "15 goles en 90 minutos",
+      "descripcion": "Récord absoluto de goles en un partido inaugural, superando los 9 de 1998"
+    },
+    {
+      "posicion": 2,
+      "nombre": "🏟️ Asistencia total al torneo",
+      "detalle": "7,3 millones de espectadores",
+      "descripcion": "La mayor asistencia en la historia del Mundial, un 23 % más que en 2022"
+    },
+    {
+      "posicion": 3,
+      "nombre": "🥇 Más goles en fase de grupos",
+      "detalle": "9 goles por jugador",
+      "descripcion": "Un delantero marcó nueve tantos en solo seis partidos, batiendo el récord anterior de 7 goles"
+    },
+    {
+      "posicion": 4,
+      "nombre": "⏱️ Partido más largo en tiempo real",
+      "detalle": "210 minutos (7 h 30 min)",
+      "descripcion": "Un partido de cuartos de final se prolongó por tres prórrogas sin interrupciones, batiendo el récord de 149 min"
+    },
+    {
+      "posicion": 5,
+      "nombre": "🚴‍♂️ Jugador que recorrió más km",
+      "detalle": "652 km",
+      "descripcion": "Un mediocentro recorrió 652 km en todo el torneo, más que un equipo entero en una temporada"
+    },
+    {
+      "posicion": 6,
+      "nombre": "🦶 Penaltis fallados por equipo",
+      "detalle": "23 fallados",
+      "descripcion": "El equipo con más penaltis fallados en una sola edición, superando los 18 de Brasil 2014"
+    },
+    {
+      "posicion": 7,
+      "nombre": "📢 Lengua más utilizada en las gradas",
+      "detalle": "Español e inglés (empate)",
+      "descripcion": "Por primera vez, español e inglés empatan como idiomas más coreados, reflejando la globalización del fútbol"
+    },
+    {
+      "posicion": 8,
+      "nombre": "🎭 Canto de canción oficial más largo",
+      "detalle": "12 minutos",
+      "descripcion": "El himno oficial se cantó sin parar durante 12 minutos en un estadio, batiendo el récord previo de 4 minutos"
+    },
+    {
+      "posicion": 9,
+      "nombre": "📺 Audiencia televisiva máxima",
+      "detalle": "4500 millones de espectadores",
+      "descripcion": "La final atrajo 4500 millones de telespectadores, casi tres cuartas partes de la población mundial"
+    },
+    {
+      "posicion": 10,
+      "nombre": "🏆 Premio al Fair Play más valioso",
+      "detalle": "Medalla de la UNESCO",
+      "descripcion": "Un equipo recibió la medalla UNESCO por su campaña de inclusión, la primera vez que se otorga en un Mundial"
+    }
+  ],
+  "dato_extra": "El Mundial 2026 batió todos los récords anteriores en una sola edición"
+}
