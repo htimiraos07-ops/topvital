@@ -1,0 +1,39 @@
+{
+  "titulo": "🔥 TOP 5 Mundial 2026: Jugadas que hicieron historia",
+  "subtitulo": "Goles imposibles, paradas de otro mundo y jugadas que ya son leyenda",
+  "fecha": "sábado, 31 de octubre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Chilena del infierno: México 2-1 Brasil",
+      "detalle": "Minuto 90+4, Estadio Azteca",
+      "descripcion": "Raúl Jiménez conectó una chilena imposible en el último suspiro. El Azteca explotó y Brasil se quedó sin aire."
+    },
+    {
+      "posicion": 2,
+      "nombre": "La pared de acero: Martínez detiene a Francia",
+      "detalle": "3 paradas en la tanda de penales",
+      "descripcion": "Dibu Martínez se vistió de héroe en semifinales. Francia falló tres penales y Argentina voló a la final."
+    },
+    {
+      "posicion": 3,
+      "nombre": "La tela de araña: 23 pases y gol de España",
+      "detalle": "0 toques de Alemania antes del gol",
+      "descripcion": "23 pases, posesión absoluta y definición de Yamal. Alemania vio el balón pasar sin poder tocarlo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Misil desde la propia área: Pulisic anota",
+      "detalle": "52 metros, Christian Pulisic",
+      "descripcion": "Pulisic recibió en su área, dribló a dos y lanzó un misil desde mitad de cancha. Golazo del torneo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Volea del título: Lautaro campeón en el 117'",
+      "detalle": "Minuto 117, final del Mundial",
+      "descripcion": "En la prórroga de la final, Lautaro clavó una volea acrobática. Argentina levantó la copa en el último suspiro."
+    }
+  ],
+  "dato_extra": "Este Mundial ya suma 17 goles de chilena, récord absoluto en una sola Copa del Mundo."
+}
