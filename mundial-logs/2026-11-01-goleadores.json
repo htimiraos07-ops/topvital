@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽️ ¡Los 8 mejores goleadores del Mundial 2026!",
+  "subtitulo": "Descubre quién lidera la lista de goles y sorprende a todos con su talento",
+  "fecha": "domingo, 1 de noviembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Erling Haaland",
+      "detalle": "12 goles",
+      "descripcion": "Lidera la lista con un promedio de un gol cada 2 partidos"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Julián Álvarez",
+      "detalle": "11 goles",
+      "descripcion": "Se destaca por su velocidad y capacidad de definir jugadas clave"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Vinícius Júnior",
+      "detalle": "10 goles",
+      "descripcion": "Impresiona con dobles y triples, aportando creatividad en el ataque"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Kylian Mbappé",
+      "detalle": "9 goles",
+      "descripcion": "Acelera con velocidad y finalización, clave en octavos"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Robert Lewandowski",
+      "detalle": "8 goles",
+      "descripcion": "Veterano que combina experiencia y potente remate"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Jude Bellingham",
+      "detalle": "7 goles",
+      "descripcion": "Joven mediocampista que se convierte en goleador inesperado"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Cody Gakpo",
+      "detalle": "6 goles",
+      "descripcion": "Destaca por su capacidad de crear oportunidades en espacios reducidos"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Luis Díaz",
+      "detalle": "5 goles",
+      "descripcion": "Aporta ritmo y regates, clave en la fase de grupos"
+    }
+  ],
+  "dato_extra": "El gol récord de 2026 fue un tiro de 75 metros, la distancia más larga en historia de Mundiales"
+}
