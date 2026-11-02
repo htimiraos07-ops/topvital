@@ -1,0 +1,51 @@
+{
+  "titulo": "🏆 Récords Virales del Mundial 2026 que Rompen Internet!",
+  "subtitulo": "Los récords más impactantes del Mundial 2026 te dejarán sin aliento",
+  "fecha": "lunes, 2 de noviembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol más rápido de la historia",
+      "detalle": "1 min 18 seg: Un delantero abrió el marcador en 78 segundos",
+      "descripcion": "Marca histórica que supera el récord anterior de 2 minutos"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Más goles en un solo partido",
+      "detalle": "8 goles: Estados Unidos 4-4 Ghana, el más goleador",
+      "descripcion": "8 dianas en 90 minutos, superando récords de ediciones anteriores"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Estadio con mayor ocupación",
+      "detalle": "98.6% de lleno en Estadio Azteca",
+      "descripcion": "Coloso superando capacidad oficial por primera vez en un Mundial"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jugador más joven en anotar",
+      "detalle": "18 años, 45 días: Un prodigio se adelanta a todos",
+      "descripcion": "Goleador más joven de la historia reciente de la Copa del Mundo"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Más porteros imbatidos",
+      "detalle": "7 arqueros sin recibir goles en la fase de grupos",
+      "descripcion": "Una racha defensiva sin precedentes en la primera fase"
+    },
+    {
+      "posicion": 6,
+      "nombre": "Más asistencias en un partido",
+      "detalle": "5 asistencias en México 5-1 Canadá",
+      "descripcion": "Un solo jugador hilvanó cinco goles en un mismo encuentro"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Racha invicta más larga",
+      "detalle": "15 partidos sin perder: Un equipo domina la fase final",
+      "descripcion": "Imbatibilidad a lo largo de todo el torneo, récord histórico"
+    }
+  ],
+  "dato_extra": "💥 Dato extra: El Mundial 2026 será el primero con 48 equipos, ¡el doble de partidos y emoción!"
+}
