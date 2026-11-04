@@ -1,0 +1,69 @@
+{
+  "titulo": "🌎 10 secretos del Mundial 2026 que te harán compartir",
+  "subtitulo": "La primera sede triple y récords que rompen todo lo conocido",
+  "fecha": "miércoles, 4 de noviembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "48 equipos por primera vez",
+      "detalle": "104 partidos en total",
+      "descripcion": "El formato 2026 pasó de 32 a 48 selecciones, sumando 40 juegos más que Rusia 2018."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Sede histórica compartida",
+      "detalle": "3 países anfitriones",
+      "descripcion": "Estados Unidos, México y Canadá organizaron juntos, algo nunca visto en un Mundial de fútbol."
+    },
+    {
+      "posicion": 3,
+      "nombre": "El gol más tempranero",
+      "detalle": "68 segundos",
+      "descripcion": "Un delantero anotó antes del primer minuto, superando el récord de 2002 en Corea-Japón."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Más goles en fase de grupos",
+      "detalle": "164 dianas",
+      "descripcion": "Con más equipos y partidos, la fase inicial rompió la marca de 152 goles de Brasil 2014."
+    },
+    {
+      "posicion": 5,
+      "nombre": "El viaje más largo",
+      "detalle": "6,500 km entre sedes",
+      "descripcion": "Una selección recorrió esa distancia entre su primer y segundo partido, cruzando tres zonas horarias."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Árbitro con más pitidos",
+      "detalle": "47 tarjetas en 5 partidos",
+      "descripcion": "Un colegiado estableció récord de amonestaciones en una sola edición del torneo."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Mundial con más penales",
+      "detalle": "29 penales pitados",
+      "descripcion": "El VAR y las nuevas reglas hicieron que este torneo superara los 27 de Rusia 2018."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Jugador más joven",
+      "detalle": "16 años y 114 días",
+      "descripcion": "Un canterano debutó en la fase de grupos, batiendo la marca de Pelé en Suecia 1958."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Estadio más alto",
+      "detalle": "2,240 msnm",
+      "descripcion": "Un recinto en México jugó partidos a mayor altitud que cualquier otro Mundial anterior."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Final con más tiempo añadido",
+      "detalle": "14 minutos extra",
+      "descripcion": "La definición se jugó con el mayor descuento acumulado en una final histórica."
+    }
+  ],
+  "dato_extra": "La mascota oficial fue diseñada por un niño de 9 años mediante un concurso escolar en Canadá."
+}
