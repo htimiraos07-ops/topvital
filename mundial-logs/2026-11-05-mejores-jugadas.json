@@ -1,0 +1,39 @@
+{
+  "titulo": "⚽️ ¡El Mundo 2026: Momentos que Volverán a Sonar!",
+  "subtitulo": "¿Puedes imaginar un balón que baila como un fantasma en el empate sorpresa?",
+  "fecha": "jueves, 5 de noviembre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol del Milagro 87",
+      "detalle": "7-0 contra Brasil al minuto 87, gol de la estrella",
+      "descripcion": "Un remate de cabeza que dejó el estadio en euforia, rompiendo el récord de goles en un solo choque."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Pareja de gol fantasma",
+      "detalle": "45-40 Real Madrid vs. Italia, doblete de J. Silva",
+      "descripcion": "Dos goles en dos minutos que dejaron a todos sin aliento."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Defensa que salvó el campeonato",
+      "detalle": "Un parada de Luka en la fuera del área",
+      "descripcion": "Rescate de último minuto que cambió el destino del torneo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Derby de la historia: Brasil vs. Alemania",
+      "detalle": "90+3 vs. Alemania, gol de anillo del capitán",
+      "descripcion": "El empate tardío que se decidió en una patada al área."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Canonada final sin gol",
+      "detalle": "El disparo cruzado que selló la copa, emocionando a millones",
+      "descripcion": "El goal que cerró la última fase, ¡un momento de puro ensanto!"
+    }
+  ],
+  "dato_extra": "La primera vez que un gol se marcó con una pelota de réplica de cristal, inspirada en la tecnología 2026."
+}
