@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 Top 8 Goleadores del Mundial 2026",
+  "subtitulo": "¿Quién se llevará la Bota de Oro en USA, México y Canadá?",
+  "fecha": "viernes, 6 de noviembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "7 goles - Francia",
+      "descripcion": "Superó a Just Fontaine como máximo goleador histórico de Francia en Mundiales."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Erling Haaland",
+      "detalle": "6 goles - Noruega",
+      "descripcion": "Hat-trick en su debut mundialista y llevó a Noruega a los cuartos de final."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Julián Álvarez",
+      "detalle": "6 goles - Argentina",
+      "descripcion": "Primer argentino en marcar en tres ediciones consecutivas de la Copa del Mundo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jude Bellingham",
+      "detalle": "5 goles - Inglaterra",
+      "descripcion": "Primer centrocampista inglés en terminar como máximo goleador de un Mundial."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Lamine Yamal",
+      "detalle": "5 goles - España",
+      "descripcion": "A sus 18 años, se convirtió en el goleador más joven de España en un Mundial."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Victor Osimhen",
+      "detalle": "5 goles - Nigeria",
+      "descripcion": "Sus goles impulsaron a Nigeria a cuartos de final, su mejor marca desde 1998."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Lautaro Martínez",
+      "detalle": "4 goles - Argentina",
+      "descripcion": "Marcó en el partido inaugural del torneo ante Canadá en el Estadio Azteca."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Cristiano Ronaldo",
+      "detalle": "4 goles - Portugal",
+      "descripcion": "A los 41 años, es el jugador más veterano en anotar en una Copa del Mundo."
+    }
+  ],
+  "dato_extra": "El promedio de goles por partido es el más alto desde México 1986: 2.8 tantos por juego."
+}
