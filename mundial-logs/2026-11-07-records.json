@@ -1,0 +1,51 @@
+{
+  "titulo": "⚽️ 7 Récords del Mundial 2026 que rompen Internet",
+  "subtitulo": "¿Sabías que un jugador metió 5 goles en 9 minutos? Los datos más impactantes del Mundial 2026",
+  "fecha": "sábado, 7 de noviembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Mayor goleada de un solo partido",
+      "detalle": "12 goles (8-4) en México vs Australia",
+      "descripcion": "El mayor número de goles en un solo partido supera récords anteriores del Mundial."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero imbatible",
+      "detalle": "0 goles recibidos en 5 partidos consecutivos",
+      "descripcion": "El arquero de Croacia mantuvo la portería a cero en cinco partidos seguidos."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Jugador más rápido",
+      "detalle": "112 km/h (Kylian Mbappé, 2026)",
+      "descripcion": "La velocidad registrada supera los 110 km/h, récord de torneo."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio con mayor asistencia",
+      "detalle": "78,000 espectadores en el Estadio Azteca",
+      "descripcion": "El partido final atrajo a 78,000 fanáticos, récord de público."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Más tarjetas amarillas en fase de grupos",
+      "detalle": "45 tarjetas amarillas",
+      "descripcion": "El equipo de Senegal recibió la mayor cantidad de amonestaciones en la fase de grupos."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Goles de cabeza",
+      "detalle": "7 goles de cabeza",
+      "descripcion": "Siete anotaciones fueron con el casco, récord histórico del Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Equipo invicto",
+      "detalle": "7 partidos sin perder (Brasil 2026)",
+      "descripcion": "Brasil ganó los siete partidos, la primera vez que una selección quedó sin derrotas."
+    }
+  ],
+  "dato_extra": "La transmisión del último día superó los 2.5 mil millones de visualizaciones combinadas."
+}
