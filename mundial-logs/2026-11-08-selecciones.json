@@ -1,0 +1,57 @@
+{
+  " OMIT ": "🔥 TOP 8 SELECCIONES MUNDIAL 2026",
+  "sub OMIT": "Descubre cuáles son las selecciones que están dominando el torneo",
+  "fecha": "domingo, 8 de noviembre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Argentina",
+      "detalle": "4-0-0, GF 12 GA 2",
+      "Descripción": "Ofensiva brillante y defensa sólida, son los favoritos."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Brazil",
+      "detalle": "3-1-0, GF 9 GA 3",
+      "Descripción": "Juego dinámico, empate clave, pero gran desempeño."
+    },
+    {
+      "posicion": 3,
+      "nombre": "France",
+      "detalle": "3-0-1, GF 8 GA 4",
+      "Descripción": "Victoria contundente, pero derrota ante Brasil."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Germany",
+      "detalle": "2-2-0, GF 7 GA 3",
+      "Descripción": "Equilibrado, empates importantes, sin derrotas."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Spain",
+      "detalle": "2-1-1, GF 6 GA 5",
+      "Descripción": "Juego de posesión, pero sensible en defensa."
+    },
+    {
+      "posicion": 6,
+      "nombre": "England",
+      "detalle": "2-0-2, GF 5 GA 6",
+      "Descripción": "Alternancia de resultados, busca estabilidad."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Italy",
+      "detalle": "1-2-1, GF 4 GA 5",
+      "Descripción": "Empate clave, pero necesitan victoria."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Netherlands",
+      "detalle": "1-1-2, GF 3 GA 6",
+      "Descripción": "Enfrenta difficultades, busca remontada."
+    }
+  ],
+  "dato_extra": "Argentina encabeza con +10 de diferencia, seguido por Brasil con +9."
+}
