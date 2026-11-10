@@ -1,0 +1,39 @@
+{
+  "titulo": "🔥 ¡GOLAZO ÉPICO! Mundial 2026",
+  "subtitulo": "La jugada que rompió la redención del torneo",
+  "fecha": "martes, 10 de noviembre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Doble Salvación Mbappé",
+      "detalle": "2 goles en 4 minutos",
+      "descripcion": "Contra Francia, el balón se convirtió en obra maestra. ¡Inmenso!"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Parada Milagrosa Éderson",
+      "detalle": "Atrapó penal a último segundo",
+      "descripcion": "Con el marcador en contra, el portero negó el Mundial. ¡Épica!"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Muro Colombia 90",
+      "detalle": "5 faltas en 90 minutos",
+      "descripcion": "La defensa aguantó una locura total. Los aficionados lloraron de emoción."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Contragolpe Brasil",
+      "detalle": "3 toques, 1 gol",
+      "descripcion": "El pase perfecto y el remate millimétrico sellaron la final. ¡Silencio roto!"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Gol Olímpico Japón",
+      "detalle": "Gol desde el centro del campo",
+      "descripcion": "El balón cruzó 60 metros solos. La historia se estalló en el estadio."
+    }
+  ],
+  "dato_extra": "El Mundial 2026 tiene más goles que estadios, pero la jugada del año aún no se ve."
+}
