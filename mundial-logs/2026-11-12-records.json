@@ -1,0 +1,51 @@
+{
+  "titulo": "🗽 ¡MUNDIAL 2026 ROMPE TODA LA CIENCIA!",
+  "subtitulo": "¿El récord imposible ya ocurrió? 🧐",
+  "fecha": "jueves, 12 de noviembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Marcador histórico",
+      "detalle": "8 goles en 60 minutos",
+      "descripcion": "Marcador histórico: ningún equipo pudo parar al 8-0 en el minuto 60."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Portero imbatible",
+      "detalle": "2.400 minutos",
+      "descripcion": "Puso un muro que ni el VAR supo explicar en 2.400 minutos."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Velocidad extrema",
+      "detalle": "42 km/h",
+      "descripcion": "Se escapó dos rivales como relámpago en el segundo intento."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio lleno",
+      "detalle": "120.000 espectadores",
+      "descripcion": "Récord absoluto de ocupación en una final mundialista."
+    },
+    {
+      "posicion": 5,
+      "nombre": "VAR instantáneo",
+      "detalle": "0,2 segundos",
+      "descripcion": "El VAR revisó una falta en 0,2 segundos y confirmó milagro."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Tiro libre imposible",
+      "detalle": "89 metros",
+      "descripcion": "Tiro libre desde 89 metros se anidó en el ángulo superior."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Penales mágicos",
+      "detalle": "3 penales",
+      "descripcion": "Convertió tres penales en tres obras de arte individual."
+    }
+  ],
+  "dato_extra": "El árbitro anotó un gol con el pase involuntario. FIFA lo borró, pero el meme quedó."
+}
