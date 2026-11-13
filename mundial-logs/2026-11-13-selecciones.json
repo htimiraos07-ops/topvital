@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽️ Top 8 del Mundial 2026: ¡Sorpresas y gloria!",
+  "subtitulo": "Descubre qué equipos brillan y cuál es su secreto para avanzar",
+  "fecha": "viernes, 13 de noviembre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Brasil",
+      "detalle": "4 victorias",
+      "descripcion": "Juego ofensivo rápido, con 12 goles a favor y solo 3 en contra, dominando el ritmo."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Argentina",
+      "detalle": "3 victorias",
+      "descripcion": "Presión alta y transiciones velociosas, 9 goles a favor, 2 en contra."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Francia",
+      "detalle": "3 victorias",
+      "descripcion": "Defensa compacta y contraataques precisos, 8 goles a favor, 1 en contra."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Alemania",
+      "detalle": "2 victorias",
+      "descripcion": "Control del medio campo, 7 goles a favor, 4 en contra, juego equilibrado."
+    },
+    {
+      "posicion": 5,
+      "nombre": "España",
+      "detalle": "2 victorias",
+      "descripcion": "Posesión dominante, 6 goles a favor, 3 en contra, paciencia táctica."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Portugal",
+      "detalle": "2 victorias",
+      "descripcion": "Cristiano lidera con tiros libres, 5 goles a favor, 5 en contra, mezcla ofensiva."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Inglaterra",
+      "detalle": "2 victorias",
+      "descripcion": "Presión constante, 8 goles a favor, 6 en contra, estilo físico y rápido."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Países Bajos",
+      "detalle": "1 victoria",
+      "descripcion": "Jóvenes talentos, 4 goles a favor, 2 en contra, juego creativo."
+    }
+  ],
+  "dato_extra": "Ningún equipo ha encajado menos de 2 goles en sus 4 partidos, lo que muestra una defensa excepcional."
+}
