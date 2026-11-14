@@ -1,0 +1,69 @@
+{
+  "titulo": "🔥 10 datos del Mundial 2026 que casi nadie conoce",
+  "subtitulo": "Récords de partidos, sedes y una ronda inédita: el Mundial más grande de la historia",
+  "fecha": "sábado, 14 de noviembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "104 partidos",
+      "detalle": "Réccord absoluto: 40 más que Qatar 2022",
+      "descripcion": "El torneo más grande de la historia: 16 sedes, 3 países y 48 selecciones en 39 días."
+    },
+    {
+      "posicion": 2,
+      "nombre": "48 selecciones",
+      "detalle": "La mayor expansión desde 1930",
+      "descripcion": "Desde Francia 1998 se jugaba con 32; en 2026 debutan 16 equipos nuevos en la fase final."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Sede triple",
+      "detalle": "Canadá, México y Estados Unidos",
+      "descripcion": "Nunca tres países habían organizado un Mundial; en 2002 fueron dos: Corea y Japón."
+    },
+    {
+      "posicion": 4,
+      "nombre": "16 ciudades sede",
+      "detalle": "Récord frente a las 12 de Brasil 2014",
+      "descripcion": "De Seattle a Miami, más de 4.000 km separan las dos sedes más lejanas del torneo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Estadio Azteca",
+      "detalle": "Única sede de tres Mundiales",
+      "descripcion": "1970, 1986 y 2026: ningún otro estadio del mundo ha inaugurado tres Copas del Mundo."
+    },
+    {
+      "posicion": 6,
+      "nombre": "39 días de torneo",
+      "detalle": "Del 11 de junio al 19 de julio",
+      "descripcion": "Diez días más que Qatar 2022: el calendario más extenso jamás disputado en un Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "La nueva ronda de 32",
+      "detalle": "Debutan los 32avos de final",
+      "descripcion": "Son 12 grupos de 4: pasan 2 por grupo más los 8 mejores terceros, y luego eliminatoria."
+    },
+    {
+      "posicion": 8,
+      "nombre": "26 jugadores",
+      "detalle": "Listas más grandes que en 2018",
+      "descripcion": "Hasta Rusia 2018 las convocatorias eran de 23; desde Qatar 2022 se ampliaron a 26."
+    },
+    {
+      "posicion": 9,
+      "nombre": "El listón de Klose",
+      "detalle": "16 goles entre 2002 y 2014",
+      "descripcion": "Ningún jugador ha superado los 16 tantos del alemán, récord histórico de los Mundiales."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Solo 8 campeones",
+      "detalle": "En 22 ediciones, 8 países ganaron",
+      "descripcion": "Brasil (5), Alemania e Italia (4), Argentina (3), Francia y Uruguay (2), España e Inglaterra (1)."
+    }
+  ],
+  "dato_extra": "Qatar 2022 tuvo 64 partidos; 2026 juega 104 y además garantiza al menos 3 partidos a cada selección, algo nunca visto."
+}
