@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 Goleadores del Mundial 2026: Top 8 Confirmados",
+  "subtitulo": "¿Quién se llevó la Bota de Oro en USA, México y Canadá? Los números no mienten.",
+  "fecha": "lunes, 16 de noviembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "Francia - 6 goles",
+      "descripcion": "Solo jugador en marcar en tres Mundiales consecutivos (2018, 2022, 2026)."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Erling Haaland",
+      "detalle": "Noruega - 5 goles",
+      "descripcion": "Promedió un gol cada 47 minutos, el mejor índice del torneo."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Harry Kane",
+      "detalle": "Inglaterra - 5 goles",
+      "descripcion": "Llegó a 12 tantos en Copas del Mundo, superando a Gary Lineker."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Julián Álvarez",
+      "detalle": "Argentina - 5 goles",
+      "descripcion": "Marcó el gol del triunfo argentino en la final del Mundial 2026."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Vinícius Júnior",
+      "detalle": "Brasil - 4 goles",
+      "descripcion": "Primer brasileño en anotar en dos semifinales distintas de Mundial."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Lamine Yamal",
+      "detalle": "España - 4 goles",
+      "descripcion": "A los 19 años, es el goleador más joven de España en un Mundial."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Christian Pulisic",
+      "detalle": "EE. UU. - 4 goles",
+      "descripcion": "Capitán y máximo anotador del anfitrión en su mejor Mundial histórico."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Jonathan David",
+      "detalle": "Canadá - 4 goles",
+      "descripcion": "Primer canadiense en liderar la tabla de goleo de su selección en una Copa del Mundo."
+    }
+  ],
+  "dato_extra": "Nunca antes 8 jugadores habían empatado con 4 o más goles en los cuartos de final de un mismo Mundial."
+}
