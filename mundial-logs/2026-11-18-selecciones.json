@@ -1,0 +1,57 @@
+{
+  "titulo": "🔥 Top 8 Selecciones que Brillan en el Mundial 2026",
+  "subtitulo": "¿Quién despierta con el gol más poderoso? 🚨",
+  "fecha": "miércoles, 18 de noviembre de 2026",
+  "tipo": "selecciones",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "España",
+      "detalle": "3W · GF 9 · GA 2",
+      "descripcion": "Furia ofensiva, delanteros explosivos y dominio balístico."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Argentina",
+      "detalle": "2W · GF 7 · GA 3",
+      "descripcion": "Magia en ataque, presión alta y definición letal en el final."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Francia",
+      "detalle": "2W · GF 8 · GA 4",
+      "descripcion": "Juego fluido, gran creatividad y defensa con líneas mixtas."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Inglaterra",
+      "detalle": "2W · GF 6 · GA 3",
+      "descripcion": "Transiciones rápidas, presión tras pérdida y eficacia en área."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Brasil",
+      "detalle": "2W · GF 6 · GA 4",
+      "descripcion": "Saque corto, ritmo y fútbol bonito, con ajustes tácticos."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Alemania",
+      "detalle": "1W · GF 5 · GA 3",
+      "descripcion": "Compacta, solidez y contragolpe letal con gran eficiencia."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Portugal",
+      "detalle": "1W · GF 4 · GA 2",
+      "descripcion": "Juego colectivo, presión alta y dependencia de su gran delantero."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Colombia",
+      "detalle": "1W · GF 3 · GA 2",
+      "descripcion": "Pressing intenso, transiciones rápidas y defensa resistente."
+    }
+  ],
+  "dato_extra": "La selección con mejor diferencia de goles tiene solo tres partidos y ya marca dos veces más que los rivales."
+}
