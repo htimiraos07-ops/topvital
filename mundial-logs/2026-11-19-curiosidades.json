@@ -1,0 +1,69 @@
+{
+  "titulo": "🌍 Mundial 2026: 10 datos que te dejarán boquiabierto",
+  "subtitulo": "Sorprende a tus amigos con estos datos imposibles del mayor torneo del mundo",
+  "fecha": "jueves, 19 de noviembre de 2026",
+  "tipo": "curiosidades",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Expansión sin precedentes",
+      "detalle": "48 selecciones y 80 partidos",
+      "descripcion": "El Mundial más grande de la historia, con 16 grupos de 3 equipos cada uno."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Primera triple sede",
+      "detalle": "EE.UU., México, Canadá",
+      "descripcion": "Nunca un Mundial tuvo tres países anfitriones simultáneos en la historia."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Adiós de Messi",
+      "detalle": "A los 39 años en 2026",
+      "descripcion": "Lionel Messi podría jugar su último Mundial con la albiceleste."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Formato de grupos inédito",
+      "detalle": "Dos primeros + mejores terceros",
+      "descripcion": "Los dos primeros de cada grupo más los ocho mejores terceros pasan a octavos."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Tecnología SAOT",
+      "detalle": "Offside semiautomático",
+      "descripcion": "Sistema de rastreo de 10 balones por segundo para decisiones milimétricas."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Récord de asistencia 1994",
+      "detalle": "Promedio 68,000 por partido",
+      "descripcion": "El Mundial de EE.UU. 1994 sigue siendo el de mayor asistencia promedio por espectador."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Gira del trofeo",
+      "detalle": "91 países en 365 días",
+      "descripcion": "El trofeo visita casi todas las asociaciones FIFA antes del torneo."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Estadios de última generación",
+      "detalle": "16 sedes modernas",
+      "descripcion": "Desde el MetLife Stadium al Azteca, la infraestructura combina tecnología y diseño sostenible."
+    },
+    {
+      "posicion": 9,
+      "nombre": "Verano norteño",
+      "detalle": "No hay invierno",
+      "descripcion": "Se disputa en junio-julio, rompiendo la tradición de noviembre-diciembre desde 1930."
+    },
+    {
+      "posicion": 10,
+      "nombre": "Máximos artilleros en pista",
+      "detalle": "Messi y Cristiano",
+      "descripcion": "Será el primer Mundial donde ambos pelean por el récord histórico de goles."
+    }
+  ],
+  "dato_extra": "💡 Dato extra: El Mundial 2026 será el primero con 48 equipos, 80 partidos y tres naciones anfitrionas al mismo tiempo."
+}
