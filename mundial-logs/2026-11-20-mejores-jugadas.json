@@ -1,0 +1,39 @@
+{
+  "titulo": "🔥 TOP 5: Momentos que HICIERON HISTORIA en el Mundial 2026",
+  "subtitulo": "¿Te los perdiste? El fútbol cambió para siempre estos días...",
+  "fecha": "viernes, 20 de noviembre de 2026",
+  "tipo": "mejores-jugadas",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "La 'Chilena del Siglo' de Mbappé vs Brasil (Cuartos)",
+      "detalle": "Minuto 119 - Gol de oro",
+      "descripcion": "Kylian voló en el Azteca: control orientado de espaldas, tijera imposible al ángulo superior. Neymar aplaudió desde el banco. Francia en semis."
+    },
+    {
+      "posicion": 2,
+      "nombre": "La 'Pared de Hielo' de Unai Simón vs Argentina (Semis)",
+      "detalle": "3 atajadas en 60 segundos (min 88-89)",
+      "descripcion": "Messi, Lautaro, Álvarez... todos chocaron contra el muro español. Reacción felina, reflejos de gato. España sobrevive y fuerza penales."
+    },
+    {
+      "posicion": 3,
+      "nombre": "El 'Tiki-Taka Relámpago': 24 toques, 1 gol (España vs Alemania)",
+      "detalle": "Jugada colectiva más larga del torneo",
+      "descripcion": "Desde el portero hasta la red sin que un alemán oliera el balón. Pedri, Gavi, Yamal, Olmo... definición de tacón de Morata. Arte puro."
+    },
+    {
+      "posicion": 4,
+      "nombre": "El 'Milagro de Miami': Japón remonta 0-3 a Inglaterra (Octavos)",
+      "detalle": "3 goles en 8 minutos (min 82-90)",
+      "descripcion": "Inglaterra paseaba la clase. Kubo, Mitoma y Doan desataron el caos. Kane miraba el reloj sin creerlo. Penales y Japón a cuartos histórico."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Debut soñado de Endrick: Sombrero + volea vs Uruguay (Fase Grupos)",
+      "detalle": "Gol del torneo (Votación FIFA)",
+      "descripcion": "18 años, final del Maracaná. Recibe de espaldas, se la pone por encima a Giménez y fusila de volea seca al palo largo. Nacida una estrella."
+    }
+  ],
+  "dato_extra": "¡Primera vez en la historia que 4 selecciones no europeas/sudamericanas alcanzan Cuartos de Final! 🌍🏆"
+}
