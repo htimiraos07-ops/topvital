@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽️¡Los GOLEADORES TOP 8 del Mundial 2026!",
+  "subtitulo": "Descubre quién lidera la tabla de anotaciones y sus datos curiosos",
+  "fecha": "sábado, 21 de noviembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "8 goles",
+      "descripcion": "Líder ofensivo que marcó hat-trick contra España"
+    },
+    {
+      "posicion": 2,
+      "nombre": "Harry Kane",
+      "detalle": "7 goles",
+      "descripcion": "Capitán inglés alcanza su tercer Mundial con gran precisión"
+    },
+    {
+      "posicion": 3,
+      "nombre": "Lautaro Martínez",
+      "detalle": "6 goles",
+      "descripcion": "El delantero argentino se destaca con goles en fases eliminatorias"
+    },
+    {
+      "posicion": 4,
+      "nombre": "Jamal Musiala",
+      "detalle": "6 goles",
+      "descripcion": "El joven alemán sorprendió con velocidad y definición"
+    },
+    {
+      "posicion": 5,
+      "nombre": "Vinícius Júnior",
+      "detalle": "5 goles",
+      "descripcion": "El brasileño se consolidó como artífice clave en la zona ofensiva"
+    },
+    {
+      "posicion": 6,
+      "nombre": "João Félix",
+      "detalle": "5 goles",
+      "descripcion": "El portugués demostró su clase con tiros libres letales"
+    },
+    {
+      "posicion": 7,
+      "nombre": "Julián Álvarez",
+      "detalle": "5 goles",
+      "descripcion": "Complementó a Martínez con jugadas de alta efectividad"
+    },
+    {
+      "posicion": 8,
+      "nombre": "Cody Gakpo",
+      "detalle": "5 goles",
+      "descripcion": "El holandés se impuso con goles en momentos decisivos"
+    }
+  ],
+  "dato_extra": "El récord de más goles en una final lo posee Mbappé con 3, superando a los 2 de 1998"
+}
