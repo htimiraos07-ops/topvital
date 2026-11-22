@@ -1,0 +1,51 @@
+{
+  "titulo": "🏆 Mundial 2026: Récords que te dejarán boquiabierto!",
+  "subtitulo": "¿Gol en 12 segundos? ¿8 goles en un solo partido? Descubre los datos impactantes de la Copa.",
+  "fecha": "domingo, 22 de noviembre de 2026",
+  "tipo": "records",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Gol más rápido de la historia",
+      "detalle": "12 segundos tras el pitido inicial",
+      "descripcion": "Un delantero conectó un disparo desde fuera del área antes de que la defensa se posicionara."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Partido con más goles en un solo Mundial",
+      "detalle": "8 goles (4-4 entre Alemania y Brasil)",
+      "descripcion": "Un empate histórico que batió el récord de anotaciones en fase de grupos."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Arquero más minutos sin recibir goles",
+      "detalle": "540 minutos imbatidos",
+      "descripcion": "El portero argentino mantuvo su arco en cero en los 5 primeros encuentros."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Estadio con mayor asistencia",
+      "detalle": "82,500 espectadores en MetLife Stadium",
+      "descripcion": "El coloso de Nueva Jersey recibió a capacidad plena en la final de grupos."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jugador más joven en anotar",
+      "detalle": "18 años y 45 días",
+      "descripcion": "Un talento emergente se convirtió en el goleador más joven de la historia del torneo."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Más asistencias en un solo partido",
+      "detalle": "5 asistencias en 90 minutos",
+      "descripcion": "Un centrocampista visionario abrió a sus compañeros cinco veces con precisión quirúrgica."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Tarjetas rojas más rápidas",
+      "detalle": "3 rojas en los primeros 15 minutos",
+      "descripcion": "Un partido caótico vio tres expulsiones antes del primer gol."
+    }
+  ],
+  "dato_extra": "🇺🇸🇨🇦🇲🇽: El Mundial 2026 es el primero con 48 equipos, 16 sedes y una expansión histórica que rompe esquemas globales."
+}
