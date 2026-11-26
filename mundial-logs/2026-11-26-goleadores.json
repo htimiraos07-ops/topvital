@@ -1,0 +1,57 @@
+{
+  "titulo": "⚽ TOP 8 GOLEADORES MUNDIAL 2026: ¡HISTORIA PURA!",
+  "subtitulo": "Los artilleros que encendieron la fiesta en Norteamérica: récords, sorpresas y leyendas.",
+  "fecha": "jueves, 26 de noviembre de 2026",
+  "tipo": "goleadores",
+  "items": [
+    {
+      "posicion": 1,
+      "nombre": "Kylian Mbappé",
+      "detalle": "7 goles",
+      "descripcion": "Segundo Bota de Oro consecutivo; iguala a Ronaldo como máximos goleadores en fases finales."
+    },
+    {
+      "posicion": 2,
+      "nombre": "Harry Kane",
+      "detalle": "6 goles",
+      "descripcion": "Capitán inglés rompe récord de goles en una sola edición para su selección (antes 5)."
+    },
+    {
+      "posicion": 3,
+      "nombre": "Vinícius Júnior",
+      "detalle": "6 goles",
+      "descripcion": "Lideró a Brasil al hexa; primer brasileño en marcar en 5 partidos seguidos en un Mundial."
+    },
+    {
+      "posicion": 4,
+      "nombre": "Julián Álvarez",
+      "detalle": "5 goles",
+      "descripcion": "La 'Araña' supera a Batistuta como máximo goleador argentino en una sola Copa del Mundo."
+    },
+    {
+      "posicion": 5,
+      "nombre": "Jamal Musiala",
+      "detalle": "5 goles",
+      "descripcion": "A sus 23 años, se convierte en el alemán más joven en alcanzar 5 goles en un torneo."
+    },
+    {
+      "posicion": 6,
+      "nombre": "Pedri",
+      "detalle": "4 goles",
+      "descripcion": "El cerebro de España marca en cuartos, semis y final; primer centrocampista top-6 desde 2010."
+    },
+    {
+      "posicion": 7,
+      "nombre": "Jonathan David",
+      "detalle": "4 goles",
+      "descripcion": "Héroe canadiense: lleva a su país a cuartos de final por primera vez en la historia."
+    },
+    {
+      "posicion": 8,
+      "nombre": "Santiago Giménez",
+      "detalle": "4 goles",
+      "descripcion": "México rompe la maldición del quinto partido; 'Bebote' marca en octavos y cuartos."
+    }
+  ],
+  "dato_extra": "Mbappé (28) y Kane (33) son la dupla de mayor edad combinada en liderar la tabla goleadora desde 1994. ¡La experiencia ganó!"
+}
